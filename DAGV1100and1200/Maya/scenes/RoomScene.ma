@@ -1,71 +1,76 @@
 //Maya ASCII 2026 scene
 //Name: RoomScene.ma
-//Last modified: Wed, Oct 15, 2025 08:00:24 PM
+//Last modified: Thu, Oct 16, 2025 09:28:04 PM
 //Codeset: 1252
-file -rdi 1 -ns "Table" -rfn "TableRN" -op "v=0;" -typ "mayaAscii" "E:/Github storage/dagv/Essentials/DAGV1100and1200/Maya/scenes//reference/Table.ma";
-file -rdi 1 -ns "shelfBook" -rfn "shelfBookRN" -op "v=0;" -typ "mayaAscii" "E:/Github storage/dagv/Essentials/DAGV1100and1200/Maya/scenes//reference/shelfBook.ma";
-file -rdi 1 -ns "chair" -rfn "chairRN" -op "v=0;" -typ "mayaAscii" "E:/Github storage/dagv/Essentials/DAGV1100and1200/Maya/scenes//reference/chair.ma";
-file -rdi 1 -ns "chair1" -rfn "chairRN1" -op "v=0;" -typ "mayaAscii" "E:/Github storage/dagv/Essentials/DAGV1100and1200/Maya/scenes//reference/chair.ma";
-file -rdi 1 -ns "couch" -dr 1 -rfn "couchRN" -op "v=0;" -typ "mayaAscii" "E:/Github storage/dagv/Essentials/DAGV1100and1200/Maya/scenes//reference/couch.ma";
-file -rdi 1 -ns "chair2" -rfn "chairRN2" -op "v=0;" -typ "mayaAscii" "E:/Github storage/dagv/Essentials/DAGV1100and1200/Maya/scenes//reference/chair.ma";
-file -rdi 1 -ns "bookLay" -rfn "bookLayRN" -op "v=0;" -typ "mayaAscii" "E:/Github storage/dagv/Essentials/DAGV1100and1200/Maya/scenes//reference/bookLay.ma";
-file -rdi 1 -ns "lamp" -rfn "lampRN" -op "v=0;" -typ "mayaAscii" "E:/Github storage/dagv/Essentials/DAGV1100and1200/Maya/scenes//reference/lamp.ma";
-file -rdi 1 -ns "bookPile" -rfn "bookPileRN" -op "v=0;" -typ "mayaAscii" "E:/Github storage/dagv/Essentials/DAGV1100and1200/Maya/scenes//reference/bookPile.ma";
+file -rdi 1 -ns "Table" -rfn "TableRN" -op "v=0;" -typ "mayaAscii" "E:/Github storage/dagv/Essentials/DAGV1100and1200/Maya//scenes//reference/Table.ma";
+file -rdi 1 -ns "shelfBook" -rfn "shelfBookRN" -op "v=0;" -typ "mayaAscii" "E:/Github storage/dagv/Essentials/DAGV1100and1200/Maya//scenes//reference/shelfBook.ma";
+file -rdi 1 -ns "chair" -rfn "chairRN" -op "v=0;" -typ "mayaAscii" "E:/Github storage/dagv/Essentials/DAGV1100and1200/Maya//scenes//reference/chair.ma";
+file -rdi 1 -ns "chair1" -rfn "chairRN1" -op "v=0;" -typ "mayaAscii" "E:/Github storage/dagv/Essentials/DAGV1100and1200/Maya//scenes//reference/chair.ma";
+file -rdi 1 -ns "couch" -dr 1 -rfn "couchRN" -op "v=0;" -typ "mayaAscii" "E:/Github storage/dagv/Essentials/DAGV1100and1200/Maya//scenes//reference/couch.ma";
+file -rdi 1 -ns "chair2" -rfn "chairRN2" -op "v=0;" -typ "mayaAscii" "E:/Github storage/dagv/Essentials/DAGV1100and1200/Maya//scenes//reference/chair.ma";
+file -rdi 1 -ns "bookLay" -rfn "bookLayRN" -op "v=0;" -typ "mayaAscii" "E:/Github storage/dagv/Essentials/DAGV1100and1200/Maya//scenes//reference/bookLay.ma";
+file -rdi 1 -ns "lamp" -rfn "lampRN" -op "v=0;" -typ "mayaAscii" "E:/Github storage/dagv/Essentials/DAGV1100and1200/Maya//scenes//reference/lamp.ma";
+file -rdi 1 -ns "bookPile" -rfn "bookPileRN" -op "v=0;" -typ "mayaAscii" "E:/Github storage/dagv/Essentials/DAGV1100and1200/Maya//scenes//reference/bookPile.ma";
 file -rdi 1 -ns "bookShelf0" -rfn "bookShelf0RN" -op "v=0;" -typ "mayaAscii"
-		 "E:/Github storage/dagv/Essentials/DAGV1100and1200/Maya/scenes//reference/bookShelf0.ma";
+		 "E:/Github storage/dagv/Essentials/DAGV1100and1200/Maya//scenes//reference/bookShelf0.ma";
 file -rdi 1 -ns "bookShelf1" -rfn "bookShelf1RN" -op "v=0;" -typ "mayaAscii"
-		 "E:/Github storage/dagv/Essentials/DAGV1100and1200/Maya/scenes//reference/bookShelf1.ma";
+		 "E:/Github storage/dagv/Essentials/DAGV1100and1200/Maya//scenes//reference/bookShelf1.ma";
 file -rdi 1 -ns "bookShelf2" -rfn "bookShelf2RN" -op "v=0;" -typ "mayaAscii"
-		 "E:/Github storage/dagv/Essentials/DAGV1100and1200/Maya/scenes//reference/bookShelf2.ma";
-file -rdi 1 -ns "Unit5_LabScene" -rfn "Unit5_LabSceneRN" -op "v=0;" -typ "mayaAscii"
-		 "E:/Github storage/dagv/Essentials/DAGV1100and1200/Maya/scenes//reference/Unit5_LabScene.ma";
-file -rdi 1 -ns "couch1" -rfn "couchRN1" -op "v=0;" -typ "mayaAscii" "E:/Github storage/dagv/Essentials/DAGV1100and1200/Maya/scenes//reference/couch.ma";
+		 "E:/Github storage/dagv/Essentials/DAGV1100and1200/Maya//scenes//reference/bookShelf2.ma";
+file -rdi 1 -ns "Unit5_LabScene" -dr 1 -rfn "Unit5_LabSceneRN" -op "v=0;" -typ
+		 "mayaAscii" "E:/Github storage/dagv/Essentials/DAGV1100and1200/Maya//scenes//reference/Unit5_LabScene.ma";
+file -rdi 1 -ns "couch1" -rfn "couchRN1" -op "v=0;" -typ "mayaAscii" "E:/Github storage/dagv/Essentials/DAGV1100and1200/Maya//scenes//reference/couch.ma";
 file -rdi 1 -ns "pillowCouch" -rfn "pillowCouchRN" -op "v=0;" -typ "mayaAscii"
-		 "E:/Github storage/dagv/Essentials/DAGV1100and1200/Maya/scenes//reference/pillowCouch.ma";
-file -r -ns "Table" -dr 1 -rfn "TableRN" -op "v=0;" -typ "mayaAscii" "E:/Github storage/dagv/Essentials/DAGV1100and1200/Maya/scenes//reference/Table.ma";
-file -r -ns "shelfBook" -dr 1 -rfn "shelfBookRN" -op "v=0;" -typ "mayaAscii" "E:/Github storage/dagv/Essentials/DAGV1100and1200/Maya/scenes//reference/shelfBook.ma";
-file -r -ns "chair" -dr 1 -rfn "chairRN" -op "v=0;" -typ "mayaAscii" "E:/Github storage/dagv/Essentials/DAGV1100and1200/Maya/scenes//reference/chair.ma";
-file -r -ns "chair1" -dr 1 -rfn "chairRN1" -op "v=0;" -typ "mayaAscii" "E:/Github storage/dagv/Essentials/DAGV1100and1200/Maya/scenes//reference/chair.ma";
-file -r -ns "couch" -dr 1 -rfn "couchRN" -op "v=0;" -typ "mayaAscii" "E:/Github storage/dagv/Essentials/DAGV1100and1200/Maya/scenes//reference/couch.ma";
-file -r -ns "chair2" -dr 1 -rfn "chairRN2" -op "v=0;" -typ "mayaAscii" "E:/Github storage/dagv/Essentials/DAGV1100and1200/Maya/scenes//reference/chair.ma";
-file -r -ns "bookLay" -dr 1 -rfn "bookLayRN" -op "v=0;" -typ "mayaAscii" "E:/Github storage/dagv/Essentials/DAGV1100and1200/Maya/scenes//reference/bookLay.ma";
-file -r -ns "lamp" -dr 1 -rfn "lampRN" -op "v=0;" -typ "mayaAscii" "E:/Github storage/dagv/Essentials/DAGV1100and1200/Maya/scenes//reference/lamp.ma";
-file -r -ns "bookPile" -dr 1 -rfn "bookPileRN" -op "v=0;" -typ "mayaAscii" "E:/Github storage/dagv/Essentials/DAGV1100and1200/Maya/scenes//reference/bookPile.ma";
-file -r -ns "bookShelf0" -dr 1 -rfn "bookShelf0RN" -op "v=0;" -typ "mayaAscii" "E:/Github storage/dagv/Essentials/DAGV1100and1200/Maya/scenes//reference/bookShelf0.ma";
-file -r -ns "bookShelf1" -dr 1 -rfn "bookShelf1RN" -op "v=0;" -typ "mayaAscii" "E:/Github storage/dagv/Essentials/DAGV1100and1200/Maya/scenes//reference/bookShelf1.ma";
-file -r -ns "bookShelf2" -dr 1 -rfn "bookShelf2RN" -op "v=0;" -typ "mayaAscii" "E:/Github storage/dagv/Essentials/DAGV1100and1200/Maya/scenes//reference/bookShelf2.ma";
+		 "E:/Github storage/dagv/Essentials/DAGV1100and1200/Maya//scenes//reference/pillowCouch.ma";
+file -rdi 1 -ns "Unit5_LabScene1" -rfn "Unit5_LabSceneRN1" -op "v=0;" -typ "mayaAscii"
+		 "E:/Github storage/dagv/Essentials/DAGV1100and1200/Maya//scenes/reference/Unit5_LabScene.ma";
+file -r -ns "Table" -dr 1 -rfn "TableRN" -op "v=0;" -typ "mayaAscii" "E:/Github storage/dagv/Essentials/DAGV1100and1200/Maya//scenes//reference/Table.ma";
+file -r -ns "shelfBook" -dr 1 -rfn "shelfBookRN" -op "v=0;" -typ "mayaAscii" "E:/Github storage/dagv/Essentials/DAGV1100and1200/Maya//scenes//reference/shelfBook.ma";
+file -r -ns "chair" -dr 1 -rfn "chairRN" -op "v=0;" -typ "mayaAscii" "E:/Github storage/dagv/Essentials/DAGV1100and1200/Maya//scenes//reference/chair.ma";
+file -r -ns "chair1" -dr 1 -rfn "chairRN1" -op "v=0;" -typ "mayaAscii" "E:/Github storage/dagv/Essentials/DAGV1100and1200/Maya//scenes//reference/chair.ma";
+file -r -ns "couch" -dr 1 -rfn "couchRN" -op "v=0;" -typ "mayaAscii" "E:/Github storage/dagv/Essentials/DAGV1100and1200/Maya//scenes//reference/couch.ma";
+file -r -ns "chair2" -dr 1 -rfn "chairRN2" -op "v=0;" -typ "mayaAscii" "E:/Github storage/dagv/Essentials/DAGV1100and1200/Maya//scenes//reference/chair.ma";
+file -r -ns "bookLay" -dr 1 -rfn "bookLayRN" -op "v=0;" -typ "mayaAscii" "E:/Github storage/dagv/Essentials/DAGV1100and1200/Maya//scenes//reference/bookLay.ma";
+file -r -ns "lamp" -dr 1 -rfn "lampRN" -op "v=0;" -typ "mayaAscii" "E:/Github storage/dagv/Essentials/DAGV1100and1200/Maya//scenes//reference/lamp.ma";
+file -r -ns "bookPile" -dr 1 -rfn "bookPileRN" -op "v=0;" -typ "mayaAscii" "E:/Github storage/dagv/Essentials/DAGV1100and1200/Maya//scenes//reference/bookPile.ma";
+file -r -ns "bookShelf0" -dr 1 -rfn "bookShelf0RN" -op "v=0;" -typ "mayaAscii" "E:/Github storage/dagv/Essentials/DAGV1100and1200/Maya//scenes//reference/bookShelf0.ma";
+file -r -ns "bookShelf1" -dr 1 -rfn "bookShelf1RN" -op "v=0;" -typ "mayaAscii" "E:/Github storage/dagv/Essentials/DAGV1100and1200/Maya//scenes//reference/bookShelf1.ma";
+file -r -ns "bookShelf2" -dr 1 -rfn "bookShelf2RN" -op "v=0;" -typ "mayaAscii" "E:/Github storage/dagv/Essentials/DAGV1100and1200/Maya//scenes//reference/bookShelf2.ma";
 file -r -ns "Unit5_LabScene" -dr 1 -rfn "Unit5_LabSceneRN" -op "v=0;" -typ "mayaAscii"
-		 "E:/Github storage/dagv/Essentials/DAGV1100and1200/Maya/scenes//reference/Unit5_LabScene.ma";
-file -r -ns "couch1" -dr 1 -rfn "couchRN1" -op "v=0;" -typ "mayaAscii" "E:/Github storage/dagv/Essentials/DAGV1100and1200/Maya/scenes//reference/couch.ma";
+		 "E:/Github storage/dagv/Essentials/DAGV1100and1200/Maya//scenes//reference/Unit5_LabScene.ma";
+file -r -ns "couch1" -dr 1 -rfn "couchRN1" -op "v=0;" -typ "mayaAscii" "E:/Github storage/dagv/Essentials/DAGV1100and1200/Maya//scenes//reference/couch.ma";
 file -r -ns "pillowCouch" -dr 1 -rfn "pillowCouchRN" -op "v=0;" -typ "mayaAscii"
-		 "E:/Github storage/dagv/Essentials/DAGV1100and1200/Maya/scenes//reference/pillowCouch.ma";
+		 "E:/Github storage/dagv/Essentials/DAGV1100and1200/Maya//scenes//reference/pillowCouch.ma";
+file -r -ns "Unit5_LabScene1" -dr 1 -rfn "Unit5_LabSceneRN1" -op "v=0;" -typ "mayaAscii"
+		 "E:/Github storage/dagv/Essentials/DAGV1100and1200/Maya//scenes/reference/Unit5_LabScene.ma";
 requires maya "2026";
 requires "stereoCamera" "10.0";
 requires -nodeType "aiOptions" -nodeType "aiAOVDriver" -nodeType "aiAOVFilter" -nodeType "aiImagerDenoiserOidn"
 		 "mtoa" "5.5.3";
+requires "stereoCamera" "10.0";
 currentUnit -l centimeter -a degree -t film;
 fileInfo "application" "maya";
 fileInfo "product" "Maya 2026";
 fileInfo "version" "2026";
 fileInfo "cutIdentifier" "202507081222-4d6919b75c";
 fileInfo "osv" "Windows 11 Home v2009 (Build: 26100)";
-fileInfo "UUID" "2FC1962A-4DA6-A5EB-9EE0-97B54AD12218";
+fileInfo "UUID" "A69F659D-43EA-67EC-CD32-3C9F74DD5C73";
 fileInfo "license" "education";
 createNode transform -s -n "persp";
 	rename -uid "9DA5AC2F-4535-AA8B-B926-60BC3DDC3192";
 	setAttr ".v" no;
-	setAttr ".t" -type "double3" 28.49063849120742 23.721153112193917 23.924978827766459 ;
-	setAttr ".r" -type "double3" -19.199999999242365 -1036.3999999999789 2.1959943839514118e-15 ;
+	setAttr ".t" -type "double3" 30.821476736607909 49.647915815500831 25.37271887438283 ;
+	setAttr ".r" -type "double3" -48.600000000024082 -1036.8000000000766 -4.3630885635094323e-15 ;
 	setAttr ".rpt" -type "double3" 1.1010437620737541e-15 1.8494852738677196e-15 1.94105763621617e-15 ;
 createNode camera -s -n "perspShape" -p "persp";
 	rename -uid "38B5585E-4B4F-3525-DF3A-D8BEB6C57E81";
 	setAttr -k off ".v";
 	setAttr ".fl" 34.999999999999979;
-	setAttr ".coi" 45.525232001834922;
+	setAttr ".coi" 69.792884120665633;
 	setAttr ".imn" -type "string" "persp";
 	setAttr ".den" -type "string" "persp_depth";
 	setAttr ".man" -type "string" "persp_mask";
-	setAttr ".tp" -type "double3" -11.110060604494095 4.186874471479805 -3.0283358162482035 ;
+	setAttr ".tp" -type "double3" -12.98545632363914 2.314808017976413 -9.8145364246501305 ;
 	setAttr ".hc" -type "string" "viewSet -p %camera";
 createNode transform -s -n "top";
 	rename -uid "01B68351-44DF-57BB-8641-589AEF52078E";
@@ -142,41 +147,50 @@ createNode mesh -n "floorShape0" -p "floor0";
 	setAttr ".gtag[3].gtagcmp" -type "componentList" 10 "e[20]" "e[41]" "e[62]" "e[83]" "e[104]" "e[125]" "e[146]" "e[167]" "e[188]" "e[209]";
 	setAttr ".gtag[4].gtagnm" -type "string" "rim";
 	setAttr ".gtag[4].gtagcmp" -type "componentList" 28 "e[0:2]" "e[4]" "e[6]" "e[8]" "e[10]" "e[12]" "e[14]" "e[16]" "e[18]" "e[20]" "e[22]" "e[41]" "e[43]" "e[62]" "e[64]" "e[83]" "e[85]" "e[104]" "e[106]" "e[125]" "e[127]" "e[146]" "e[148]" "e[167]" "e[169]" "e[188]" "e[190]" "e[209:219]";
-	setAttr ".pv" -type "double2" 0.45000000298023224 0.5 ;
+	setAttr ".pv" -type "double2" 0.14298949612984879 0.36064062580705425 ;
 	setAttr ".uvst[0].uvsn" -type "string" "map1";
 	setAttr -s 282 ".uvst[0].uvsp";
-	setAttr ".uvst[0].uvsp[0:249]" -type "float2" 0 0 0.1 0 0.2 0 0.30000001
-		 0 0.40000001 0 0.5 0 0.60000002 0 0.69999999 0 0.80000001 0 0.90000004 0 1 0 0 0.1
-		 0.1 0.1 0.2 0.1 0.30000001 0.1 0.40000001 0.1 0.5 0.1 0.60000002 0.1 0.69999999 0.1
-		 0.80000001 0.1 0.90000004 0.1 1 0.1 0 0.2 0.1 0.2 0.2 0.2 0.30000001 0.2 0.40000001
-		 0.2 0.5 0.2 0.60000002 0.2 0.69999999 0.2 0.80000001 0.2 0.90000004 0.2 1 0.2 0 0.30000001
-		 0.1 0.30000001 0.2 0.30000001 0.30000001 0.30000001 0.40000001 0.30000001 0.5 0.30000001
-		 0.60000002 0.30000001 0.69999999 0.30000001 0.80000001 0.30000001 0.90000004 0.30000001
-		 1 0.30000001 0 0.40000001 0.1 0.40000001 0.2 0.40000001 0.30000001 0.40000001 0.40000001
-		 0.40000001 0.5 0.40000001 0.60000002 0.40000001 0.69999999 0.40000001 0.80000001
-		 0.40000001 0.90000004 0.40000001 1 0.40000001 0 0.5 0.1 0.5 0.2 0.5 0.30000001 0.5
-		 0.40000001 0.5 0.5 0.5 0.60000002 0.5 0.69999999 0.5 0.80000001 0.5 0.90000004 0.5
-		 1 0.5 0 0.60000002 0.1 0.60000002 0.2 0.60000002 0.30000001 0.60000002 0.40000001
-		 0.60000002 0.5 0.60000002 0.60000002 0.60000002 0.69999999 0.60000002 0.80000001
-		 0.60000002 0.90000004 0.60000002 1 0.60000002 0 0.69999999 0.1 0.69999999 0.2 0.69999999
-		 0.30000001 0.69999999 0.40000001 0.69999999 0.5 0.69999999 0.60000002 0.69999999
-		 0.69999999 0.69999999 0.80000001 0.69999999 0.90000004 0.69999999 1 0.69999999 0
-		 0.80000001 0.1 0.80000001 0.2 0.80000001 0.30000001 0.80000001 0.40000001 0.80000001
-		 0.5 0.80000001 0.60000002 0.80000001 0.69999999 0.80000001 0.80000001 0.80000001
-		 0.90000004 0.80000001 1 0.80000001 0 0.90000004 0.1 0.90000004 0.2 0.90000004 0.30000001
-		 0.90000004 0.40000001 0.90000004 0.5 0.90000004 0.60000002 0.90000004 0.69999999
-		 0.90000004 0.80000001 0.90000004 0.90000004 0.90000004 1 0.90000004 0 1 0.1 1 0.2
-		 1 0.30000001 1 0.40000001 1 0.5 1 0.60000002 1 0.69999999 1 0.80000001 1 0.90000004
-		 1 1 1 0 0 0.1 0 0.1 0.1 0 0.1 0.2 0 0.2 0.1 0.30000001 0 0.30000001 0.1 0.40000001
-		 0 0.40000001 0.1 0.5 0 0.5 0.1 0.60000002 0 0.60000002 0.1 0.69999999 0 0.69999999
-		 0.1 0.80000001 0 0.80000001 0.1 0.90000004 0 0.90000004 0.1 1 0 1 0.1 0.1 0.2 0 0.2
-		 0.2 0.2 0.30000001 0.2 0.40000001 0.2 0.5 0.2 0.60000002 0.2 0.69999999 0.2 0.80000001
-		 0.2 0.90000004 0.2 1 0.2 0.1 0.30000001 0 0.30000001 0.2 0.30000001 0.30000001 0.30000001
-		 0.40000001 0.30000001 0.5 0.30000001 0.60000002 0.30000001 0.69999999 0.30000001
-		 0.80000001 0.30000001 0.90000004 0.30000001 1 0.30000001 0.1 0.40000001 0 0.40000001
-		 0.2 0.40000001 0.30000001 0.40000001 0.40000001 0.40000001 0.5 0.40000001 0.60000002
-		 0.40000001 0.69999999 0.40000001 0.80000001 0.40000001 0.90000004 0.40000001 1 0.40000001
-		 0.1 0.5 0 0.5 0.2 0.5 0.30000001 0.5 0.40000001 0.5 0.5 0.5 0.60000002 0.5 0.69999999
+	setAttr ".uvst[0].uvsp[0:249]" -type "float2" 0.070355937 0.28800708 0.084882654
+		 0.28800708 0.099409379 0.28800708 0.11393607 0.28800708 0.12846279 0.28800708 0.14298949
+		 0.28800708 0.15751621 0.28800708 0.17204288 0.28800708 0.1865696 0.28800708 0.20109633
+		 0.28800708 0.21562305 0.28800708 0.070355937 0.30253381 0.084882654 0.30253381 0.099409379
+		 0.30253381 0.11393607 0.30253381 0.12846279 0.30253381 0.14298949 0.30253381 0.15751621
+		 0.30253381 0.17204288 0.30253381 0.1865696 0.30253381 0.20109633 0.30253381 0.21562305
+		 0.30253381 0.070355937 0.31706053 0.084882654 0.31706053 0.099409379 0.31706053 0.11393607
+		 0.31706053 0.12846279 0.31706053 0.14298949 0.31706053 0.15751621 0.31706053 0.17204288
+		 0.31706053 0.1865696 0.31706053 0.20109633 0.31706053 0.21562305 0.31706053 0.070355937
+		 0.33158726 0.084882654 0.33158726 0.099409379 0.33158726 0.11393607 0.33158726 0.12846279
+		 0.33158726 0.14298949 0.33158726 0.15751621 0.33158726 0.17204288 0.33158726 0.1865696
+		 0.33158726 0.20109633 0.33158726 0.21562305 0.33158726 0.070355937 0.34611398 0.084882654
+		 0.34611398 0.099409379 0.34611398 0.11393607 0.34611398 0.12846279 0.34611398 0.14298949
+		 0.34611398 0.15751621 0.34611398 0.17204288 0.34611398 0.1865696 0.34611398 0.20109633
+		 0.34611398 0.21562305 0.34611398 0.070355937 0.36064065 0.084882654 0.36064065 0.099409379
+		 0.36064065 0.11393607 0.36064065 0.12846279 0.36064065 0.14298949 0.36064065 0.15751621
+		 0.36064065 0.17204288 0.36064065 0.1865696 0.36064065 0.20109633 0.36064065 0.21562305
+		 0.36064065 0.070355937 0.37516737 0.084882654 0.37516737 0.099409379 0.37516737 0.11393607
+		 0.37516737 0.12846279 0.37516737 0.14298949 0.37516737 0.15751621 0.37516737 0.17204288
+		 0.37516737 0.1865696 0.37516737 0.20109633 0.37516737 0.21562305 0.37516737 0.070355937
+		 0.38969404 0.084882654 0.38969404 0.099409379 0.38969404 0.11393607 0.38969404 0.12846279
+		 0.38969404 0.14298949 0.38969404 0.15751621 0.38969404 0.17204288 0.38969404 0.1865696
+		 0.38969404 0.20109633 0.38969404 0.21562305 0.38969404 0.070355937 0.40422076 0.084882654
+		 0.40422076 0.099409379 0.40422076 0.11393607 0.40422076 0.12846279 0.40422076 0.14298949
+		 0.40422076 0.15751621 0.40422076 0.17204288 0.40422076 0.1865696 0.40422076 0.20109633
+		 0.40422076 0.21562305 0.40422076 0.070355937 0.41874748 0.084882654 0.41874748 0.099409379
+		 0.41874748 0.11393607 0.41874748 0.12846279 0.41874748 0.14298949 0.41874748 0.15751621
+		 0.41874748 0.17204288 0.41874748 0.1865696 0.41874748 0.20109633 0.41874748 0.21562305
+		 0.41874748 0.070355937 0.43327421 0.084882654 0.43327421 0.099409379 0.43327421 0.11393607
+		 0.43327421 0.12846279 0.43327421 0.14298949 0.43327421 0.15751621 0.43327421 0.17204288
+		 0.43327421 0.1865696 0.43327421 0.20109633 0.43327421 0.21562305 0.43327421 0 0 0.1
+		 0 0.1 0.1 0 0.1 0.2 0 0.2 0.1 0.30000001 0 0.30000001 0.1 0.40000001 0 0.40000001
+		 0.1 0.5 0 0.5 0.1 0.60000002 0 0.60000002 0.1 0.69999999 0 0.69999999 0.1 0.80000001
+		 0 0.80000001 0.1 0.90000004 0 0.90000004 0.1 1 0 1 0.1 0.1 0.2 0 0.2 0.2 0.2 0.30000001
+		 0.2 0.40000001 0.2 0.5 0.2 0.60000002 0.2 0.69999999 0.2 0.80000001 0.2 0.90000004
+		 0.2 1 0.2 0.1 0.30000001 0 0.30000001 0.2 0.30000001 0.30000001 0.30000001 0.40000001
+		 0.30000001 0.5 0.30000001 0.60000002 0.30000001 0.69999999 0.30000001 0.80000001
+		 0.30000001 0.90000004 0.30000001 1 0.30000001 0.1 0.40000001 0 0.40000001 0.2 0.40000001
+		 0.30000001 0.40000001 0.40000001 0.40000001 0.5 0.40000001 0.60000002 0.40000001
+		 0.69999999 0.40000001 0.80000001 0.40000001 0.90000004 0.40000001 1 0.40000001 0.1
+		 0.5 0 0.5 0.2 0.5 0.30000001 0.5 0.40000001 0.5 0.5 0.5 0.60000002 0.5 0.69999999
 		 0.5 0.80000001 0.5 0.90000004 0.5 1 0.5 0.1 0.60000002 0 0.60000002 0.2 0.60000002
 		 0.30000001 0.60000002 0.40000001 0.60000002 0.5 0.60000002 0.60000002 0.60000002
 		 0.69999999 0.60000002 0.80000001 0.60000002 0.90000004 0.60000002 1 0.60000002 0.1
@@ -188,13 +202,18 @@ createNode mesh -n "floorShape0" -p "floor0";
 		 0 0.90000004 0.2 0.90000004 0.30000001 0.90000004 0.40000001 0.90000004 0.5 0.90000004
 		 0.60000002 0.90000004 0.69999999 0.90000004 0.80000001 0.90000004 0.90000004 0.90000004
 		 1 0.90000004 0.1 1 0 1 0.2 1 0.30000001 1 0.40000001 1 0.5 1 0.60000002 1 0.69999999
-		 1 0.80000001 1 0.90000004 1 1 1 0 0 0.1 0 0 0.1 0.2 0 0.30000001 0 0.40000001 0 0.5
-		 0 0.60000002 0;
-	setAttr ".uvst[0].uvsp[250:281]" 0.69999999 0 0.80000001 0 0.90000004 0 1 0
-		 1 0.1 0 0.2 1 0.2 0 0.30000001 1 0.30000001 0 0.40000001 1 0.40000001 0 0.5 1 0.5
-		 0 0.60000002 1 0.60000002 0 0.69999999 1 0.69999999 0 0.80000001 1 0.80000001 0 0.90000004
-		 1 0.90000004 0.1 1 0 1 0.2 1 0.30000001 1 0.40000001 1 0.5 1 0.60000002 1 0.69999999
-		 1 0.80000001 1 0.90000004 1 1 1;
+		 1 0.80000001 1 0.90000004 1 1 1 0.070355937 0.28800708 0.084882654 0.28800708 0.070355937
+		 0.30253381 0.099409379 0.28800708 0.11393607 0.28800708 0.12846279 0.28800708 0.14298949
+		 0.28800708 0.15751621 0.28800708;
+	setAttr ".uvst[0].uvsp[250:281]" 0.17204288 0.28800708 0.1865696 0.28800708
+		 0.20109633 0.28800708 0.21562305 0.28800708 0.21562305 0.30253381 0.070355937 0.31706053
+		 0.21562305 0.31706053 0.070355937 0.33158726 0.21562305 0.33158726 0.070355937 0.34611398
+		 0.21562305 0.34611398 0.070355937 0.36064065 0.21562305 0.36064065 0.070355937 0.37516737
+		 0.21562305 0.37516737 0.070355937 0.38969404 0.21562305 0.38969404 0.070355937 0.40422076
+		 0.21562305 0.40422076 0.070355937 0.41874748 0.21562305 0.41874748 0.084882654 0.43327421
+		 0.070355937 0.43327421 0.099409379 0.43327421 0.11393607 0.43327421 0.12846279 0.43327421
+		 0.14298949 0.43327421 0.15751621 0.43327421 0.17204288 0.43327421 0.1865696 0.43327421
+		 0.20109633 0.43327421 0.21562305 0.43327421;
 	setAttr ".cuvs" -type "string" "map1";
 	setAttr ".dcc" -type "string" "Ambient+Diffuse";
 	setAttr ".covm[0]"  0 1 1;
@@ -804,13 +823,16 @@ createNode mesh -n "wallShape0" -p "wall0";
 	setAttr ".gtag[4].gtagcmp" -type "componentList" 2 "f[4]" "f[9]";
 	setAttr ".gtag[5].gtagnm" -type "string" "top";
 	setAttr ".gtag[5].gtagcmp" -type "componentList" 3 "f[1]" "f[6]" "f[10:13]";
-	setAttr ".pv" -type "double2" 0.375 0.41968426108360291 ;
+	setAttr ".pv" -type "double2" 0.17274038389479884 0.61743766128177069 ;
 	setAttr ".uvst[0].uvsn" -type "string" "map1";
-	setAttr -s 26 ".uvst[0].uvsp[0:25]" -type "float2" 0.375 0 0.625 0 0.375
-		 0.25 0.625 0.25 0.375 0.5 0.625 0.5 0.375 0.75 0.625 0.75 0.375 1 0.625 1 0.875 0
-		 0.875 0.25 0.125 0 0.125 0.25 0.625 0.33936852 0.71436858 0.25 0.28563148 0.25 0.375
-		 0.33936852 0.28563148 0 0.375 0.91063148 0.625 0.91063148 0.71436852 0 0.375 0.33936852
-		 0.625 0.33936852 0.625 0.5 0.375 0.5;
+	setAttr -s 26 ".uvst[0].uvsp[0:25]" -type "float2" 0.1583308 0.55979943
+		 0.18714991 0.55979943 0.1583308 0.58861852 0.18714991 0.58861852 0.1583308 0.61743766
+		 0.18714991 0.61743766 0.1583308 0.6462568 0.18714991 0.6462568 0.1583308 0.67507589
+		 0.18714991 0.67507589 0.21596906 0.55979943 0.21596906 0.58861852 0.12951168 0.55979943
+		 0.12951168 0.58861852 0.18714991 0.59892064 0.19745204 0.58861852 0.14802873 0.58861852
+		 0.1583308 0.59892064 0.14802873 0.55979943 0.1583308 0.66477382 0.18714991 0.66477382
+		 0.19745204 0.55979943 0.1583308 0.59892064 0.18714991 0.59892064 0.18714991 0.61743766
+		 0.1583308 0.61743766;
 	setAttr ".cuvs" -type "string" "map1";
 	setAttr ".dcc" -type "string" "Ambient+Diffuse";
 	setAttr ".covm[0]"  0 1 1;
@@ -871,11 +893,43 @@ createNode transform -n "wall1";
 createNode mesh -n "wallShape1" -p "wall1";
 	rename -uid "743D1163-4329-7C7C-919D-AFBA661542F0";
 	setAttr -k off ".v";
-	setAttr -s 4 ".iog[0].og";
+	setAttr -s 2 ".iog[0].og";
+	setAttr ".iog[0].og[0].gcl" -type "componentList" 3 "f[0:11]" "f[16:17]" "f[19]";
+	setAttr ".iog[0].og[1].gcl" -type "componentList" 3 "f[12:15]" "f[18]" "f[20:22]";
 	setAttr ".vir" yes;
 	setAttr ".vif" yes;
-	setAttr ".pv" -type "double2" 0.5 0.33936852216720581 ;
+	setAttr -s 7 ".gtag";
+	setAttr ".gtag[0].gtagnm" -type "string" "back";
+	setAttr ".gtag[0].gtagcmp" -type "componentList" 2 "f[8]" "f[15]";
+	setAttr ".gtag[1].gtagnm" -type "string" "booleanIntersection";
+	setAttr ".gtag[1].gtagcmp" -type "componentList" 6 "e[29]" "e[31]" "e[33:35]" "e[37:40]" "e[45]" "e[48]";
+	setAttr ".gtag[2].gtagnm" -type "string" "bottom";
+	setAttr ".gtag[2].gtagcmp" -type "componentList" 3 "f[2]" "f[6]" "f[13]";
+	setAttr ".gtag[3].gtagnm" -type "string" "front";
+	setAttr ".gtag[3].gtagcmp" -type "componentList" 4 "f[0]" "f[12]" "f[18]" "f[21:22]";
+	setAttr ".gtag[4].gtagnm" -type "string" "left";
+	setAttr ".gtag[4].gtagcmp" -type "componentList" 2 "f[1]" "f[5]";
+	setAttr ".gtag[5].gtagnm" -type "string" "right";
+	setAttr ".gtag[5].gtagcmp" -type "componentList" 2 "f[3]" "f[7]";
+	setAttr ".gtag[6].gtagnm" -type "string" "top";
+	setAttr ".gtag[6].gtagcmp" -type "componentList" 5 "f[4]" "f[9:11]" "f[14]" "f[16:17]" "f[19:20]";
+	setAttr ".pv" -type "double2" 0.59934152524683737 0.85074714836155541 ;
 	setAttr ".uvst[0].uvsn" -type "string" "map1";
+	setAttr -s 54 ".uvst[0].uvsp[0:53]" -type "float2" 0.10041021 0.54889977
+		 0.14172542 0.54889977 0.14172542 0.59021497 0.10041021 0.59021497 0.085641086 0.59021497
+		 0.085641086 0.54889977 0.10041021 0.71416056 0.10041021 0.69939148 0.14172542 0.69939148
+		 0.14172542 0.71416056 0.15649454 0.54889977 0.15649456 0.59021497 0.14172542 0.60498405
+		 0.10041021 0.60498405 0.059094995 0.59021497 0.059094995 0.54889977 0.10041021 0.67284536
+		 0.14172542 0.67284536 0.18304062 0.54889977 0.18304062 0.59021497 0.1311014 0.60498405
+		 0.1120969 0.60498405 0.1120969 0.60498405 0.1311014 0.60498405 0.14172542 0.60498405
+		 0.10041021 0.60498405 0.10041021 0.63153017 0.14172542 0.63153017 0.10041021 0.63153017
+		 0.14172542 0.63153017 0.1311014 0.63153017 0.1311014 0.63153017 0.1120969 0.63153017
+		 0.1120969 0.63153017 0.59998655 0.77061594 0.59869659 0.77061594 0.59869659 0.81068152
+		 0.59998655 0.81068152 0.59998655 0.89081275 0.59869659 0.89081275 0.59869659 0.9308784
+		 0.59998655 0.9308784 0.59869659 0.85074711 0.59998655 0.85074711 0.59869659 0.81054342
+		 0.1120969 0.63153017 0.10041021 0.63153017 0.10803464 0.60498405 0.59998655 0.81074524
+		 0.11212713 0.60498405 0.59973174 0.81068152 0.59965318 0.81064582 0.59869659 0.81021118
+		 0.1120969 0.63153017;
 	setAttr ".cuvs" -type "string" "map1";
 	setAttr ".dcc" -type "string" "Ambient+Diffuse";
 	setAttr ".covm[0]"  0 1 1;
@@ -894,68 +948,23 @@ createNode mesh -n "wallShape1" -p "wall1";
 	setAttr ".pt[28]" -type "float3" 0 0 1.1736251 ;
 	setAttr ".pt[29]" -type "float3" 0 0 1.1736251 ;
 	setAttr ".pt[30]" -type "float3" 0 0 1.1736251 ;
-	setAttr ".dr" 1;
-createNode mesh -n "polySurfaceShape1" -p "wall1";
-	rename -uid "7EA5A53E-4692-DDAF-3A5D-7C97FA2551E9";
-	setAttr -k off ".v";
-	setAttr ".io" yes;
-	setAttr -s 2 ".iog[0].og";
-	setAttr ".iog[0].og[0].gcl" -type "componentList" 2 "f[0:11]" "f[16:17]";
-	setAttr ".iog[0].og[1].gcl" -type "componentList" 1 "f[12:15]";
-	setAttr ".vir" yes;
-	setAttr ".vif" yes;
-	setAttr -s 7 ".gtag";
-	setAttr ".gtag[0].gtagnm" -type "string" "back";
-	setAttr ".gtag[0].gtagcmp" -type "componentList" 2 "f[8]" "f[15]";
-	setAttr ".gtag[1].gtagnm" -type "string" "booleanIntersection";
-	setAttr ".gtag[1].gtagcmp" -type "componentList" 4 "e[29]" "e[31]" "e[33:35]" "e[37:39]";
-	setAttr ".gtag[2].gtagnm" -type "string" "bottom";
-	setAttr ".gtag[2].gtagcmp" -type "componentList" 3 "f[2]" "f[6]" "f[13]";
-	setAttr ".gtag[3].gtagnm" -type "string" "front";
-	setAttr ".gtag[3].gtagcmp" -type "componentList" 2 "f[0]" "f[12]";
-	setAttr ".gtag[4].gtagnm" -type "string" "left";
-	setAttr ".gtag[4].gtagcmp" -type "componentList" 2 "f[1]" "f[5]";
-	setAttr ".gtag[5].gtagnm" -type "string" "right";
-	setAttr ".gtag[5].gtagcmp" -type "componentList" 2 "f[3]" "f[7]";
-	setAttr ".gtag[6].gtagnm" -type "string" "top";
-	setAttr ".gtag[6].gtagcmp" -type "componentList" 4 "f[4]" "f[9:11]" "f[14]" "f[16:17]";
-	setAttr ".pv" -type "double2" 0.75 0.25 ;
-	setAttr ".uvst[0].uvsn" -type "string" "map1";
-	setAttr -s 44 ".uvst[0].uvsp[0:43]" -type "float2" 0.375 0 0.625 0 0.625
-		 0.25 0.375 0.25 0.28563148 0.25 0.28563148 0 0.375 1 0.375 0.91063148 0.625 0.91063148
-		 0.625 1 0.71436852 0 0.71436858 0.25 0.625 0.33936852 0.375 0.33936852 0.125 0.25
-		 0.125 0 0.375 0.75 0.625 0.75 0.875 0 0.875 0.25 0.56071365 0.33936852 0.44571662
-		 0.33936852 0.44571662 0.33936852 0.56071365 0.33936852 0.625 0.33936852 0.375 0.33936852
-		 0.375 0.5 0.625 0.5 0.375 0.5 0.625 0.5 0.56071365 0.5 0.56071365 0.5 0.44571662
-		 0.5 0.44571662 0.5 0.52194273 0 0.51389343 0 0.51389343 0.25 0.52194273 0.25 0.52194273
-		 0.75 0.51389343 0.75 0.51389343 1 0.52194273 1 0.51389343 0.5 0.52194273 0.5;
-	setAttr ".cuvs" -type "string" "map1";
-	setAttr ".dcc" -type "string" "Ambient+Diffuse";
-	setAttr ".covm[0]"  0 1 1;
-	setAttr ".cdvm[0]"  0 1 1;
-	setAttr -s 8 ".pt";
-	setAttr ".pt[1]" -type "float3" 0 0 0.21463278 ;
-	setAttr ".pt[2]" -type "float3" 0 0 0.21463278 ;
-	setAttr ".pt[6]" -type "float3" 0 0 0.13790931 ;
-	setAttr ".pt[7]" -type "float3" 0 0 0.13790931 ;
-	setAttr ".pt[10]" -type "float3" 0 0 0.13790931 ;
-	setAttr ".pt[11]" -type "float3" 0 0 0.13790931 ;
-	setAttr ".pt[16]" -type "float3" 0 0 0.13790931 ;
-	setAttr ".pt[19]" -type "float3" 0 0 0.13790931 ;
-	setAttr -s 24 ".vt[0:23]"  -15.47955227 0 15.69418716 -15.47955227 0 -15.69418526
-		 -15.47955227 0.57138979 -15.69418526 -15.47955227 0.57138979 15.69418716 -15.55627823 0 15.69418716
-		 -15.55627823 0.64334857 15.69418716 -15.55627823 0 -15.69418716 -15.55627823 0.64334857 -15.69418716
-		 -15.69418526 0 15.69418716 -15.69418526 0.64334798 15.69418716 -15.69418526 0 -15.69418716
-		 -15.69418526 0.64334798 -15.69418716 -15.55627823 4.20623207 -7.62280941 -15.55627823 4.20623207 6.81546879
-		 -15.55627823 9.43796253 6.81546879 -15.55627823 9.43796253 -7.62280941 -15.55627823 11.50089264 -15.69418716
-		 -15.55627823 11.50089264 15.69418716 -15.69418526 11.50089169 15.69418716 -15.69418526 11.50089169 -15.69418716
+	setAttr -s 31 ".vt[0:30]"  -15.47955227 0 15.69418716 -15.47955227 0 -15.47955227
+		 -15.47955227 0.57138979 -15.47955227 -15.47955227 0.57138979 15.69418716 -15.55627823 0 15.69418716
+		 -15.55627823 0.64334857 15.69418716 -15.55627823 0 -15.55627823 -15.55627823 0.64334857 -15.55627823
+		 -15.69418526 0 15.69418716 -15.69418526 0.64334798 15.69418716 -15.69418526 0 -15.55627823
+		 -15.69418526 0.64334798 -15.55627823 -15.55627823 4.20623207 -7.62280941 -15.55627823 4.20623207 6.81546879
+		 -15.55627823 9.43796253 6.81546879 -15.55627823 9.43796253 -7.62280941 -15.55627823 11.50089264 -15.55627823
+		 -15.55627823 11.50089264 15.69418716 -15.69418526 11.50089169 15.69418716 -15.69418526 11.50089169 -15.55627823
 		 -15.69418526 4.20623207 -7.62280941 -15.69418526 9.43796253 -7.62280941 -15.69418526 9.43796253 6.81546879
-		 -15.69418526 4.20623207 6.81546879;
-	setAttr -s 40 ".ed[0:39]"  0 1 0 1 2 0 2 3 0 3 0 0 3 5 0 5 4 1 4 0 0
+		 -15.69418526 4.20623207 6.81546879 -15.69418526 9.41992378 6.81546879 -15.69418526 11.48285198 15.69418716
+		 -15.55627728 11.50089169 9.92713261 -15.55627823 9.43796253 6.79249716 -15.58351898 9.43796253 6.81546879
+		 -15.59191895 9.43330002 6.81546879 -15.69418526 9.37654018 6.81546879;
+	setAttr -s 52 ".ed[0:51]"  0 1 0 1 2 0 2 3 0 3 0 0 3 5 0 5 4 1 4 0 0
 		 4 6 1 6 1 0 6 7 1 7 2 0 7 5 0 5 9 1 9 8 0 8 4 0 8 10 0 10 6 0 10 11 0 11 7 1 9 11 1
-		 5 17 0 17 18 0 18 9 0 11 19 0 19 16 0 16 7 0 19 18 0 17 16 0 13 23 0 23 22 0 22 14 0
-		 14 13 0 12 20 0 20 23 0 13 12 0 22 21 0 21 15 0 15 14 0 12 15 0 21 20 0;
-	setAttr -s 68 ".n[0:67]" -type "float3"  1e+20 1e+20 1e+20 1e+20 1e+20
+		 5 17 0 17 18 0 18 25 0 11 19 0 19 16 0 16 7 0 19 18 0 17 26 0 13 23 0 23 30 0 22 28 0
+		 14 13 0 12 20 0 20 23 0 13 12 0 22 21 0 21 15 0 15 27 0 12 15 0 21 20 0 24 22 0 25 9 0
+		 14 29 1 25 17 1 26 16 0 27 14 0 28 14 0 29 24 1 30 24 0 27 28 1 28 29 1 29 30 1;
+	setAttr -s 81 ".n[0:80]" -type "float3"  1e+20 1e+20 1e+20 1e+20 1e+20
 		 1e+20 1e+20 1e+20 1e+20 1e+20 1e+20 1e+20 1e+20 1e+20 1e+20 1e+20 1e+20 1e+20 1e+20
 		 1e+20 1e+20 1e+20 1e+20 1e+20 1e+20 1e+20 1e+20 1e+20 1e+20 1e+20 1e+20 1e+20 1e+20
 		 1e+20 1e+20 1e+20 1e+20 1e+20 1e+20 1e+20 1e+20 1e+20 1e+20 1e+20 1e+20 1e+20 1e+20
@@ -963,12 +972,14 @@ createNode mesh -n "polySurfaceShape1" -p "wall1";
 		 1e+20 1e+20 1e+20 1e+20 1e+20 1e+20 1e+20 1e+20 1e+20 1e+20 1e+20 1e+20 1e+20 1e+20
 		 1e+20 1e+20 1e+20 1e+20 1e+20 1e+20 1e+20 1e+20 1e+20 1e+20 1e+20 1e+20 1e+20 1e+20
 		 1e+20 1e+20 1e+20 1e+20 1e+20 1e+20 1e+20 1e+20 1e+20 1e+20 1e+20 1e+20 1e+20 1e+20
-		 1e+20 1e+20 1e+20 1e+20 1e+20 1e+20 1e+20 1e+20 1e+20 1e+20 1e+20 0 0 -1 0 0 -1 0
-		 0 -1 0 0 -1 0 1 0 0 1 0 0 1 0 0 1 0 0 -1 0 0 -1 0 0 -1 0 0 -1 0 0 0 1 0 0 1 0 0 1
-		 0 0 1 1e+20 1e+20 1e+20 1e+20 1e+20 1e+20 1e+20 1e+20 1e+20 1e+20 1e+20 1e+20 1 0
-		 0 1 0 0 1 0 0 1 0 0 1e+20 1e+20 1e+20 1e+20 1e+20 1e+20 -1 0 0 -1 0 0 -1 0 0 -1 0
-		 0;
-	setAttr -s 18 -ch 80 ".fc[0:17]" -type "polyFaces" 
+		 1e+20 1e+20 1e+20 1e+20 1e+20 1e+20 1e+20 1e+20 1e+20 1e+20 1e+20 1e+20 1e+20 1e+20
+		 1e+20 1e+20 1e+20 1e+20 1e+20 1e+20 1e+20 1e+20 1e+20 1e+20 1e+20 1e+20 0 0 -1 0
+		 1 0 0 1 0 0 1 0 0 1 0 1e+20 1e+20 1e+20 1e+20 1e+20 1e+20 0 -1 0 0 -1 0 0 -1 0 0
+		 0 1 0 0 1 0 0 1 0 0 1 1e+20 1e+20 1e+20 1e+20 1e+20 1e+20 1e+20 1e+20 1e+20 1e+20
+		 1e+20 1e+20 1e+20 1e+20 1e+20 1 0 0 1 0 0 1 0 0 1e+20 1e+20 1e+20 1 0 0 1e+20 1e+20
+		 1e+20 1e+20 1e+20 1e+20 1e+20 1e+20 1e+20 -1 0 0 -1 0 0 -1 0 0 1e+20 1e+20 1e+20
+		 1e+20 1e+20 1e+20 -1 0 0 1e+20 1e+20 1e+20 0 -1 0 0 0 -1 0 0 -1 0 0 -1;
+	setAttr -s 23 -ch 104 ".fc[0:22]" -type "polyFaces" 
 		f 4 0 1 2 3
 		mu 0 4 0 1 2 3
 		f 4 -4 4 5 6
@@ -987,758 +998,61 @@ createNode mesh -n "polySurfaceShape1" -p "wall1";
 		mu 0 4 10 18 19 11
 		f 4 -14 19 -18 -16
 		mu 0 4 16 26 27 17
-		f 4 20 21 22 -13
-		mu 0 4 13 25 28 26
+		f 3 43 21 22
+		mu 0 3 46 25 28
 		f 4 -19 23 24 25
 		mu 0 4 12 27 29 24
-		f 4 -25 26 -22 27
-		mu 0 4 24 29 28 25
-		f 4 28 29 30 31
-		mu 0 4 34 35 36 37
+		f 5 -25 26 -22 27 44
+		mu 0 5 24 29 28 25 47
+		f 4 50 47 40 30
+		mu 0 4 50 51 44 36
 		f 4 32 33 -29 34
 		mu 0 4 38 39 40 41
-		f 4 -31 35 36 37
-		mu 0 4 37 36 42 43
+		f 5 49 -31 35 36 37
+		mu 0 5 48 50 36 42 43
 		f 4 38 -37 39 -33
 		mu 0 4 38 43 42 39
-		f 4 -26 -28 -21 -12
-		mu 0 4 12 24 25 13
-		h 4 -35 -32 -38 -39
-		mu 0 4 20 21 22 23
-		f 4 -23 -27 -24 -20
-		mu 0 4 26 28 29 27
-		h 4 -40 -36 -30 -34
-		mu 0 4 30 31 32 33;
+		f 5 -26 -45 -28 -21 -12
+		mu 0 5 12 24 47 25 13
+		h 5 -35 -32 -46 -38 -39
+		mu 0 5 20 21 22 49 23
+		f 5 -42 -23 -27 -24 -20
+		mu 0 5 26 46 28 29 27
+		h 6 -40 -36 -41 -49 -30 -34
+		mu 0 6 30 31 32 45 53 33
+		f 3 51 48 -48
+		mu 0 3 51 52 44
+		f 4 20 -44 41 -13
+		mu 0 4 13 25 46 26
+		f 3 -47 -50 45
+		mu 0 3 37 50 48
+		f 3 42 -51 46
+		mu 0 3 37 51 50
+		f 5 28 29 -52 -43 31
+		mu 0 5 34 35 52 51 37;
 	setAttr ".cd" -type "dataPolyComponent" Index_Data Edge 0 ;
 	setAttr ".cvd" -type "dataPolyComponent" Index_Data Vertex 0 ;
 	setAttr ".pd[0]" -type "dataPolyComponent" Index_Data UV 0 ;
 	setAttr ".hfd" -type "dataPolyComponent" Index_Data Face 0 ;
 	setAttr ".dr" 1;
-createNode transform -n "loftedSurface3";
-	rename -uid "C3C98C39-474A-C361-36CB-DD9111CF76FC";
-	setAttr ".t" -type "double3" -11.307421849257238 5.1474850081628469 4.0179695587357784 ;
-	setAttr ".r" -type "double3" -74.847699778595683 -129.86627253202235 -177.64051603985334 ;
-	setAttr ".s" -type "double3" 0.35467413179030621 0.36708913295592488 0.35686816175484987 ;
+createNode transform -n "loftedSurface1";
+	rename -uid "FC4BF570-42BA-2D5E-1923-629E339649AA";
+	setAttr ".t" -type "double3" -11.589269218650248 4.7671570440693412 5.8248410133550568 ;
+	setAttr ".r" -type "double3" 248.84914063464583 2.4974710301814782 -181.72874092936897 ;
+	setAttr ".s" -type "double3" 0.36708913295592488 0.36708913295592488 0.36708913295592488 ;
 	setAttr ".rp" -type "double3" 0 8.8817841970012523e-16 0 ;
-	setAttr ".rpt" -type "double3" 1.5678610491267612e-29 -2.7807346909040666e-29 -5.9164567891575885e-31 ;
+	setAttr ".rpt" -type "double3" -4.1784976073425469e-29 -1.0225609483927366e-28 -6.9025329206838533e-31 ;
 	setAttr ".sp" -type "double3" 0 2.042810365310288e-14 0 ;
-createNode mesh -n "loftedSurface3Shape" -p "loftedSurface3";
-	rename -uid "CBEE783C-4CF5-F7F6-5B60-17AC788673DD";
-	setAttr -k off ".v";
-	setAttr ".iog[0].og[0].gcl" -type "componentList" 1 "f[0:223]";
-	setAttr ".vir" yes;
-	setAttr ".vif" yes;
-	setAttr ".pv" -type "double2" 0.0625 1 ;
-	setAttr ".uvst[0].uvsn" -type "string" "map1";
-	setAttr -s 226 ".uvst[0].uvsp[0:225]" -type "float2" 0 0 1 0 1 1 0 1 1
-		 0.5 0 0.5 0.5 0 0.5 0.5 0.5 0.25 0 0.25 0.25 0 0.25 0.25 0.25 0.125 0 0.125 0.125
-		 0 0.125 0.125 0.125 0.25 0.5 0.125 0.375 0 0.375 0.125 0.375 0.25 0.25 0.5 0 0.375
-		 0.25 0.375 0.125 0.375 0.125 0.5 0.5 0.375 0.375 0.375 0.375 0.5 1 0.25 0.75 0 0.75
-		 0.25 0.75 0.125 0.625 0 0.625 0.125 0.625 0.25 1 0.125 0.875 0 0.875 0.125 0.875
-		 0.25 0.75 0.5 0.75 0.375 0.625 0.375 0.625 0.5 1 0.375 0.875 0.375 0.875 0.5 0.5
-		 1 0 0.75 0.5 0.75 0.25 0.75 0 0.625 0.25 0.625 0.125 0.625 0.125 0.75 0.5 0.625 0.375
-		 0.625 0.375 0.75 0.25 1 0 0.875 0.25 0.875 0.125 0.875 0.125 1 0.5 0.875 0.375 0.875
-		 0.375 1 1 0.75 0.75 0.75 0.75 0.625 0.625 0.625 0.625 0.75 1 0.625 0.875 0.625 0.875
-		 0.75 0.75 1 0.75 0.875 0.625 0.875 0.625 1 1 0.875 0.875 0.875 0.875 1 1 0.875 0.875
-		 0.875 0.875 1 1 1 1 0.375 0.875 0.375 0.875 0.5 1 0.5 0.5 0.375 0.375 0.375 0.375
-		 0.5 0.5 0.5 0.5 0.125 0.375 0.125 0.375 0.25 0.5 0.25 0.25 0.125 0.125 0.125 0.125
-		 0.25 0.25 0.25 0.125 0 0.25 0 0 0 0 0.125 0 0.25 0.375 0 0.5 0 0.25 0.5 0.25 0.375
-		 0.125 0.375 0.125 0.5 0 0.375 0 0.5 1 0.125 0.875 0.125 0.875 0.25 1 0.25 0.75 0.125
-		 0.625 0.125 0.625 0.25 0.75 0.25 0.625 0 0.75 0 0.875 0 1 0 0.75 0.5 0.75 0.375 0.625
-		 0.375 0.625 0.5 0.5 1 0.5 0.875 0.375 0.875 0.375 1 0.5 0.625 0.375 0.625 0.375 0.75
-		 0.5 0.75 0.125 0.625 0.125 0.75 0.25 0.75 0.25 0.625 0 0.625 0 0.75 0.25 1 0.25 0.875
-		 0.125 0.875 0.125 1 0 0.875 0 1 1 0.625 0.875 0.625 0.875 0.75 1 0.75 0.75 0.75 0.75
-		 0.625 0.625 0.625 0.625 0.75 0.75 1 0.75 0.875 0.625 0.875 0.625 1 1 1 1 0.875 1
-		 0.75 1 0.625 1 0.5 1 0.375 1 0.25 1 0.125 1 0 0.875 0 0.75 0 0.625 0 0.5 0 0.375
-		 0 0.25 0 0.125 0 0 0 0 0.125 0 0.25 0 0.375 0 0.5 0 0.625 0 0.75 0 0.875 0 1 0.125
-		 1 0.25 1 0.375 1 0.5 1 0.625 1 0.75 1 0.875 1 1 1 1 0.875 1 0.75 1 0.625 1 0.5 1
-		 0.375 1 0.25 1 0.125 1 0 0.875 0 0.75 0 0.625 0 0.5 0 0.375 0 0.25 0 0.125 0 0 0
-		 0 0.125 0 0.25 0 0.375 0 0.5 0 0.625 0 0.75 0 0.875 0 1 0.125 1 0.25 1 0.375 1 0.5
-		 1 0.625 1 0.75 1 0.875 1;
-	setAttr ".cuvs" -type "string" "map1";
-	setAttr ".dcc" -type "string" "Ambient+Diffuse";
-	setAttr ".covm[0]"  0 1 1;
-	setAttr ".cdvm[0]"  0 1 1;
-	setAttr -s 226 ".pt";
-	setAttr ".pt[0:165]" -type "float3"  -0.4511435 -3.1673553 10.121041 -0.4511435 
-		-2.7727067 -4.0333157 -0.4511435 -2.7423413 -4.0810404 -0.4511435 -2.4378169 9.9529381 
-		-0.4511435 -2.4635339 -3.9324532 -0.4511435 -2.3985252 10.289145 -0.4511435 -3.5993011 
-		3.0427926 -0.4511435 -2.3253498 3.208349 -0.4511435 -3.6526191 3.0403607 -0.4511435 
-		-2.5871248 10.356387 -0.4511435 -3.6364257 6.6270185 -0.4511435 -3.8189709 6.848022 
-		-0.4511435 -4.0420737 6.8074546 -0.4511435 -3.1295414 10.313488 -0.4511435 -3.361964 
-		8.3804684 -0.4511435 -3.7678533 8.7040462 -0.4511435 -3.6505408 8.7384605 -0.4511435 
-		-3.8318312 2.9930165 -0.4511435 -3.6586602 4.8348789 -0.4511435 -3.9287457 4.8990645 
-		-0.4511435 -3.7103229 4.9440064 -0.4511435 -3.1268268 6.7674241 -0.4511435 -2.3832462 
-		10.323419 -0.4511435 -3.3962934 6.8097634 -0.4511435 -3.3389907 8.6293373 -0.4511435 
-		-3.0884058 8.5191975 -0.4511435 -2.9609272 3.1282814 -0.4511435 -3.2103884 4.9680624 
-		-0.4511435 -2.8302186 4.98562 -0.4511435 -2.9610026 -4.3695235 -0.4511435 -3.5290875 
-		-0.52752966 -0.4511435 -4.0242624 -0.76137441 -0.4511435 -3.9264028 -0.79487437 -0.4511435 
-		-3.6480072 1.2547029 -0.4511435 -3.8376679 1.0964769 -0.4511435 -3.7913978 1.1402029 
-		-0.4511435 -3.2006094 -4.3945789 -0.4511435 -3.0740607 -2.2683835 -0.4511435 -3.7523777 
-		-2.6776979 -0.4511435 -3.9672019 -2.6624401 -0.4511435 -3.1779215 -0.35871619 -0.4511435 
-		-3.4843507 -0.55881828 -0.4511435 -3.1389751 1.2876724 -0.4511435 -2.622854 1.4286636 
-		-0.4511435 -2.6344717 -4.1481428 -0.4511435 -3.6400483 -2.4058275 -0.4511435 -3.1940536 
-		-2.1471598 -0.4511435 -3.5386329 2.9137266 -0.4511435 -2.9090722 10.289145 -0.4511435 
-		-3.5684991 3.208349 -0.4511435 -3.5664418 6.7674241 -0.4511435 -2.3472898 10.300017 
-		-0.4511435 -3.2961986 6.7722049 -0.4511435 -3.074899 8.5068312 -0.4511435 -3.1729472 
-		8.5191975 -0.4511435 -2.9121625 3.2402904 -0.4511435 -3.1963265 5.0039239 -0.4511435 
-		-3.6516805 4.98562 -0.4511435 -3.2900684 6.4958482 -0.4511435 -2.991127 10.177766 
-		-0.4511435 -3.5984554 6.6820903 -0.4511435 -3.2088852 8.456789 -0.4511435 -3.1293263 
-		8.2860603 -0.4511435 -3.6733313 3.1028249 -0.4511435 -3.6942542 4.8893723 -0.4511435 
-		-3.386827 4.7025199 -0.4511435 -3.1684759 -3.6394577 -0.4511435 -3.8173976 -0.35871619 
-		-0.4511435 -3.2674885 -0.30089325 -0.4511435 -2.9862094 1.4737457 -0.4511435 -3.6150875 
-		1.4286636 -0.4511435 -2.9542332 -3.8793688 -0.4511435 -3.550158 -2.0797946 -0.4511435 
-		-3.7660172 -2.3414247 -0.4511435 -3.6931679 -0.66616505 -0.4511435 -3.7740574 -0.47866911 
-		-0.4511435 -3.6913795 1.3153924 -0.4511435 -3.7198372 1.1256555 -0.4511435 -3.5840707 
-		-3.9458261 -0.4511435 -3.7235734 -2.2269888 -0.4511435 -3.2193933 -2.4042742 -0.4511435 
-		1.0404228 10.121041 -0.4511435 0.64577472 -4.0333157 -0.4511435 0.67738348 -4.1005573 
-		-0.4511435 0.31182104 9.9529381 -0.4511435 0.97261417 -3.9324532 -0.4511435 0.055147305 
-		10.289145 -0.4511435 1.4723691 3.0427926 -0.4511435 1.2166772 3.208349 -0.4511435 
-		1.6420087 3.0403607 -0.4511435 0.57560885 10.356387 -0.4511435 1.5094936 6.6270185 
-		-0.4511435 2.0486367 6.848022 -0.4511435 2.0933347 6.8074546 -0.4511435 1.0311688 
-		10.313488 -0.4511435 1.2350317 8.3804684 -0.4511435 1.7558956 8.7040462 -0.4511435 
-		1.7944564 8.7384605 -0.4511435 1.7306399 2.9930165 -0.4511435 1.5317278 4.8348789 
-		-0.4511435 1.9284005 4.8990645 -0.4511435 1.8521265 4.9440064 -0.4511435 1.0630316 
-		6.7674241 -0.4511435 0.18498625 10.323419 -0.4511435 1.5051811 6.8097634 -0.4511435 
-		1.392789 8.6293373 -0.4511435 0.990807 8.5191975 -0.4511435 1.3531933 3.1282814 -0.4511435 
-		1.3841846 4.9680624 -0.4511435 1.0742022 4.98562 -0.4511435 1.0726801 -4.3695235 
-		-0.4511435 1.4021549 -0.52752966 -0.4511435 1.9843243 -0.76137441 -0.4511435 1.7936586 
-		-0.79487437 -0.4511435 1.5210748 1.2547029 -0.4511435 1.7043437 1.0964769 -0.4511435 
-		1.7284287 1.1402029 -0.4511435 1.0966295 -4.3945789 -0.4511435 0.94712818 -2.2683835 
-		-0.4511435 1.6300725 -2.6776979 -0.4511435 1.9835736 -2.6624401 -0.4511435 1.7700317 
-		-0.35871619 -0.4511435 1.9414084 -0.55881828 -0.4511435 1.6681147 1.2876724 -0.4511435 
-		1.6064227 1.4286636 -0.4511435 1.1682049 -4.1481428 -0.4511435 1.9503567 -2.4058275 
-		-0.4511435 1.6990463 -2.1471598 -0.4511435 1.4480662 2.9137266 -0.4511435 0.88513023 
-		10.289145 -0.4511435 1.7022175 3.208349 -0.4511435 1.3968022 6.7674241 -0.4511435 
-		0.36845058 10.300017 -0.4511435 1.0801209 6.7722049 -0.4511435 0.82018828 8.5068312 
-		-0.4511435 1.2479719 8.5191975 -0.4511435 1.3813611 3.2402904 -0.4511435 1.1604668 
-		5.0039239 -0.4511435 1.5201949 4.98562 -0.4511435 1.1866575 6.4958482 -0.4511435 
-		0.72072315 10.177766 -0.4511435 1.3034621 6.6820903 -0.4511435 1.1716012 8.456789 
-		-0.4511435 1.0082371 8.2860603 -0.4511435 1.7073997 3.1028249 -0.4511435 1.6620247 
-		4.8893723 -0.4511435 1.288546 4.7025199 -0.4511435 1.7027322 -3.9324532 -0.4511435 
-		1.8683209 -0.35871619 -0.4511435 1.8582159 -0.30089325 -0.4511435 1.7131048 1.4737457 
-		-0.4511435 1.8205147 1.4286636 -0.4511435 1.1387048 -3.8767526 -0.4511435 1.8276192 
-		-2.0785344 -0.4511435 1.8494309 -2.1471598 -0.4511435 1.6128619 -0.66616505 -0.4511435 
-		1.7183063 -0.47866911 -0.4511435 1.7364612 1.3153924 -0.4511435 1.6552947 1.1256555 
-		-0.4511435 1.3807938 -4.0152121 -0.4511435 1.5489635 -2.260653 -0.4511435 1.1234814 
-		-2.4131603 -0.75698864 -1.6316341 -4.726676 -0.7149992 -2.0916412 -5.2623582 -0.64010352 
-		-2.2862988 -5.1601691 -0.55906886 -1.8089124 -5.1053915;
-	setAttr ".pt[166:225]" -0.47729915 -1.4947845 -5.1693273 -0.3982659 -1.5698951 
-		-5.4258094 -0.31330448 -1.9299194 -5.6831002 -0.21551348 -2.1505842 -5.7121596 -0.14260405 
-		-1.8952048 -4.6565404 -0.12148747 -2.0380538 -3.2115259 -0.12612751 -2.1829128 -1.1740632 
-		-0.13154927 -2.1724856 0.91763413 -0.13660467 -2.0852337 3.0190191 -0.13965264 -2.0475011 
-		5.1232972 -0.13744637 -1.9730926 7.2290201 -0.12801525 -1.7856073 9.293539 -0.14053845 
-		-1.5912461 10.711327 -0.21963024 -1.5986197 11.567982 -0.31766546 -1.3415573 11.626985 
-		-0.3957172 -1.454059 11.597972 -0.46763092 -1.5479715 11.560446 -0.54845709 -1.2014726 
-		11.564203 -0.63041294 -1.448822 11.541764 -0.703215 -1.4815201 11.409314 -0.74495977 
-		-1.2150295 10.538102 -0.76466781 -1.6053538 9.1844931 -0.76351422 -1.7434425 7.0787263 
-		-0.76617604 -1.8519193 4.9703569 -0.77074599 -1.979901 2.8665817 -0.77514368 -2.105464 
-		0.7637071 -0.77859533 -2.1095958 -1.3398969 -0.78078401 -1.9452064 -3.3846252 -0.75700587 
-		-0.63160032 -4.741941 -0.71501625 -0.14295429 -5.2802887 -0.64012849 -0.050958827 
-		-5.1855307 -0.55911201 -0.14852625 -5.1156673 -0.47735289 -0.044350103 -5.1801052 
-		-0.39832073 0.071749866 -5.4353447 -0.31333458 -0.15275697 -5.6948791 -0.21553077 
-		-0.22490406 -5.7246642 -0.14262158 -0.47012186 -4.6713972 -0.12150556 -0.27233154 
-		-3.2246428 -0.12614405 -0.051876947 -1.183092 -0.13156638 0.015274853 0.91020906 
-		-0.13662302 0.005977273 3.011951 -0.13967168 0.046381533 5.1173863 -0.13746658 0.050359547 
-		7.2236438 -0.12803811 -0.059996322 9.2867804 -0.14056161 -0.20251411 10.704341 -0.21965533 
-		-0.16587114 11.56052 -0.31769329 -0.41976196 11.615854 -0.39572743 -0.75225675 11.581978 
-		-0.46763167 -0.95077014 11.543011 -0.54848564 -0.55511308 11.551859 -0.63043809 -0.33218479 
-		11.533837 -0.70323944 -0.30716589 11.402164 -0.74498498 -0.58413702 10.527776 -0.76469004 
-		-0.26838845 9.1778059 -0.76353455 -0.20856354 7.0725265 -0.76619476 -0.17858955 4.96418 
-		-0.77076292 -0.12901202 2.8607574 -0.77515876 -0.077521965 0.75821221 -0.77860957 
-		-0.098522142 -1.3466997 -0.78079951 -0.29586267 -3.3954911;
-	setAttr -s 226 ".vt";
-	setAttr ".vt[0:165]"  -4.76096773 3.42320943 -6.53610086 -4.7273469 3.242172 0.54107767
-		 5.59423923 3.2282424 0.56494009 5.39251423 3.088547707 -6.45204926 0.85989296 3.1003449 0.49064648
-		 0.70859939 3.0705235 -6.62015295 -4.43096495 3.62135625 -2.99697638 0.90788865 3.036955595 -3.079754591
-		 -1.58597243 3.6458149 -2.99576044 -1.61994815 3.15703988 -6.65377378 -4.41772413 3.63838649 -4.7890892
-		 -1.49936175 3.72212553 -4.89959097 -2.93264198 3.82446957 -4.87930727 -3.14187574 3.40586305 -6.63232422
-		 -4.5646472 3.5124824 -5.6658144 -3.033318043 3.69867635 -5.82760334 -1.55247355 3.64486146 -5.84481049
-		 -2.9926219 3.72802496 -2.97208834 -4.38346529 3.64858603 -3.89301944 -2.92299151 3.77248263 -3.92511225
-		 -1.5151732 3.67228532 -3.9475832 0.7578699 3.40461779 -4.85929203 -0.40829864 3.063514471 -6.63728952
-		 -0.34162867 3.52823043 -4.88046169 -0.37447858 3.50194383 -5.79024887 0.72603858 3.38699293 -5.73517895
-		 -0.32203341 3.32851458 -3.039720774 -0.32291365 3.44295001 -3.95961118 0.8272084 3.26855445 -3.96838999
-		 -1.68718982 3.32854915 0.70918167 -4.59393644 3.58914709 -1.21181524 -1.73168111 3.81629896 -1.094892859
-		 -3.17089868 3.77140784 -1.078142881 -4.50945997 3.64369917 -2.1029315 -3.086836338 3.7307024 -2.023818493
-		 -1.67513335 3.70947695 -2.045681477 -3.20609307 3.43846416 0.72170949 -4.66684866 3.38041234 -0.34138834
-		 -3.21218514 3.6915772 -0.13673109 -1.72145498 3.7901237 -0.14435999 0.97424448 3.42805648 -1.29622197
-		 -0.35809097 3.56862497 -1.19617093 -0.34037632 3.41019058 -2.11941624 0.9642809 3.17342997 -2.18991184
-		 -0.36746934 3.17875934 0.59849143 -0.36145604 3.64004827 -0.27266631 0.92864025 3.43545675 -0.40200019
-		 5.41944456 3.59352589 -2.93244338 3.23870206 3.30472708 -6.62015295 3.43799138 3.60722637 -3.079754591
-		 3.28797269 3.60628271 -4.85929203 1.96465945 3.047020197 -6.62558889 2.026148796 3.48231387 -4.86168242
-		 1.9916687 3.38079691 -5.7289958 3.25614119 3.42577457 -5.73517895 2.20714307 3.30614471 -3.095725298
-		 2.10847807 3.43649936 -3.97754192 3.35731101 3.64538431 -3.96838999 5.30680084 3.47950172 -4.72350407
-		 4.36972332 3.34236813 -6.56446314 4.34476042 3.62096834 -4.81662512 4.3280735 3.4422605 -5.70397472
-		 5.32449389 3.40576434 -5.61861038 4.46705008 3.65531611 -3.026992559 4.39863157 3.66491413 -3.92026615
-		 5.34826422 3.52388787 -3.82683992 3.38999557 3.42372346 0.34414881 3.50434709 3.72140384 -1.29622197
-		 2.28943348 3.46914363 -1.32513344 2.27775621 3.34011221 -2.21245289 3.49438357 3.62859797 -2.18991184
-		 2.13032317 3.32544374 0.46410438 2.22765398 3.59881282 -0.43568277 3.45874286 3.69783401 -0.30486771
-		 5.54136372 3.66441584 -1.14249754 4.55251837 3.70152235 -1.23624551 4.52461338 3.66359544 -2.13327622
-		 5.4879427 3.67664981 -2.038407803 4.55298805 3.61436963 0.49733296 4.54620171 3.6783638 -0.36208564
-		 5.57453156 3.44708085 -0.27344295 -4.76096773 1.49297237 -6.53610086 -4.7273469 1.67400956 0.54107767
-		 5.59423923 1.65950966 0.57469851 5.39251423 1.8276341 -6.45204926 0.85989296 1.52407825 0.49064648
-		 0.70859939 2.0791049 -6.62015295 -4.43096495 1.29482532 -2.99697638 0.90788865 1.41211903 -3.079754591
-		 -1.58597243 1.21700644 -2.99576044 -1.61994815 1.70619678 -6.65377378 -4.41772413 1.2777952 -4.7890892
-		 -1.49936175 1.030473709 -4.89959097 -2.93264198 1.0099693537 -4.87930727 -3.14187574 1.49721742 -6.63232422
-		 -4.5646472 1.40369928 -5.6658144 -3.033318043 1.16476297 -5.82760334 -1.55247355 1.14707398 -5.84481049
-		 -2.9926219 1.17634857 -2.97208834 -4.38346529 1.26759565 -3.89301944 -2.92299151 1.085629702 -3.92511225
-		 -1.5151732 1.12061894 -3.9475832 0.7578699 1.48260105 -4.85929203 -0.40829864 1.98407888 -6.63728952
-		 -0.34162867 1.27977347 -4.88046169 -0.37447858 1.33133113 -5.79024887 0.72603858 1.51573265 -5.73517895
-		 -0.32203341 1.34949493 -3.039720774 -0.32291365 1.33527827 -3.95961118 0.8272084 1.47747672 -3.96838999
-		 -1.68718982 1.47817492 0.70918167 -4.59393644 1.32703471 -1.21181524 -1.73168111 1.059975743 -1.094892859
-		 -3.17089868 1.14743996 -1.078142881 -4.50945997 1.27248251 -2.1029315 -3.086836338 1.18841147 -2.023818493
-		 -1.67513335 1.17736292 -2.045681477 -3.20609307 1.4671886 0.72170949 -4.66684866 1.53576946 -0.34138834
-		 -3.21218514 1.22248197 -0.13673109 -1.72145498 1.060320139 -0.14435999 0.97424448 1.15827835 -1.29622197
-		 -0.35809097 1.079662561 -1.19617093 -0.34037632 1.2050308 -2.11941624 0.9642809 1.23333085 -2.18991184
-		 -0.36746934 1.43435478 0.59849143 -0.36145604 1.075557709 -0.27266631 0.92864025 1.19084156 -0.40200019
-		 5.41944456 1.30597377 -2.93244338 3.23870206 1.61019397 -6.62015295 3.43799138 1.18938684 -3.079754591
-		 3.28797269 1.26326847 -4.85929203 1.96465945 1.86916137 -6.62558889 2.026148796 1.40853989 -4.86168242
-		 1.9916687 1.52777898 -5.7289958 3.25614119 1.47114658 -5.73517895 2.20714307 1.33657348 -3.095725298
-		 2.10847807 1.37168276 -3.97754192 3.35731101 1.20666444 -3.96838999 5.30680084 1.42588997 -4.72350407
-		 4.36972332 1.5734067 -6.56446314 4.34476042 1.26142406 -4.81662512 4.3280735 1.46077812 -5.70397472
-		 5.32449389 1.50816667 -5.61861038 4.46705008 1.18700957 -3.026992559 4.39863157 1.20782447 -3.92026615
-		 5.34826422 1.37915063 -3.82683992 3.38999557 1.18915069 0.49064648 3.50434709 1.11319005 -1.29622197
-		 2.28943348 1.11782551 -1.32513344 2.27775621 1.18439245 -2.21245289 3.49438357 1.13512027 -2.18991184
-		 2.13032317 1.44788742 0.46279621 2.22765398 1.13186121 -0.43631282 3.45874286 1.1218555 -0.40200019
-		 5.54136372 1.23037696 -1.14249754 4.55251837 1.18200636 -1.23624551 4.52461338 1.17367816 -2.13327622
-		 5.4879427 1.21091175 -2.038407803 4.55298805 1.33683372 0.53202593 4.54620171 1.25968909 -0.34525359
-		 5.57453156 1.45487082 -0.2689999 6.18775988 2.65379024 0.99289554 5.4001832 2.80784249 1.26807225
-		 3.99539351 2.87303162 1.21557832 2.47545743 2.71315908 1.18743944;
-	setAttr ".vt[166:225]" 0.94173503 2.6079607 1.22028279 -0.54066133 2.63311458 1.35203612
-		 -2.13424897 2.75368333 1.48420489 -3.96847653 2.82758188 1.49913239 -5.33600998 2.74205756 0.95686758
-		 -5.73208809 2.78989649 0.21457259 -5.64505577 2.83840847 -0.83205897 -5.54336119 2.83491611 -1.90655065
-		 -5.44853973 2.80569649 -2.9860189 -5.3913703 2.7930603 -4.066973209 -5.43275261 2.76814151 -5.14866972
-		 -5.6096487 2.70535445 -6.20919991 -5.37475634 2.64026475 -6.93750858 -3.89126062 2.64273405 -7.37756729
-		 -2.052453041 2.55664611 -7.40787601 -0.58846593 2.57373118 -7.39297247 0.76039171 2.59869504 -7.37369585
-		 2.27641654 2.5097332 -7.37562609 3.81363058 2.59256816 -7.3640995 5.17915106 2.60351849 -7.29606056
-		 5.96214247 2.51427317 -6.84852409 6.33179665 2.64498925 -6.15318394 6.31015921 2.69123387 -5.071464539
-		 6.36008644 2.72756171 -3.9884088 6.4458046 2.77042174 -2.9077127 6.52829075 2.81247139 -1.82747936
-		 6.59302855 2.81385517 -0.74687129 6.63408041 2.75880265 0.30349264 6.18808556 2.31888819 1.00073719025
-		 5.40050077 2.15524507 1.27728295 3.99586225 2.12443686 1.22860658 2.47626662 2.15711117 1.19271827
-		 0.94274288 2.12222362 1.22581935 -0.53963298 2.083342552 1.35693455 -2.13368511 2.15852809 1.49025536
-		 -3.96815372 2.18268943 1.50555599 -5.33568335 2.26481056 0.96449924 -5.73174667 2.1985724 0.22131079
-		 -5.64474297 2.12474418 -0.82742101 -5.54304123 2.10225582 -1.90273654 -5.44819498 2.10536957 -2.98238802
-		 -5.39101219 2.09183836 -4.06393671 -5.43237162 2.090506077 -5.14590788 -5.6092186 2.12746334 -6.20572853
-		 -5.37432051 2.17519116 -6.93391991 -3.89078927 2.16291976 -7.373734 -2.051930189 2.24794555 -7.40215874
-		 -0.5882746 2.39027309 -7.38475704 0.76040554 2.44366503 -7.36473989 2.27695251 2.30013585 -7.36928511
-		 3.81410193 2.21861672 -7.36002731 5.17960835 2.21023822 -7.29238796 5.96261358 2.31099916 -6.84321976
-		 6.33221483 2.19725204 -6.1497488 6.3105402 2.17721725 -5.068279743 6.36043692 2.16717911 -3.98523545
-		 6.44612026 2.15057611 -2.90472078 6.52857161 2.13333249 -1.82465672 6.59329796 2.14036512 -0.74337667
-		 6.6343751 2.20645285 0.30907452;
-	setAttr -s 448 ".ed";
-	setAttr ".ed[0:165]"  78 2 1 2 80 1 80 79 1 79 78 1 44 4 1 4 46 1 46 45 1
-		 45 44 1 26 7 1 7 28 1 28 27 1 27 26 1 17 8 1 8 20 1 20 19 1 19 17 1 12 11 1 11 16 1
-		 16 15 1 15 12 1 14 10 1 10 12 1 15 14 1 0 14 1 15 13 1 13 0 1 16 9 1 9 13 1 18 6 1
-		 6 17 1 19 18 1 10 18 1 19 12 1 20 11 1 21 25 1 25 24 1 24 23 1 23 21 1 11 23 1 24 16 1
-		 22 9 1 24 22 1 25 5 1 5 22 1 8 26 1 27 20 1 27 23 1 28 21 1 36 29 1 29 39 1 39 38 1
-		 38 36 1 32 31 1 31 35 1 35 34 1 34 32 1 33 30 1 30 32 1 34 33 1 6 33 1 34 17 1 35 8 1
-		 37 1 1 1 36 1 38 37 1 30 37 1 38 32 1 39 31 1 40 43 1 43 42 1 42 41 1 41 40 1 31 41 1
-		 42 35 1 42 26 1 43 7 1 29 44 1 45 39 1 45 41 1 46 40 1 47 65 1 65 64 1 64 63 1 63 47 1
-		 55 49 1 49 57 1 57 56 1 56 55 1 53 52 1 52 50 1 50 54 1 54 53 1 21 52 1 53 25 1 51 5 1
-		 53 51 1 48 51 1 54 48 1 7 55 1 56 28 1 56 52 1 57 50 1 58 62 1 62 61 1 61 60 1 60 58 1
-		 50 60 1 61 54 1 59 48 1 61 59 1 62 3 1 3 59 1 49 63 1 64 57 1 64 60 1 65 58 1 71 66 1
-		 66 73 1 73 72 1 72 71 1 67 70 1 70 69 1 69 68 1 68 67 1 40 68 1 69 43 1 69 55 1 70 49 1
-		 4 71 1 72 46 1 72 68 1 73 67 1 74 77 1 77 76 1 76 75 1 75 74 1 67 75 1 76 70 1 76 63 1
-		 77 47 1 66 78 1 79 73 1 79 75 1 80 74 1 159 83 1 83 161 1 161 160 1 160 159 1 125 85 1
-		 85 127 1 127 126 1 126 125 1 107 88 1 88 109 1 109 108 1 108 107 1 98 89 1 89 101 1
-		 101 100 1 100 98 1 93 92 1 92 97 1 97 96 1 96 93 1 95 91 1 91 93 1;
-	setAttr ".ed[166:331]" 96 95 1 81 95 1 96 94 1 94 81 1 97 90 1 90 94 1 99 87 1
-		 87 98 1 100 99 1 91 99 1 100 93 1 101 92 1 102 106 1 106 105 1 105 104 1 104 102 1
-		 92 104 1 105 97 1 103 90 1 105 103 1 106 86 1 86 103 1 89 107 1 108 101 1 108 104 1
-		 109 102 1 117 110 1 110 120 1 120 119 1 119 117 1 113 112 1 112 116 1 116 115 1 115 113 1
-		 114 111 1 111 113 1 115 114 1 87 114 1 115 98 1 116 89 1 118 82 1 82 117 1 119 118 1
-		 111 118 1 119 113 1 120 112 1 121 124 1 124 123 1 123 122 1 122 121 1 112 122 1 123 116 1
-		 123 107 1 124 88 1 110 125 1 126 120 1 126 122 1 127 121 1 128 146 1 146 145 1 145 144 1
-		 144 128 1 136 130 1 130 138 1 138 137 1 137 136 1 134 133 1 133 131 1 131 135 1 135 134 1
-		 102 133 1 134 106 1 132 86 1 134 132 1 129 132 1 135 129 1 88 136 1 137 109 1 137 133 1
-		 138 131 1 139 143 1 143 142 1 142 141 1 141 139 1 131 141 1 142 135 1 140 129 1 142 140 1
-		 143 84 1 84 140 1 130 144 1 145 138 1 145 141 1 146 139 1 152 147 1 147 154 1 154 153 1
-		 153 152 1 148 151 1 151 150 1 150 149 1 149 148 1 121 149 1 150 124 1 150 136 1 151 130 1
-		 85 152 1 153 127 1 153 149 1 154 148 1 155 158 1 158 157 1 157 156 1 156 155 1 148 156 1
-		 157 151 1 157 144 1 158 128 1 147 159 1 160 154 1 160 156 1 161 155 1 2 162 1 78 163 1
-		 66 164 1 71 165 1 4 166 1 44 167 1 29 168 1 36 169 1 1 170 1 37 171 1 30 172 1 33 173 1
-		 6 174 1 18 175 1 10 176 1 14 177 1 0 178 1 13 179 1 9 180 1 22 181 1 5 182 1 51 183 1
-		 48 184 1 59 185 1 3 186 1 62 187 1 58 188 1 65 189 1 47 190 1 77 191 1 74 192 1 80 193 1
-		 162 194 1 163 195 1 162 163 1 164 196 1 163 164 1 165 197 1 164 165 1 166 198 1 165 166 1
-		 167 199 1 166 167 1 168 200 1;
-	setAttr ".ed[332:447]" 167 168 1 169 201 1 168 169 1 170 202 1 169 170 1 171 203 1
-		 170 171 1 172 204 1 171 172 1 173 205 1 172 173 1 174 206 1 173 174 1 175 207 1 174 175 1
-		 176 208 1 175 176 1 177 209 1 176 177 1 178 210 1 177 178 1 179 211 1 178 179 1 180 212 1
-		 179 180 1 181 213 1 180 181 1 182 214 1 181 182 1 183 215 1 182 183 1 184 216 1 183 184 1
-		 185 217 1 184 185 1 186 218 1 185 186 1 187 219 1 186 187 1 188 220 1 187 188 1 189 221 1
-		 188 189 1 190 222 1 189 190 1 191 223 1 190 191 1 192 224 1 191 192 1 193 225 1 192 193 1
-		 193 162 1 194 83 1 195 159 1 194 195 1 196 147 1 195 196 1 197 152 1 196 197 1 198 85 1
-		 197 198 1 199 125 1 198 199 1 200 110 1 199 200 1 201 117 1 200 201 1 202 82 1 201 202 1
-		 203 118 1 202 203 1 204 111 1 203 204 1 205 114 1 204 205 1 206 87 1 205 206 1 207 99 1
-		 206 207 1 208 91 1 207 208 1 209 95 1 208 209 1 210 81 1 209 210 1 211 94 1 210 211 1
-		 212 90 1 211 212 1 213 103 1 212 213 1 214 86 1 213 214 1 215 132 1 214 215 1 216 129 1
-		 215 216 1 217 140 1 216 217 1 218 84 1 217 218 1 219 143 1 218 219 1 220 139 1 219 220 1
-		 221 146 1 220 221 1 222 128 1 221 222 1 223 158 1 222 223 1 224 155 1 223 224 1 225 161 1
-		 224 225 1 225 194 1;
-	setAttr -s 224 -ch 896 ".fc[0:223]" -type "polyFaces" 
-		f 4 0 1 2 3
-		mu 0 4 78 2 80 79
-		f 4 4 5 6 7
-		mu 0 4 44 4 46 45
-		f 4 8 9 10 11
-		mu 0 4 26 7 28 27
-		f 4 12 13 14 15
-		mu 0 4 17 8 20 19
-		f 4 16 17 18 19
-		mu 0 4 12 11 16 15
-		f 4 20 21 -20 22
-		mu 0 4 14 10 12 15
-		f 4 23 -23 24 25
-		mu 0 4 0 14 15 13
-		f 4 26 27 -25 -19
-		mu 0 4 16 9 13 15
-		f 4 28 29 -16 30
-		mu 0 4 18 6 17 19
-		f 4 31 -31 32 -22
-		mu 0 4 10 18 19 12
-		f 4 33 -17 -33 -15
-		mu 0 4 20 11 12 19
-		f 4 34 35 36 37
-		mu 0 4 21 25 24 23
-		f 4 -18 38 -37 39
-		mu 0 4 16 11 23 24
-		f 4 40 -27 -40 41
-		mu 0 4 22 9 16 24
-		f 4 42 43 -42 -36
-		mu 0 4 25 5 22 24
-		f 4 44 -12 45 -14
-		mu 0 4 8 26 27 20
-		f 4 46 -39 -34 -46
-		mu 0 4 27 23 11 20
-		f 4 47 -38 -47 -11
-		mu 0 4 28 21 23 27
-		f 4 48 49 50 51
-		mu 0 4 36 29 39 38
-		f 4 52 53 54 55
-		mu 0 4 32 31 35 34
-		f 4 56 57 -56 58
-		mu 0 4 33 30 32 34
-		f 4 59 -59 60 -30
-		mu 0 4 6 33 34 17
-		f 4 61 -13 -61 -55
-		mu 0 4 35 8 17 34
-		f 4 62 63 -52 64
-		mu 0 4 37 1 36 38
-		f 4 65 -65 66 -58
-		mu 0 4 30 37 38 32
-		f 4 67 -53 -67 -51
-		mu 0 4 39 31 32 38
-		f 4 68 69 70 71
-		mu 0 4 40 43 42 41
-		f 4 -54 72 -71 73
-		mu 0 4 35 31 41 42
-		f 4 -45 -62 -74 74
-		mu 0 4 26 8 35 42
-		f 4 75 -9 -75 -70
-		mu 0 4 43 7 26 42
-		f 4 76 -8 77 -50
-		mu 0 4 29 44 45 39
-		f 4 78 -73 -68 -78
-		mu 0 4 45 41 31 39
-		f 4 79 -72 -79 -7
-		mu 0 4 46 40 41 45
-		f 4 80 81 82 83
-		mu 0 4 47 65 64 63
-		f 4 84 85 86 87
-		mu 0 4 55 49 57 56
-		f 4 88 89 90 91
-		mu 0 4 53 52 50 54
-		f 4 -35 92 -89 93
-		mu 0 4 25 21 52 53
-		f 4 94 -43 -94 95
-		mu 0 4 51 5 25 53
-		f 4 96 -96 -92 97
-		mu 0 4 48 51 53 54
-		f 4 -10 98 -88 99
-		mu 0 4 28 7 55 56
-		f 4 -48 -100 100 -93
-		mu 0 4 21 28 56 52
-		f 4 101 -90 -101 -87
-		mu 0 4 57 50 52 56
-		f 4 102 103 104 105
-		mu 0 4 58 62 61 60
-		f 4 -91 106 -105 107
-		mu 0 4 54 50 60 61
-		f 4 108 -98 -108 109
-		mu 0 4 59 48 54 61
-		f 4 110 111 -110 -104
-		mu 0 4 62 3 59 61
-		f 4 -86 112 -83 113
-		mu 0 4 57 49 63 64
-		f 4 -107 -102 -114 114
-		mu 0 4 60 50 57 64
-		f 4 115 -106 -115 -82
-		mu 0 4 65 58 60 64
-		f 4 116 117 118 119
-		mu 0 4 71 66 73 72
-		f 4 120 121 122 123
-		mu 0 4 67 70 69 68
-		f 4 -69 124 -123 125
-		mu 0 4 43 40 68 69
-		f 4 -99 -76 -126 126
-		mu 0 4 55 7 43 69
-		f 4 127 -85 -127 -122
-		mu 0 4 70 49 55 69
-		f 4 128 -120 129 -6
-		mu 0 4 4 71 72 46
-		f 4 130 -125 -80 -130
-		mu 0 4 72 68 40 46
-		f 4 131 -124 -131 -119
-		mu 0 4 73 67 68 72
-		f 4 132 133 134 135
-		mu 0 4 74 77 76 75
-		f 4 -121 136 -135 137
-		mu 0 4 70 67 75 76
-		f 4 -113 -128 -138 138
-		mu 0 4 63 49 70 76
-		f 4 139 -84 -139 -134
-		mu 0 4 77 47 63 76
-		f 4 140 -4 141 -118
-		mu 0 4 66 78 79 73
-		f 4 142 -137 -132 -142
-		mu 0 4 79 75 67 73
-		f 4 143 -136 -143 -3
-		mu 0 4 80 74 75 79
-		f 4 -148 -147 -146 -145
-		mu 0 4 81 82 83 84
-		f 4 -152 -151 -150 -149
-		mu 0 4 85 86 87 88
-		f 4 -156 -155 -154 -153
-		mu 0 4 89 90 91 92
-		f 4 -160 -159 -158 -157
-		mu 0 4 93 94 95 96
-		f 4 -164 -163 -162 -161
-		mu 0 4 97 98 99 100
-		f 4 -167 163 -166 -165
-		mu 0 4 101 98 97 102
-		f 4 -170 -169 166 -168
-		mu 0 4 103 104 98 101
-		f 4 162 168 -172 -171
-		mu 0 4 99 98 104 105
-		f 4 -175 159 -174 -173
-		mu 0 4 106 94 93 107
-		f 4 165 -177 174 -176
-		mu 0 4 102 97 94 106
-		f 4 158 176 160 -178
-		mu 0 4 95 94 97 100
-		f 4 -182 -181 -180 -179
-		mu 0 4 108 109 110 111
-		f 4 -184 180 -183 161
-		mu 0 4 99 110 109 100
-		f 4 -186 183 170 -185
-		mu 0 4 112 110 99 105
-		f 4 179 185 -188 -187
-		mu 0 4 111 110 112 113
-		f 4 157 -190 155 -189
-		mu 0 4 96 95 90 89
-		f 4 189 177 182 -191
-		mu 0 4 90 95 100 109
-		f 4 154 190 181 -192
-		mu 0 4 91 90 109 108
-		f 4 -196 -195 -194 -193
-		mu 0 4 114 115 116 117
-		f 4 -200 -199 -198 -197
-		mu 0 4 118 119 120 121
-		f 4 -203 199 -202 -201
-		mu 0 4 122 119 118 123
-		f 4 173 -205 202 -204
-		mu 0 4 107 93 119 122
-		f 4 198 204 156 -206
-		mu 0 4 120 119 93 96
-		f 4 -209 195 -208 -207
-		mu 0 4 124 115 114 125
-		f 4 201 -211 208 -210
-		mu 0 4 123 118 115 124
-		f 4 194 210 196 -212
-		mu 0 4 116 115 118 121
-		f 4 -216 -215 -214 -213
-		mu 0 4 126 127 128 129
-		f 4 -218 214 -217 197
-		mu 0 4 120 128 127 121
-		f 4 -219 217 205 188
-		mu 0 4 89 128 120 96
-		f 4 213 218 152 -220
-		mu 0 4 129 128 89 92
-		f 4 193 -222 151 -221
-		mu 0 4 117 116 86 85
-		f 4 221 211 216 -223
-		mu 0 4 86 116 121 127
-		f 4 150 222 215 -224
-		mu 0 4 87 86 127 126
-		f 4 -228 -227 -226 -225
-		mu 0 4 130 131 132 133
-		f 4 -232 -231 -230 -229
-		mu 0 4 134 135 136 137
-		f 4 -236 -235 -234 -233
-		mu 0 4 138 139 140 141
-		f 4 -238 232 -237 178
-		mu 0 4 111 138 141 108
-		f 4 -240 237 186 -239
-		mu 0 4 142 138 111 113
-		f 4 -242 235 239 -241
-		mu 0 4 143 139 138 142
-		f 4 -244 231 -243 153
-		mu 0 4 91 135 134 92
-		f 4 236 -245 243 191
-		mu 0 4 108 141 135 91
-		f 4 230 244 233 -246
-		mu 0 4 136 135 141 140
-		f 4 -250 -249 -248 -247
-		mu 0 4 144 145 146 147
-		f 4 -252 248 -251 234
-		mu 0 4 139 146 145 140
-		f 4 -254 251 241 -253
-		mu 0 4 148 146 139 143
-		f 4 247 253 -256 -255
-		mu 0 4 147 146 148 149
-		f 4 -258 226 -257 229
-		mu 0 4 136 132 131 137
-		f 4 -259 257 245 250
-		mu 0 4 145 132 136 140
-		f 4 225 258 249 -260
-		mu 0 4 133 132 145 144
-		f 4 -264 -263 -262 -261
-		mu 0 4 150 151 152 153
-		f 4 -268 -267 -266 -265
-		mu 0 4 154 155 156 157
-		f 4 -270 266 -269 212
-		mu 0 4 129 156 155 126
-		f 4 -271 269 219 242
-		mu 0 4 134 156 129 92
-		f 4 265 270 228 -272
-		mu 0 4 157 156 134 137
-		f 4 149 -274 263 -273
-		mu 0 4 88 87 151 150
-		f 4 273 223 268 -275
-		mu 0 4 151 87 126 155
-		f 4 262 274 267 -276
-		mu 0 4 152 151 155 154
-		f 4 -280 -279 -278 -277
-		mu 0 4 158 159 160 161
-		f 4 -282 278 -281 264
-		mu 0 4 157 160 159 154
-		f 4 -283 281 271 256
-		mu 0 4 131 160 157 137
-		f 4 277 282 227 -284
-		mu 0 4 161 160 131 130
-		f 4 261 -286 147 -285
-		mu 0 4 153 152 82 81
-		f 4 285 275 280 -287
-		mu 0 4 82 152 154 159
-		f 4 146 286 279 -288
-		mu 0 4 83 82 159 158
-		f 4 386 385 144 -385
-		mu 0 4 194 195 81 84
-		f 4 388 387 284 -386
-		mu 0 4 195 196 153 81
-		f 4 390 389 260 -388
-		mu 0 4 196 197 150 153
-		f 4 392 391 272 -390
-		mu 0 4 197 198 88 150
-		f 4 394 393 148 -392
-		mu 0 4 198 199 85 88
-		f 4 396 395 220 -394
-		mu 0 4 199 200 117 85
-		f 4 398 397 192 -396
-		mu 0 4 200 201 114 117
-		f 4 400 399 207 -398
-		mu 0 4 201 202 125 114
-		f 4 402 401 206 -400
-		mu 0 4 202 203 124 125
-		f 4 404 403 209 -402
-		mu 0 4 203 204 123 124
-		f 4 406 405 200 -404
-		mu 0 4 204 205 122 123
-		f 4 408 407 203 -406
-		mu 0 4 205 206 107 122
-		f 4 410 409 172 -408
-		mu 0 4 206 207 106 107
-		f 4 412 411 175 -410
-		mu 0 4 207 208 102 106
-		f 4 414 413 164 -412
-		mu 0 4 208 209 101 102
-		f 4 416 415 167 -414
-		mu 0 4 209 210 103 101
-		f 4 418 417 169 -416
-		mu 0 4 210 211 104 103
-		f 4 420 419 171 -418
-		mu 0 4 211 212 105 104
-		f 4 422 421 184 -420
-		mu 0 4 212 213 112 105
-		f 4 424 423 187 -422
-		mu 0 4 213 214 113 112
-		f 4 426 425 238 -424
-		mu 0 4 214 215 142 113
-		f 4 428 427 240 -426
-		mu 0 4 215 216 143 142
-		f 4 430 429 252 -428
-		mu 0 4 216 217 148 143
-		f 4 432 431 255 -430
-		mu 0 4 217 218 149 148
-		f 4 434 433 254 -432
-		mu 0 4 218 219 147 149
-		f 4 436 435 246 -434
-		mu 0 4 219 220 144 147
-		f 4 438 437 259 -436
-		mu 0 4 220 221 133 144
-		f 4 440 439 224 -438
-		mu 0 4 221 222 130 133
-		f 4 442 441 283 -440
-		mu 0 4 222 223 161 130
-		f 4 444 443 276 -442
-		mu 0 4 223 224 158 161
-		f 4 446 445 287 -444
-		mu 0 4 224 225 83 158
-		f 4 447 384 145 -446
-		mu 0 4 225 194 84 83
-		f 4 -1 289 -323 -289
-		mu 0 4 2 78 163 162
-		f 4 -141 290 -325 -290
-		mu 0 4 78 66 164 163
-		f 4 -117 291 -327 -291
-		mu 0 4 66 71 165 164
-		f 4 -129 292 -329 -292
-		mu 0 4 71 4 166 165
-		f 4 -5 293 -331 -293
-		mu 0 4 4 44 167 166
-		f 4 -77 294 -333 -294
-		mu 0 4 44 29 168 167
-		f 4 -49 295 -335 -295
-		mu 0 4 29 36 169 168
-		f 4 -64 296 -337 -296
-		mu 0 4 36 1 170 169
-		f 4 -63 297 -339 -297
-		mu 0 4 1 37 171 170
-		f 4 -66 298 -341 -298
-		mu 0 4 37 30 172 171
-		f 4 -57 299 -343 -299
-		mu 0 4 30 33 173 172
-		f 4 -60 300 -345 -300
-		mu 0 4 33 6 174 173
-		f 4 -29 301 -347 -301
-		mu 0 4 6 18 175 174
-		f 4 -32 302 -349 -302
-		mu 0 4 18 10 176 175
-		f 4 -21 303 -351 -303
-		mu 0 4 10 14 177 176
-		f 4 -24 304 -353 -304
-		mu 0 4 14 0 178 177
-		f 4 -26 305 -355 -305
-		mu 0 4 0 13 179 178
-		f 4 -28 306 -357 -306
-		mu 0 4 13 9 180 179
-		f 4 -41 307 -359 -307
-		mu 0 4 9 22 181 180
-		f 4 -44 308 -361 -308
-		mu 0 4 22 5 182 181
-		f 4 -95 309 -363 -309
-		mu 0 4 5 51 183 182
-		f 4 -97 310 -365 -310
-		mu 0 4 51 48 184 183
-		f 4 -109 311 -367 -311
-		mu 0 4 48 59 185 184
-		f 4 -112 312 -369 -312
-		mu 0 4 59 3 186 185
-		f 4 -111 313 -371 -313
-		mu 0 4 3 62 187 186
-		f 4 -103 314 -373 -314
-		mu 0 4 62 58 188 187
-		f 4 -116 315 -375 -315
-		mu 0 4 58 65 189 188
-		f 4 -81 316 -377 -316
-		mu 0 4 65 47 190 189
-		f 4 -140 317 -379 -317
-		mu 0 4 47 77 191 190
-		f 4 -133 318 -381 -318
-		mu 0 4 77 74 192 191
-		f 4 -144 319 -383 -319
-		mu 0 4 74 80 193 192
-		f 4 -2 288 -384 -320
-		mu 0 4 80 2 162 193
-		f 4 322 321 -387 -321
-		mu 0 4 162 163 195 194
-		f 4 324 323 -389 -322
-		mu 0 4 163 164 196 195
-		f 4 326 325 -391 -324
-		mu 0 4 164 165 197 196
-		f 4 328 327 -393 -326
-		mu 0 4 165 166 198 197
-		f 4 330 329 -395 -328
-		mu 0 4 166 167 199 198
-		f 4 332 331 -397 -330
-		mu 0 4 167 168 200 199
-		f 4 334 333 -399 -332
-		mu 0 4 168 169 201 200
-		f 4 336 335 -401 -334
-		mu 0 4 169 170 202 201
-		f 4 338 337 -403 -336
-		mu 0 4 170 171 203 202
-		f 4 340 339 -405 -338
-		mu 0 4 171 172 204 203
-		f 4 342 341 -407 -340
-		mu 0 4 172 173 205 204
-		f 4 344 343 -409 -342
-		mu 0 4 173 174 206 205
-		f 4 346 345 -411 -344
-		mu 0 4 174 175 207 206
-		f 4 348 347 -413 -346
-		mu 0 4 175 176 208 207
-		f 4 350 349 -415 -348
-		mu 0 4 176 177 209 208
-		f 4 352 351 -417 -350
-		mu 0 4 177 178 210 209
-		f 4 354 353 -419 -352
-		mu 0 4 178 179 211 210
-		f 4 356 355 -421 -354
-		mu 0 4 179 180 212 211
-		f 4 358 357 -423 -356
-		mu 0 4 180 181 213 212
-		f 4 360 359 -425 -358
-		mu 0 4 181 182 214 213
-		f 4 362 361 -427 -360
-		mu 0 4 182 183 215 214
-		f 4 364 363 -429 -362
-		mu 0 4 183 184 216 215
-		f 4 366 365 -431 -364
-		mu 0 4 184 185 217 216
-		f 4 368 367 -433 -366
-		mu 0 4 185 186 218 217
-		f 4 370 369 -435 -368
-		mu 0 4 186 187 219 218
-		f 4 372 371 -437 -370
-		mu 0 4 187 188 220 219
-		f 4 374 373 -439 -372
-		mu 0 4 188 189 221 220
-		f 4 376 375 -441 -374
-		mu 0 4 189 190 222 221
-		f 4 378 377 -443 -376
-		mu 0 4 190 191 223 222
-		f 4 380 379 -445 -378
-		mu 0 4 191 192 224 223
-		f 4 382 381 -447 -380
-		mu 0 4 192 193 225 224
-		f 4 383 320 -448 -382
-		mu 0 4 193 162 194 225;
-	setAttr ".cd" -type "dataPolyComponent" Index_Data Edge 0 ;
-	setAttr ".cvd" -type "dataPolyComponent" Index_Data Vertex 0 ;
-	setAttr ".pd[0]" -type "dataPolyComponent" Index_Data UV 0 ;
-	setAttr ".hfd" -type "dataPolyComponent" Index_Data Face 0 ;
-	setAttr ".dr" 1;
 createNode lightLinker -s -n "lightLinker1";
-	rename -uid "5C29F845-44EE-7452-44A7-E592E15DEC02";
+	rename -uid "A70ECF1E-4628-675B-70DD-D398B2E7549C";
 	setAttr -s 2 ".lnk";
 	setAttr -s 2 ".slnk";
 createNode shapeEditorManager -n "shapeEditorManager";
-	rename -uid "2B246EF0-4B6A-EE31-435E-239C5C2F3CD1";
+	rename -uid "3CFEF97B-4B03-C18F-37E7-3AB842749D46";
 createNode poseInterpolatorManager -n "poseInterpolatorManager";
-	rename -uid "B471A4E9-4A34-01C5-C0F4-B08DCE909457";
+	rename -uid "F64ADA8F-49FD-B301-4B85-519F567695A8";
 createNode displayLayerManager -n "layerManager";
-	rename -uid "94D33EF2-49CA-9C70-D4FC-1FBED76CEBAE";
+	rename -uid "3E620F3D-4284-69C8-C83D-4CB257BCAA08";
 	setAttr ".cdl" 1;
 	setAttr -s 2 ".dli[1]"  1;
 	setAttr -s 2 ".dli";
@@ -1746,7 +1060,7 @@ createNode displayLayer -n "defaultLayer";
 	rename -uid "3B860293-4B10-444C-F3B9-08B921343085";
 	setAttr ".ufem" -type "stringArray" 0  ;
 createNode renderLayerManager -n "renderLayerManager";
-	rename -uid "9F3A7D52-468A-79AE-829A-AEA023A88C2A";
+	rename -uid "F2A172F4-4F3A-F513-CA8B-35BAE62F5822";
 createNode renderLayer -n "defaultRenderLayer";
 	rename -uid "4B756DAF-4A18-E112-B447-D1979BA232BF";
 	setAttr ".g" yes;
@@ -1760,13 +1074,13 @@ createNode script -n "uiConfigurationScriptNode";
 		+ "\t\tif (!$useSceneConfig) {\n\t\t\tpanel -e -l $label $panelName;\n\t\t}\n\t}\n\n\n\t$panelName = `sceneUIReplacement -getNextPanel \"modelPanel\" (localizedPanelLabel(\"Side View\")) `;\n\tif (\"\" != $panelName) {\n\t\t$label = `panel -q -label $panelName`;\n\t\tmodelPanel -edit -l (localizedPanelLabel(\"Side View\")) -mbv $menusOkayInPanels  $panelName;\n\t\t$editorName = $panelName;\n        modelEditor -e \n            -camera \"|side\" \n            -useInteractiveMode 0\n            -displayLights \"default\" \n            -displayAppearance \"smoothShaded\" \n            -activeOnly 0\n            -ignorePanZoom 0\n            -wireframeOnShaded 0\n            -headsUpDisplay 1\n            -holdOuts 1\n            -selectionHiliteDisplay 1\n            -useDefaultMaterial 0\n            -bufferMode \"double\" \n            -twoSidedLighting 0\n            -backfaceCulling 0\n            -xray 0\n            -jointXray 0\n            -activeComponentsXray 0\n            -displayTextures 0\n            -smoothWireframe 0\n            -lineWidth 1\n            -textureAnisotropic 0\n"
 		+ "            -textureHilight 1\n            -textureSampling 2\n            -textureDisplay \"modulate\" \n            -textureMaxSize 16384\n            -fogging 0\n            -fogSource \"fragment\" \n            -fogMode \"linear\" \n            -fogStart 0\n            -fogEnd 100\n            -fogDensity 0.1\n            -fogColor 0.5 0.5 0.5 1 \n            -depthOfFieldPreview 1\n            -maxConstantTransparency 1\n            -rendererName \"vp2Renderer\" \n            -objectFilterShowInHUD 1\n            -isFiltered 0\n            -colorResolution 256 256 \n            -bumpResolution 512 512 \n            -textureCompression 0\n            -transparencyAlgorithm \"frontAndBackCull\" \n            -transpInShadows 0\n            -cullingOverride \"none\" \n            -lowQualityLighting 0\n            -maximumNumHardwareLights 1\n            -occlusionCulling 0\n            -shadingModel 0\n            -useBaseRenderer 0\n            -useReducedRenderer 0\n            -smallObjectCulling 0\n            -smallObjectThreshold -1 \n            -interactiveDisableShadows 0\n"
 		+ "            -interactiveBackFaceCull 0\n            -sortTransparent 1\n            -controllers 1\n            -nurbsCurves 1\n            -nurbsSurfaces 1\n            -polymeshes 1\n            -subdivSurfaces 1\n            -planes 1\n            -lights 1\n            -cameras 1\n            -controlVertices 1\n            -hulls 1\n            -grid 1\n            -imagePlane 1\n            -joints 1\n            -ikHandles 1\n            -deformers 1\n            -dynamics 1\n            -particleInstancers 1\n            -fluids 1\n            -hairSystems 1\n            -follicles 1\n            -nCloths 1\n            -nParticles 1\n            -nRigids 1\n            -dynamicConstraints 1\n            -locators 1\n            -manipulators 1\n            -pluginShapes 1\n            -dimensions 1\n            -handles 1\n            -pivots 1\n            -textures 1\n            -strokes 1\n            -motionTrails 1\n            -clipGhosts 1\n            -bluePencil 1\n            -greasePencils 0\n            -excludeObjectPreset \"All\" \n"
-		+ "            -shadows 0\n            -captureSequenceNumber -1\n            -width 2040\n            -height 1133\n            -sceneRenderFilter 0\n            $editorName;\n        modelEditor -e -viewSelected 0 $editorName;\n        modelEditor -e \n            -pluginObjects \"gpuCacheDisplayFilter\" 1 \n            $editorName;\n\t\tif (!$useSceneConfig) {\n\t\t\tpanel -e -l $label $panelName;\n\t\t}\n\t}\n\n\n\t$panelName = `sceneUIReplacement -getNextPanel \"modelPanel\" (localizedPanelLabel(\"Front View\")) `;\n\tif (\"\" != $panelName) {\n\t\t$label = `panel -q -label $panelName`;\n\t\tmodelPanel -edit -l (localizedPanelLabel(\"Front View\")) -mbv $menusOkayInPanels  $panelName;\n\t\t$editorName = $panelName;\n        modelEditor -e \n            -camera \"|front\" \n            -useInteractiveMode 0\n            -displayLights \"default\" \n            -displayAppearance \"smoothShaded\" \n            -activeOnly 0\n            -ignorePanZoom 0\n            -wireframeOnShaded 0\n            -headsUpDisplay 1\n            -holdOuts 1\n            -selectionHiliteDisplay 1\n"
+		+ "            -shadows 0\n            -captureSequenceNumber -1\n            -width 1\n            -height 1\n            -sceneRenderFilter 0\n            $editorName;\n        modelEditor -e -viewSelected 0 $editorName;\n        modelEditor -e \n            -pluginObjects \"gpuCacheDisplayFilter\" 1 \n            $editorName;\n\t\tif (!$useSceneConfig) {\n\t\t\tpanel -e -l $label $panelName;\n\t\t}\n\t}\n\n\n\t$panelName = `sceneUIReplacement -getNextPanel \"modelPanel\" (localizedPanelLabel(\"Front View\")) `;\n\tif (\"\" != $panelName) {\n\t\t$label = `panel -q -label $panelName`;\n\t\tmodelPanel -edit -l (localizedPanelLabel(\"Front View\")) -mbv $menusOkayInPanels  $panelName;\n\t\t$editorName = $panelName;\n        modelEditor -e \n            -camera \"|front\" \n            -useInteractiveMode 0\n            -displayLights \"default\" \n            -displayAppearance \"smoothShaded\" \n            -activeOnly 0\n            -ignorePanZoom 0\n            -wireframeOnShaded 0\n            -headsUpDisplay 1\n            -holdOuts 1\n            -selectionHiliteDisplay 1\n"
 		+ "            -useDefaultMaterial 0\n            -bufferMode \"double\" \n            -twoSidedLighting 0\n            -backfaceCulling 0\n            -xray 0\n            -jointXray 0\n            -activeComponentsXray 0\n            -displayTextures 0\n            -smoothWireframe 0\n            -lineWidth 1\n            -textureAnisotropic 0\n            -textureHilight 1\n            -textureSampling 2\n            -textureDisplay \"modulate\" \n            -textureMaxSize 16384\n            -fogging 0\n            -fogSource \"fragment\" \n            -fogMode \"linear\" \n            -fogStart 0\n            -fogEnd 100\n            -fogDensity 0.1\n            -fogColor 0.5 0.5 0.5 1 \n            -depthOfFieldPreview 1\n            -maxConstantTransparency 1\n            -rendererName \"vp2Renderer\" \n            -objectFilterShowInHUD 1\n            -isFiltered 0\n            -colorResolution 256 256 \n            -bumpResolution 512 512 \n            -textureCompression 0\n            -transparencyAlgorithm \"frontAndBackCull\" \n            -transpInShadows 0\n"
 		+ "            -cullingOverride \"none\" \n            -lowQualityLighting 0\n            -maximumNumHardwareLights 1\n            -occlusionCulling 0\n            -shadingModel 0\n            -useBaseRenderer 0\n            -useReducedRenderer 0\n            -smallObjectCulling 0\n            -smallObjectThreshold -1 \n            -interactiveDisableShadows 0\n            -interactiveBackFaceCull 0\n            -sortTransparent 1\n            -controllers 1\n            -nurbsCurves 1\n            -nurbsSurfaces 1\n            -polymeshes 1\n            -subdivSurfaces 1\n            -planes 1\n            -lights 1\n            -cameras 1\n            -controlVertices 1\n            -hulls 1\n            -grid 1\n            -imagePlane 1\n            -joints 1\n            -ikHandles 1\n            -deformers 1\n            -dynamics 1\n            -particleInstancers 1\n            -fluids 1\n            -hairSystems 1\n            -follicles 1\n            -nCloths 1\n            -nParticles 1\n            -nRigids 1\n            -dynamicConstraints 1\n"
 		+ "            -locators 1\n            -manipulators 1\n            -pluginShapes 1\n            -dimensions 1\n            -handles 1\n            -pivots 1\n            -textures 1\n            -strokes 1\n            -motionTrails 1\n            -clipGhosts 1\n            -bluePencil 1\n            -greasePencils 0\n            -excludeObjectPreset \"All\" \n            -shadows 0\n            -captureSequenceNumber -1\n            -width 1\n            -height 1\n            -sceneRenderFilter 0\n            $editorName;\n        modelEditor -e -viewSelected 0 $editorName;\n        modelEditor -e \n            -pluginObjects \"gpuCacheDisplayFilter\" 1 \n            $editorName;\n\t\tif (!$useSceneConfig) {\n\t\t\tpanel -e -l $label $panelName;\n\t\t}\n\t}\n\n\n\t$panelName = `sceneUIReplacement -getNextPanel \"modelPanel\" (localizedPanelLabel(\"Persp View\")) `;\n\tif (\"\" != $panelName) {\n\t\t$label = `panel -q -label $panelName`;\n\t\tmodelPanel -edit -l (localizedPanelLabel(\"Persp View\")) -mbv $menusOkayInPanels  $panelName;\n\t\t$editorName = $panelName;\n        modelEditor -e \n"
 		+ "            -camera \"|persp\" \n            -useInteractiveMode 0\n            -displayLights \"default\" \n            -displayAppearance \"smoothShaded\" \n            -activeOnly 0\n            -ignorePanZoom 0\n            -wireframeOnShaded 0\n            -headsUpDisplay 1\n            -holdOuts 1\n            -selectionHiliteDisplay 1\n            -useDefaultMaterial 0\n            -bufferMode \"double\" \n            -twoSidedLighting 0\n            -backfaceCulling 0\n            -xray 0\n            -jointXray 0\n            -activeComponentsXray 0\n            -displayTextures 1\n            -smoothWireframe 0\n            -lineWidth 1\n            -textureAnisotropic 0\n            -textureHilight 1\n            -textureSampling 2\n            -textureDisplay \"modulate\" \n            -textureMaxSize 16384\n            -fogging 0\n            -fogSource \"fragment\" \n            -fogMode \"linear\" \n            -fogStart 0\n            -fogEnd 100\n            -fogDensity 0.1\n            -fogColor 0.5 0.5 0.5 1 \n            -depthOfFieldPreview 1\n"
 		+ "            -maxConstantTransparency 1\n            -rendererName \"vp2Renderer\" \n            -objectFilterShowInHUD 1\n            -isFiltered 0\n            -colorResolution 256 256 \n            -bumpResolution 512 512 \n            -textureCompression 0\n            -transparencyAlgorithm \"frontAndBackCull\" \n            -transpInShadows 0\n            -cullingOverride \"none\" \n            -lowQualityLighting 0\n            -maximumNumHardwareLights 1\n            -occlusionCulling 0\n            -shadingModel 0\n            -useBaseRenderer 0\n            -useReducedRenderer 0\n            -smallObjectCulling 0\n            -smallObjectThreshold -1 \n            -interactiveDisableShadows 0\n            -interactiveBackFaceCull 0\n            -sortTransparent 1\n            -controllers 1\n            -nurbsCurves 1\n            -nurbsSurfaces 1\n            -polymeshes 1\n            -subdivSurfaces 1\n            -planes 1\n            -lights 1\n            -cameras 1\n            -controlVertices 1\n            -hulls 1\n            -grid 1\n"
-		+ "            -imagePlane 1\n            -joints 1\n            -ikHandles 1\n            -deformers 1\n            -dynamics 1\n            -particleInstancers 1\n            -fluids 1\n            -hairSystems 1\n            -follicles 1\n            -nCloths 1\n            -nParticles 1\n            -nRigids 1\n            -dynamicConstraints 1\n            -locators 1\n            -manipulators 1\n            -pluginShapes 1\n            -dimensions 1\n            -handles 1\n            -pivots 1\n            -textures 1\n            -strokes 1\n            -motionTrails 1\n            -clipGhosts 1\n            -bluePencil 1\n            -greasePencils 0\n            -excludeObjectPreset \"All\" \n            -shadows 0\n            -captureSequenceNumber -1\n            -width 1140\n            -height 1132\n            -sceneRenderFilter 0\n            $editorName;\n        modelEditor -e -viewSelected 0 $editorName;\n        modelEditor -e \n            -pluginObjects \"gpuCacheDisplayFilter\" 1 \n            $editorName;\n\t\tif (!$useSceneConfig) {\n"
+		+ "            -imagePlane 1\n            -joints 1\n            -ikHandles 1\n            -deformers 1\n            -dynamics 1\n            -particleInstancers 1\n            -fluids 1\n            -hairSystems 1\n            -follicles 1\n            -nCloths 1\n            -nParticles 1\n            -nRigids 1\n            -dynamicConstraints 1\n            -locators 1\n            -manipulators 1\n            -pluginShapes 1\n            -dimensions 1\n            -handles 1\n            -pivots 1\n            -textures 1\n            -strokes 1\n            -motionTrails 1\n            -clipGhosts 1\n            -bluePencil 1\n            -greasePencils 0\n            -excludeObjectPreset \"All\" \n            -shadows 0\n            -captureSequenceNumber -1\n            -width 2040\n            -height 1132\n            -sceneRenderFilter 0\n            $editorName;\n        modelEditor -e -viewSelected 0 $editorName;\n        modelEditor -e \n            -pluginObjects \"gpuCacheDisplayFilter\" 1 \n            $editorName;\n\t\tif (!$useSceneConfig) {\n"
 		+ "\t\t\tpanel -e -l $label $panelName;\n\t\t}\n\t}\n\n\n\t$panelName = `sceneUIReplacement -getNextPanel \"outlinerPanel\" (localizedPanelLabel(\"ToggledOutliner\")) `;\n\tif (\"\" != $panelName) {\n\t\t$label = `panel -q -label $panelName`;\n\t\toutlinerPanel -edit -l (localizedPanelLabel(\"ToggledOutliner\")) -mbv $menusOkayInPanels  $panelName;\n\t\t$editorName = $panelName;\n        outlinerEditor -e \n            -docTag \"isolOutln_fromSeln\" \n            -showShapes 0\n            -showAssignedMaterials 0\n            -showTimeEditor 1\n            -showReferenceNodes 1\n            -showReferenceMembers 1\n            -showAttributes 0\n            -showConnected 0\n            -showAnimCurvesOnly 0\n            -showMuteInfo 0\n            -organizeByLayer 1\n            -organizeByClip 1\n            -showAnimLayerWeight 1\n            -autoExpandLayers 1\n            -autoExpand 0\n            -showDagOnly 1\n            -showAssets 1\n            -showContainedOnly 1\n            -showPublishedAsConnected 0\n            -showParentContainers 0\n            -showContainerContents 1\n"
 		+ "            -ignoreDagHierarchy 0\n            -expandConnections 0\n            -showUpstreamCurves 1\n            -showUnitlessCurves 1\n            -showCompounds 1\n            -showLeafs 1\n            -showNumericAttrsOnly 0\n            -highlightActive 1\n            -autoSelectNewObjects 0\n            -doNotSelectNewObjects 0\n            -dropIsParent 1\n            -transmitFilters 0\n            -setFilter \"defaultSetFilter\" \n            -showSetMembers 1\n            -allowMultiSelection 1\n            -alwaysToggleSelect 0\n            -directSelect 0\n            -isSet 0\n            -isSetMember 0\n            -showUfeItems 1\n            -displayMode \"DAG\" \n            -expandObjects 0\n            -setsIgnoreFilters 1\n            -containersIgnoreFilters 0\n            -editAttrName 0\n            -showAttrValues 0\n            -highlightSecondary 0\n            -showUVAttrsOnly 0\n            -showTextureNodesOnly 0\n            -attrAlphaOrder \"default\" \n            -animLayerFilterOptions \"allAffecting\" \n            -sortOrder \"none\" \n"
 		+ "            -longNames 0\n            -niceNames 1\n            -selectCommand \"print(\\\"\\\")\" \n            -showNamespace 1\n            -showPinIcons 0\n            -mapMotionTrails 0\n            -ignoreHiddenAttribute 0\n            -ignoreOutlinerColor 0\n            -renderFilterVisible 0\n            -renderFilterIndex 0\n            -selectionOrder \"chronological\" \n            -expandAttribute 0\n            $editorName;\n\t\tif (!$useSceneConfig) {\n\t\t\tpanel -e -l $label $panelName;\n\t\t}\n\t}\n\n\n\t$panelName = `sceneUIReplacement -getNextPanel \"outlinerPanel\" (localizedPanelLabel(\"Outliner\")) `;\n\tif (\"\" != $panelName) {\n\t\t$label = `panel -q -label $panelName`;\n\t\toutlinerPanel -edit -l (localizedPanelLabel(\"Outliner\")) -mbv $menusOkayInPanels  $panelName;\n\t\t$editorName = $panelName;\n        outlinerEditor -e \n            -showShapes 0\n            -showAssignedMaterials 0\n            -showTimeEditor 1\n            -showReferenceNodes 0\n            -showReferenceMembers 0\n            -showAttributes 0\n            -showConnected 0\n"
@@ -1793,8 +1107,8 @@ createNode script -n "uiConfigurationScriptNode";
 		+ "                -bumpResolution 4 4 \n                -textureCompression 0\n                -transparencyAlgorithm \"frontAndBackCull\" \n                -transpInShadows 0\n                -cullingOverride \"none\" \n                -lowQualityLighting 0\n                -maximumNumHardwareLights 0\n                -occlusionCulling 0\n                -shadingModel 0\n                -useBaseRenderer 0\n                -useReducedRenderer 0\n                -smallObjectCulling 0\n                -smallObjectThreshold -1 \n                -interactiveDisableShadows 0\n                -interactiveBackFaceCull 0\n                -sortTransparent 1\n                -controllers 1\n                -nurbsCurves 1\n                -nurbsSurfaces 1\n                -polymeshes 1\n                -subdivSurfaces 1\n                -planes 1\n                -lights 1\n                -cameras 1\n                -controlVertices 1\n                -hulls 1\n                -grid 1\n                -imagePlane 1\n                -joints 1\n                -ikHandles 1\n"
 		+ "                -deformers 1\n                -dynamics 1\n                -particleInstancers 1\n                -fluids 1\n                -hairSystems 1\n                -follicles 1\n                -nCloths 1\n                -nParticles 1\n                -nRigids 1\n                -dynamicConstraints 1\n                -locators 1\n                -manipulators 1\n                -pluginShapes 1\n                -dimensions 1\n                -handles 1\n                -pivots 1\n                -textures 1\n                -strokes 1\n                -motionTrails 1\n                -clipGhosts 1\n                -bluePencil 1\n                -greasePencils 0\n                -excludeObjectPreset \"All\" \n                -shadows 0\n                -captureSequenceNumber -1\n                -width 0\n                -height 0\n                -sceneRenderFilter 0\n                -displayMode \"centerEye\" \n                -viewColor 0 0 0 1 \n                -useCustomBackground 1\n                $editorName;\n            stereoCameraView -e -viewSelected 0 $editorName;\n"
 		+ "            stereoCameraView -e \n                -pluginObjects \"gpuCacheDisplayFilter\" 1 \n                $editorName; };\n\t\tif (!$useSceneConfig) {\n\t\t\tpanel -e -l $label $panelName;\n\t\t}\n\t}\n\n\n\tif ($useSceneConfig) {\n        string $configName = `getPanel -cwl (localizedPanelLabel(\"Current Layout\"))`;\n        if (\"\" != $configName) {\n\t\t\tpanelConfiguration -edit -label (localizedPanelLabel(\"Current Layout\")) \n\t\t\t\t-userCreated false\n\t\t\t\t-defaultImage \"vacantCell.xP:/\"\n\t\t\t\t-image \"\"\n\t\t\t\t-sc false\n\t\t\t\t-configString \"global string $gMainPane; paneLayout -e -cn \\\"single\\\" -ps 1 100 100 $gMainPane;\"\n\t\t\t\t-removeAllPanels\n\t\t\t\t-ap false\n\t\t\t\t\t(localizedPanelLabel(\"Persp View\")) \n\t\t\t\t\t\"modelPanel\"\n"
-		+ "\t\t\t\t\t\"$panelName = `modelPanel -unParent -l (localizedPanelLabel(\\\"Persp View\\\")) -mbv $menusOkayInPanels `;\\n$editorName = $panelName;\\nmodelEditor -e \\n    -cam `findStartUpCamera persp` \\n    -useInteractiveMode 0\\n    -displayLights \\\"default\\\" \\n    -displayAppearance \\\"smoothShaded\\\" \\n    -activeOnly 0\\n    -ignorePanZoom 0\\n    -wireframeOnShaded 0\\n    -headsUpDisplay 1\\n    -holdOuts 1\\n    -selectionHiliteDisplay 1\\n    -useDefaultMaterial 0\\n    -bufferMode \\\"double\\\" \\n    -twoSidedLighting 0\\n    -backfaceCulling 0\\n    -xray 0\\n    -jointXray 0\\n    -activeComponentsXray 0\\n    -displayTextures 1\\n    -smoothWireframe 0\\n    -lineWidth 1\\n    -textureAnisotropic 0\\n    -textureHilight 1\\n    -textureSampling 2\\n    -textureDisplay \\\"modulate\\\" \\n    -textureMaxSize 16384\\n    -fogging 0\\n    -fogSource \\\"fragment\\\" \\n    -fogMode \\\"linear\\\" \\n    -fogStart 0\\n    -fogEnd 100\\n    -fogDensity 0.1\\n    -fogColor 0.5 0.5 0.5 1 \\n    -depthOfFieldPreview 1\\n    -maxConstantTransparency 1\\n    -rendererName \\\"vp2Renderer\\\" \\n    -objectFilterShowInHUD 1\\n    -isFiltered 0\\n    -colorResolution 256 256 \\n    -bumpResolution 512 512 \\n    -textureCompression 0\\n    -transparencyAlgorithm \\\"frontAndBackCull\\\" \\n    -transpInShadows 0\\n    -cullingOverride \\\"none\\\" \\n    -lowQualityLighting 0\\n    -maximumNumHardwareLights 1\\n    -occlusionCulling 0\\n    -shadingModel 0\\n    -useBaseRenderer 0\\n    -useReducedRenderer 0\\n    -smallObjectCulling 0\\n    -smallObjectThreshold -1 \\n    -interactiveDisableShadows 0\\n    -interactiveBackFaceCull 0\\n    -sortTransparent 1\\n    -controllers 1\\n    -nurbsCurves 1\\n    -nurbsSurfaces 1\\n    -polymeshes 1\\n    -subdivSurfaces 1\\n    -planes 1\\n    -lights 1\\n    -cameras 1\\n    -controlVertices 1\\n    -hulls 1\\n    -grid 1\\n    -imagePlane 1\\n    -joints 1\\n    -ikHandles 1\\n    -deformers 1\\n    -dynamics 1\\n    -particleInstancers 1\\n    -fluids 1\\n    -hairSystems 1\\n    -follicles 1\\n    -nCloths 1\\n    -nParticles 1\\n    -nRigids 1\\n    -dynamicConstraints 1\\n    -locators 1\\n    -manipulators 1\\n    -pluginShapes 1\\n    -dimensions 1\\n    -handles 1\\n    -pivots 1\\n    -textures 1\\n    -strokes 1\\n    -motionTrails 1\\n    -clipGhosts 1\\n    -bluePencil 1\\n    -greasePencils 0\\n    -excludeObjectPreset \\\"All\\\" \\n    -shadows 0\\n    -captureSequenceNumber -1\\n    -width 1140\\n    -height 1132\\n    -sceneRenderFilter 0\\n    $editorName;\\nmodelEditor -e -viewSelected 0 $editorName;\\nmodelEditor -e \\n    -pluginObjects \\\"gpuCacheDisplayFilter\\\" 1 \\n    $editorName\"\n"
-		+ "\t\t\t\t\t\"modelPanel -edit -l (localizedPanelLabel(\\\"Persp View\\\")) -mbv $menusOkayInPanels  $panelName;\\n$editorName = $panelName;\\nmodelEditor -e \\n    -cam `findStartUpCamera persp` \\n    -useInteractiveMode 0\\n    -displayLights \\\"default\\\" \\n    -displayAppearance \\\"smoothShaded\\\" \\n    -activeOnly 0\\n    -ignorePanZoom 0\\n    -wireframeOnShaded 0\\n    -headsUpDisplay 1\\n    -holdOuts 1\\n    -selectionHiliteDisplay 1\\n    -useDefaultMaterial 0\\n    -bufferMode \\\"double\\\" \\n    -twoSidedLighting 0\\n    -backfaceCulling 0\\n    -xray 0\\n    -jointXray 0\\n    -activeComponentsXray 0\\n    -displayTextures 1\\n    -smoothWireframe 0\\n    -lineWidth 1\\n    -textureAnisotropic 0\\n    -textureHilight 1\\n    -textureSampling 2\\n    -textureDisplay \\\"modulate\\\" \\n    -textureMaxSize 16384\\n    -fogging 0\\n    -fogSource \\\"fragment\\\" \\n    -fogMode \\\"linear\\\" \\n    -fogStart 0\\n    -fogEnd 100\\n    -fogDensity 0.1\\n    -fogColor 0.5 0.5 0.5 1 \\n    -depthOfFieldPreview 1\\n    -maxConstantTransparency 1\\n    -rendererName \\\"vp2Renderer\\\" \\n    -objectFilterShowInHUD 1\\n    -isFiltered 0\\n    -colorResolution 256 256 \\n    -bumpResolution 512 512 \\n    -textureCompression 0\\n    -transparencyAlgorithm \\\"frontAndBackCull\\\" \\n    -transpInShadows 0\\n    -cullingOverride \\\"none\\\" \\n    -lowQualityLighting 0\\n    -maximumNumHardwareLights 1\\n    -occlusionCulling 0\\n    -shadingModel 0\\n    -useBaseRenderer 0\\n    -useReducedRenderer 0\\n    -smallObjectCulling 0\\n    -smallObjectThreshold -1 \\n    -interactiveDisableShadows 0\\n    -interactiveBackFaceCull 0\\n    -sortTransparent 1\\n    -controllers 1\\n    -nurbsCurves 1\\n    -nurbsSurfaces 1\\n    -polymeshes 1\\n    -subdivSurfaces 1\\n    -planes 1\\n    -lights 1\\n    -cameras 1\\n    -controlVertices 1\\n    -hulls 1\\n    -grid 1\\n    -imagePlane 1\\n    -joints 1\\n    -ikHandles 1\\n    -deformers 1\\n    -dynamics 1\\n    -particleInstancers 1\\n    -fluids 1\\n    -hairSystems 1\\n    -follicles 1\\n    -nCloths 1\\n    -nParticles 1\\n    -nRigids 1\\n    -dynamicConstraints 1\\n    -locators 1\\n    -manipulators 1\\n    -pluginShapes 1\\n    -dimensions 1\\n    -handles 1\\n    -pivots 1\\n    -textures 1\\n    -strokes 1\\n    -motionTrails 1\\n    -clipGhosts 1\\n    -bluePencil 1\\n    -greasePencils 0\\n    -excludeObjectPreset \\\"All\\\" \\n    -shadows 0\\n    -captureSequenceNumber -1\\n    -width 1140\\n    -height 1132\\n    -sceneRenderFilter 0\\n    $editorName;\\nmodelEditor -e -viewSelected 0 $editorName;\\nmodelEditor -e \\n    -pluginObjects \\\"gpuCacheDisplayFilter\\\" 1 \\n    $editorName\"\n"
+		+ "\t\t\t\t\t\"$panelName = `modelPanel -unParent -l (localizedPanelLabel(\\\"Persp View\\\")) -mbv $menusOkayInPanels `;\\n$editorName = $panelName;\\nmodelEditor -e \\n    -cam `findStartUpCamera persp` \\n    -useInteractiveMode 0\\n    -displayLights \\\"default\\\" \\n    -displayAppearance \\\"smoothShaded\\\" \\n    -activeOnly 0\\n    -ignorePanZoom 0\\n    -wireframeOnShaded 0\\n    -headsUpDisplay 1\\n    -holdOuts 1\\n    -selectionHiliteDisplay 1\\n    -useDefaultMaterial 0\\n    -bufferMode \\\"double\\\" \\n    -twoSidedLighting 0\\n    -backfaceCulling 0\\n    -xray 0\\n    -jointXray 0\\n    -activeComponentsXray 0\\n    -displayTextures 1\\n    -smoothWireframe 0\\n    -lineWidth 1\\n    -textureAnisotropic 0\\n    -textureHilight 1\\n    -textureSampling 2\\n    -textureDisplay \\\"modulate\\\" \\n    -textureMaxSize 16384\\n    -fogging 0\\n    -fogSource \\\"fragment\\\" \\n    -fogMode \\\"linear\\\" \\n    -fogStart 0\\n    -fogEnd 100\\n    -fogDensity 0.1\\n    -fogColor 0.5 0.5 0.5 1 \\n    -depthOfFieldPreview 1\\n    -maxConstantTransparency 1\\n    -rendererName \\\"vp2Renderer\\\" \\n    -objectFilterShowInHUD 1\\n    -isFiltered 0\\n    -colorResolution 256 256 \\n    -bumpResolution 512 512 \\n    -textureCompression 0\\n    -transparencyAlgorithm \\\"frontAndBackCull\\\" \\n    -transpInShadows 0\\n    -cullingOverride \\\"none\\\" \\n    -lowQualityLighting 0\\n    -maximumNumHardwareLights 1\\n    -occlusionCulling 0\\n    -shadingModel 0\\n    -useBaseRenderer 0\\n    -useReducedRenderer 0\\n    -smallObjectCulling 0\\n    -smallObjectThreshold -1 \\n    -interactiveDisableShadows 0\\n    -interactiveBackFaceCull 0\\n    -sortTransparent 1\\n    -controllers 1\\n    -nurbsCurves 1\\n    -nurbsSurfaces 1\\n    -polymeshes 1\\n    -subdivSurfaces 1\\n    -planes 1\\n    -lights 1\\n    -cameras 1\\n    -controlVertices 1\\n    -hulls 1\\n    -grid 1\\n    -imagePlane 1\\n    -joints 1\\n    -ikHandles 1\\n    -deformers 1\\n    -dynamics 1\\n    -particleInstancers 1\\n    -fluids 1\\n    -hairSystems 1\\n    -follicles 1\\n    -nCloths 1\\n    -nParticles 1\\n    -nRigids 1\\n    -dynamicConstraints 1\\n    -locators 1\\n    -manipulators 1\\n    -pluginShapes 1\\n    -dimensions 1\\n    -handles 1\\n    -pivots 1\\n    -textures 1\\n    -strokes 1\\n    -motionTrails 1\\n    -clipGhosts 1\\n    -bluePencil 1\\n    -greasePencils 0\\n    -excludeObjectPreset \\\"All\\\" \\n    -shadows 0\\n    -captureSequenceNumber -1\\n    -width 2040\\n    -height 1132\\n    -sceneRenderFilter 0\\n    $editorName;\\nmodelEditor -e -viewSelected 0 $editorName;\\nmodelEditor -e \\n    -pluginObjects \\\"gpuCacheDisplayFilter\\\" 1 \\n    $editorName\"\n"
+		+ "\t\t\t\t\t\"modelPanel -edit -l (localizedPanelLabel(\\\"Persp View\\\")) -mbv $menusOkayInPanels  $panelName;\\n$editorName = $panelName;\\nmodelEditor -e \\n    -cam `findStartUpCamera persp` \\n    -useInteractiveMode 0\\n    -displayLights \\\"default\\\" \\n    -displayAppearance \\\"smoothShaded\\\" \\n    -activeOnly 0\\n    -ignorePanZoom 0\\n    -wireframeOnShaded 0\\n    -headsUpDisplay 1\\n    -holdOuts 1\\n    -selectionHiliteDisplay 1\\n    -useDefaultMaterial 0\\n    -bufferMode \\\"double\\\" \\n    -twoSidedLighting 0\\n    -backfaceCulling 0\\n    -xray 0\\n    -jointXray 0\\n    -activeComponentsXray 0\\n    -displayTextures 1\\n    -smoothWireframe 0\\n    -lineWidth 1\\n    -textureAnisotropic 0\\n    -textureHilight 1\\n    -textureSampling 2\\n    -textureDisplay \\\"modulate\\\" \\n    -textureMaxSize 16384\\n    -fogging 0\\n    -fogSource \\\"fragment\\\" \\n    -fogMode \\\"linear\\\" \\n    -fogStart 0\\n    -fogEnd 100\\n    -fogDensity 0.1\\n    -fogColor 0.5 0.5 0.5 1 \\n    -depthOfFieldPreview 1\\n    -maxConstantTransparency 1\\n    -rendererName \\\"vp2Renderer\\\" \\n    -objectFilterShowInHUD 1\\n    -isFiltered 0\\n    -colorResolution 256 256 \\n    -bumpResolution 512 512 \\n    -textureCompression 0\\n    -transparencyAlgorithm \\\"frontAndBackCull\\\" \\n    -transpInShadows 0\\n    -cullingOverride \\\"none\\\" \\n    -lowQualityLighting 0\\n    -maximumNumHardwareLights 1\\n    -occlusionCulling 0\\n    -shadingModel 0\\n    -useBaseRenderer 0\\n    -useReducedRenderer 0\\n    -smallObjectCulling 0\\n    -smallObjectThreshold -1 \\n    -interactiveDisableShadows 0\\n    -interactiveBackFaceCull 0\\n    -sortTransparent 1\\n    -controllers 1\\n    -nurbsCurves 1\\n    -nurbsSurfaces 1\\n    -polymeshes 1\\n    -subdivSurfaces 1\\n    -planes 1\\n    -lights 1\\n    -cameras 1\\n    -controlVertices 1\\n    -hulls 1\\n    -grid 1\\n    -imagePlane 1\\n    -joints 1\\n    -ikHandles 1\\n    -deformers 1\\n    -dynamics 1\\n    -particleInstancers 1\\n    -fluids 1\\n    -hairSystems 1\\n    -follicles 1\\n    -nCloths 1\\n    -nParticles 1\\n    -nRigids 1\\n    -dynamicConstraints 1\\n    -locators 1\\n    -manipulators 1\\n    -pluginShapes 1\\n    -dimensions 1\\n    -handles 1\\n    -pivots 1\\n    -textures 1\\n    -strokes 1\\n    -motionTrails 1\\n    -clipGhosts 1\\n    -bluePencil 1\\n    -greasePencils 0\\n    -excludeObjectPreset \\\"All\\\" \\n    -shadows 0\\n    -captureSequenceNumber -1\\n    -width 2040\\n    -height 1132\\n    -sceneRenderFilter 0\\n    $editorName;\\nmodelEditor -e -viewSelected 0 $editorName;\\nmodelEditor -e \\n    -pluginObjects \\\"gpuCacheDisplayFilter\\\" 1 \\n    $editorName\"\n"
 		+ "\t\t\t\t$configName;\n\n            setNamedPanelLayout (localizedPanelLabel(\"Current Layout\"));\n        }\n\n        panelHistory -e -clear mainPanelHistory;\n        sceneUIReplacement -clear;\n\t}\n\n\ngrid -spacing 5 -size 12 -divisions 5 -displayAxes yes -displayGridLines yes -displayDivisionLines yes -displayPerspectiveLabels no -displayOrthographicLabels no -displayAxesBold yes -perspectiveLabelPosition axis -orthographicLabelPosition edge;\nviewManip -drawCompass 0 -compassAngle 0 -frontParameters \"\" -homeParameters \"\" -selectionLockParameters \"\";\n}\n");
 	setAttr ".st" 3;
 createNode script -n "sceneConfigurationScriptNode";
@@ -1829,83 +1143,6 @@ createNode groupId -n "groupId27";
 	setAttr ".ihi" 0;
 createNode polyUnite -n "polyUnite1";
 	rename -uid "582FACC8-48C8-181F-5FFC-8A8309797568";
-createNode polySplit -n "polySplit1";
-	rename -uid "2ECD2C47-4689-A8DE-A364-DE9B06974FF0";
-	setAttr -s 2 ".e[0:1]"  0 1;
-	setAttr -s 2 ".d[0:1]"  -2147483617 -2147483628;
-	setAttr ".sma" 180;
-	setAttr ".m2015" yes;
-createNode groupId -n "groupId172";
-	rename -uid "70BEA914-4F85-4D14-5E52-2786FC2D12BF";
-	setAttr ".ihi" 0;
-createNode groupParts -n "groupParts1";
-	rename -uid "DD231E20-40A8-3324-E27F-33BC9CF65E31";
-	setAttr ".ihi" 0;
-	setAttr ".ic" -type "componentList" 2 "f[0:11]" "f[16:17]";
-createNode groupId -n "groupId173";
-	rename -uid "408D29BE-4C9F-F83B-B578-E2B9BA44E47B";
-	setAttr ".ihi" 0;
-createNode groupParts -n "groupParts2";
-	rename -uid "321D533B-46C5-F68C-6826-0596BFB79D8C";
-	setAttr ".ihi" 0;
-	setAttr ".ic" -type "componentList" 1 "f[12:15]";
-createNode polySplit -n "polySplit2";
-	rename -uid "584B8CC7-4E4D-D03C-EBA4-47B990A7F875";
-	setAttr -s 2 ".e[0:1]"  0 1;
-	setAttr -s 2 ".d[0:1]"  -2147483617 -2147483628;
-	setAttr ".sma" 180;
-	setAttr ".m2015" yes;
-createNode polySplit -n "polySplit3";
-	rename -uid "E497AF3B-42B4-E203-F332-95948696A666";
-	setAttr ".v[0]" -type "float3"  -15.556278 10.525182 11.494793;
-	setAttr -s 3 ".e[0:2]"  0 16 1;
-	setAttr -s 3 ".d[0:2]"  -2147483621 0 -2147483611;
-	setAttr ".sma" 180;
-	setAttr ".m2015" yes;
-createNode polySplit -n "polySplit4";
-	rename -uid "3FB3186E-4CF1-9889-76CD-7F8306E4B4A4";
-	setAttr -s 2 ".e[0:1]"  0 1;
-	setAttr -s 2 ".d[0:1]"  -2147483617 -2147483628;
-	setAttr ".sma" 180;
-	setAttr ".m2015" yes;
-createNode polySplit -n "polySplit5";
-	rename -uid "5C3F8FDA-401A-16B8-60DD-CEA9AEDDF295";
-	setAttr -s 2 ".e[0:1]"  0 1;
-	setAttr -s 2 ".d[0:1]"  -2147483617 -2147483628;
-	setAttr ".sma" 180;
-	setAttr ".m2015" yes;
-createNode polySplit -n "polySplit6";
-	rename -uid "C0C36BCB-4D65-F216-C29B-63B1291C6D56";
-	setAttr -s 2 ".e[0:1]"  0 1;
-	setAttr -s 2 ".d[0:1]"  -2147483617 -2147483628;
-	setAttr ".sma" 180;
-	setAttr ".m2015" yes;
-createNode polySplit -n "polySplit7";
-	rename -uid "03836DB5-4F3A-F9DF-6B7E-B2B4B42E276F";
-	setAttr ".v[0]" -type "float3"  -15.556278 10.375818 10.851936;
-	setAttr -s 3 ".e[0:2]"  1 16 0;
-	setAttr -s 3 ".d[0:2]"  -2147483611 0 -2147483621;
-	setAttr ".sma" 180;
-	setAttr ".m2015" yes;
-createNode polySplit -n "polySplit8";
-	rename -uid "30449E81-4C36-DA6C-2A3B-C6912C54CFBF";
-	setAttr -s 2 ".e[0:1]"  0 1;
-	setAttr -s 2 ".d[0:1]"  -2147483617 -2147483628;
-	setAttr ".sma" 180;
-	setAttr ".m2015" yes;
-createNode polySplit -n "polySplit9";
-	rename -uid "F3C9B058-4767-FF80-9837-BEBD9D660087";
-	setAttr -s 4 ".e[0:3]"  1 0.99655199 0.00166147 1;
-	setAttr -s 4 ".d[0:3]"  -2147483618 -2147483619 -2147483626 -2147483628;
-	setAttr ".sma" 180;
-	setAttr ".m2015" yes;
-createNode polySplit -n "polySplit10";
-	rename -uid "C3BAFE17-41D8-72D6-746C-15BEE113CD59";
-	setAttr -s 5 ".e[0:4]"  0.184543 0.99840897 0.80246699 0.25843999
-		 0.99167901;
-	setAttr -s 5 ".d[0:4]"  -2147483621 -2147483611 -2147483618 -2147483606 -2147483619;
-	setAttr ".sma" 180;
-	setAttr ".m2015" yes;
 createNode reference -n "TableRN";
 	rename -uid "3E47E337-4B04-68BF-76D3-E5B15221017A";
 	setAttr ".ed" -type "dataReferenceEdits" 
@@ -2066,7 +1303,7 @@ createNode reference -n "bookLayRN";
 		"bookLayRN"
 		"bookLayRN" 0
 		"bookLayRN" 2
-		2 "|bookLay:bookLay1" "translate" " -type \"double3\" -11.69954569219402174 4.66655683517456055 -9.11142897266152829"
+		2 "|bookLay:bookLay1" "translate" " -type \"double3\" -11.69954569219402174 4.64540433883666992 -9.11142897266152829"
 		
 		2 "|bookLay:bookLay1" "scale" " -type \"double3\" 1 1 1";
 	setAttr ".ptag" -type "string" "";
@@ -2077,7 +1314,7 @@ createNode reference -n "lampRN";
 		"lampRN"
 		"lampRN" 0
 		"lampRN" 2
-		2 "|lamp:lampTable" "translate" " -type \"double3\" -13.61000290469506524 4.66655683517455966 -10.02895213769363636"
+		2 "|lamp:lampTable" "translate" " -type \"double3\" -13.61000290469506524 4.64540433883667081 -10.02895213769363636"
 		
 		2 "|lamp:lampTable" "scale" " -type \"double3\" 1.25829283039372397 1.25829283039372397 1.25829283039372397";
 	setAttr ".ptag" -type "string" "";
@@ -2086,11 +1323,17 @@ createNode reference -n "bookPileRN";
 	rename -uid "9CF64553-4F99-5786-828C-DD95166730DD";
 	setAttr ".ed" -type "dataReferenceEdits" 
 		"bookPileRN"
-		"bookPileRN" 0
 		"bookPileRN" 2
 		2 "|bookPile:bookLay0" "translate" " -type \"double3\" -10.81491999667486148 2.63404631614685059 -14.13156069094163847"
 		
-		2 "|bookPile:bookLay0" "rotate" " -type \"double3\" 0 15.4146244838080495 0";
+		2 "|bookPile:bookLay0" "rotate" " -type \"double3\" 0 15.4146244838080495 0"
+		
+		"bookPileRN" 3
+		2 "|bookPile:polySurface1" "translate" " -type \"double3\" -11.10214272599985819 2.63290491700172424 -14.14459686050529363"
+		
+		2 "|bookPile:polySurface1" "rotate" " -type \"double3\" 0 8.60577145782609421 0"
+		
+		2 "|bookPile:polySurface1" "rotatePivotTranslate" " -type \"double3\" 0 0 0";
 	setAttr ".ptag" -type "string" "";
 lockNode -l 1 ;
 createNode reference -n "bookShelf0RN";
@@ -2124,9 +1367,8 @@ createNode reference -n "Unit5_LabSceneRN";
 	rename -uid "EED19999-4D57-A687-6114-A8AD32B9EB91";
 	setAttr ".ed" -type "dataReferenceEdits" 
 		"Unit5_LabSceneRN"
-		"Unit5_LabSceneRN" 0
-		"Unit5_LabSceneRN" 12
-		2 "|Unit5_LabScene:polySurface6" "translate" " -type \"double3\" -12.77023812115666246 0 -9.76487904327217393"
+		"Unit5_LabSceneRN" 997
+		2 "|Unit5_LabScene:polySurface6" "translate" " -type \"double3\" -17.21133233914414973 -0.68447814761543668 16.83903937548880947"
 		
 		2 "|Unit5_LabScene:polySurface6" "rotate" " -type \"double3\" 0 -42.60297052447629085 0"
 		
@@ -2134,6 +1376,8 @@ createNode reference -n "Unit5_LabSceneRN";
 		
 		2 "|Unit5_LabScene:polySurface6" "rotatePivotTranslate" " -type \"double3\" 0 0 0"
 		
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "instObjGroups.objectGroups" 
+		" -s 2"
 		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "instObjGroups.objectGroups[0].objectGrpCompList" 
 		" -type \"componentList\" 1 \"f[0:653]\""
 		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvPivot" 
@@ -2141,35 +1385,1983 @@ createNode reference -n "Unit5_LabSceneRN";
 		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetName" 
 		" -type \"string\" \"map1\""
 		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints" 
-		" -s 988"
-		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvst[0].uvsp[0:249]" 
-		(" -type \"float2\" 0.59375 0.6875 0.59375 0.3125 0.5625 0.6875 0.5625 0.3125 0.65625 0.15625 0.63797568999999998 0.15625 0.63797568999999998 0.84375 0.65625 0.84375 0.61048543 0.26673543 0.59756355999999999 0.25381355999999999 0.59756355999999999 0.74618644000000001 0.61048543 0.73326457 0.59375 0.42528297999999998 0.59375 0.57471704000000001 0.5625 0.42528297999999998 0.5625 0.57471704000000001 0.57187498000000003 0.3125 0.62421483 0.23358979999999999 0.57187504 0.6875 0.62421483 0.76641022999999997 0.60968721000000003 0.77545553 0.57187504 0.57471704000000001 0.60968721000000003 0.22454450000000001 0.57187498000000003 0.42528301000000002 0.58437501999999997 0.6875 0.64252067000000002 0.81060432999999998 0.58437501999999997 0.3125 0.64252067000000002 0.18939564 0.62585204999999999 0.18551907000000001 0.58437501999999997 0.42528301000000002 0.62585199000000002 0.81448089999999995 0.58437501999999997 0.57471704000000001 0.546875 0.3125 0.55524271999999997 0.28961772000000002 0.546875 0.6875 0.55524271999999997 0."
-		+ "71038228000000003 0.54878174999999996 0.72598039999999997 0.546875 0.57471704000000001 0.54878174999999996 0.27401966 0.546875 0.42528297999999998 0.609375 0.3125 0.63336771999999997 0.10100729 0.609375 0.6875 0.63336771999999997 0.89899271999999997 0.61776966 0.89253181000000004 0.609375 0.57471704000000001 0.61776966 0.10746822 0.609375 0.42528297999999998 0.375 0 0.625 0 0.625 0.25 0.375 0.25 0.375 0 0.625 0 0.625 0 0.375 0 0.625 0 0.375 0 0.625 0 0.375 0 0.625 0 0.375 0 0.625 0 0.375 0 0.625 0 0.375 0 0.625 0 0.375 0 0.625 0 0.375 0 0.625 0 0.375 0 0.625 0 0.375 0 0.625 0 0.375 0 0.625 0 0.375 0 0.625 0 0.375 0 0.625 0 0.375 0 0.625 0 0.375 0 0.625 0 0.375 0 0.625 0 0.375 0 0.625 0 0.375 0 0.625 0 0.375 0 0.3125 0.375 0.625 0.25 0.625 0.25 0.625 0.25 0.625 0.25 0.625 0.25 0.625 0.25 0.625 0.25 0.625 0.25 0.625 0.25 0.625 0.25 0.625 0.25 0.625 0.25 0.625 0.25 0.625 0.25 0.625 0.25 0.625 0.25 0.625 0.25 0.625 0.25 0.625 0.25 0.375 0.25 0.375 0.25 0.375 0.25 0.375 0.25 0.375 0.25 0.375 0.25 0.375 0.25 0.375 "
-		+ "0.25 0.375 0.25 0.375 0.25 0.375 0.25 0.375 0.25 0.375 0.25 0.375 0.25 0.375 0.25 0.375 0.25 0.375 0.25 0.375 0.25 0.375 0.25 0.6875 0.375 0.62879127000000001 0.22254125999999999 0.61048543 0.26673543 0.61048543 0.26673543 0.65625 0.15625 0.63794421999999995 0.20044418 0.65625 0.15625 0 0 1 0 1 1 0 1 0.55524271999999997 0.28961772000000002 0.55524271999999997 0.28961772000000002 0.63336771999999997 0.10100729 0.63336771999999997 0.10100729 0.609375 0.3125 0.609375 0.6875 0.59375 0.6875 0.59375 0.3125 0.58437501999999997 0.6875 0.58437501999999997 0.3125 0.61776966 0.10746822 0.63336771999999997 0.10100729 0.65625 0.15625 0.63797568999999998 0.15625 0.63336771999999997 0.89899271999999997 0.61776966 0.89253181000000004 0.63797568999999998 0.84375 0.65625 0.84375 0.64252067000000002 0.18939564 0.62585204999999999 0.18551907000000001 0.62585199000000002 0.81448089999999995 0.64252067000000002 0.81060432999999998 0.609375 0.57471704000000001 0.609375 0.42528297999999998 0.59375 0.42528297999999998 0.59375 0.57471"
-		+ "704000000001 0.58437501999999997 0.42528301000000002 0.58437501999999997 0.57471704000000001 0.57187498000000003 0.3125 0.57187504 0.6875 0.5625 0.6875 0.5625 0.3125 0.60968721000000003 0.22454450000000001 0.62421483 0.23358979999999999 0.61048543 0.26673543 0.59756355999999999 0.25381355999999999 0.57187504 0.57471704000000001 0.57187498000000003 0.42528301000000002 0.5625 0.42528297999999998 0.5625 0.57471704000000001 0.62421483 0.76641022999999997 0.60968721000000003 0.77545553 0.59756355999999999 0.74618644000000001 0.61048543 0.73326457 0.546875 0.6875 0.546875 0.3125 0.54878174999999996 0.72598039999999997 0.55524271999999997 0.71038228000000003 0.546875 0.42528297999999998 0.546875 0.57471704000000001 0.55524271999999997 0.28961772000000002 0.54878174999999996 0.27401966 0.375 0 0.625 0 0.625 0.25 0.375 0.25 0.375 0 0.625 0 0.625 0 0.375 0 0.625 0 0.375 0 0.625 0 0.375 0 0.625 0 0.375 0 0.625 0 0.375 0 0.625 0 0.375 0 0.625 0 0.375 0 0.625 0 0.375 0 0.625 0 0.375 0 0.625 0 0.375 0 0.625 0 0.375 0 0.625"
-		+ " 0 0.375 0 0.625 0 0.375 0 0.625 0 0.375 0 0.625 0 0.375 0 0.625 0 0.375 0 0.625 0 0.375 0 0.625 0 0.375 0 0.625 0 0.375 0 0.3125 0.375 0.625 0.25 0.625 0.25 0.625 0.25 0.625 0.25 0.625 0.25 0.625 0.25 0.625 0.25 0.625 0.25 0.625 0.25 0.625 0.25 0.625 0.25"
-		)
-		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvst[0].uvsp[250:499]" 
-		(" 0.625 0.25 0.625 0.25 0.625 0.25 0.625 0.25 0.625 0.25 0.625 0.25 0.625 0.25 0.625 0.25 0.375 0.25 0.375 0.25 0.375 0.25 0.375 0.25 0.375 0.25 0.375 0.25 0.375 0.25 0.375 0.25 0.375 0.25 0.375 0.25 0.375 0.25 0.375 0.25 0.375 0.25 0.375 0.25 0.375 0.25 0.375 0.25 0.375 0.25 0.375 0.25 0.375 0.25 0.6875 0.375 0.62879127000000001 0.22254125999999999 0.61048543 0.26673543 0.61048543 0.26673543 0.65625 0.15625 0.63794421999999995 0.20044418 0.65625 0.15625 0 0 1 0 1 1 0 1 0.55524271999999997 0.28961772000000002 0.55524271999999997 0.28961772000000002 0.63336771999999997 0.10100729 0.63336771999999997 0.10100729 0.609375 0.3125 0.609375 0.6875 0.59375 0.6875 0.59375 0.3125 0.58437501999999997 0.6875 0.58437501999999997 0.3125 0.61776966 0.10746822 0.63336771999999997 0.10100729 0.65625 0.15625 0.63797568999999998 0.15625 0.63336771999999997 0.89899271999999997 0.61776966 0.89253181000000004 0.63797568999999998 0.84375 0.65625 0.84375 0.64252067000000002 0.18939564 0.62585204999999999 0.18551907000000001 0.6258519"
-		+ "9000000002 0.81448089999999995 0.64252067000000002 0.81060432999999998 0.609375 0.57471704000000001 0.609375 0.42528297999999998 0.59375 0.42528297999999998 0.59375 0.57471704000000001 0.58437501999999997 0.42528301000000002 0.58437501999999997 0.57471704000000001 0.57187498000000003 0.3125 0.57187504 0.6875 0.5625 0.6875 0.5625 0.3125 0.60968721000000003 0.22454450000000001 0.62421483 0.23358979999999999 0.61048543 0.26673543 0.59756355999999999 0.25381355999999999 0.57187504 0.57471704000000001 0.57187498000000003 0.42528301000000002 0.5625 0.42528297999999998 0.5625 0.57471704000000001 0.62421483 0.76641022999999997 0.60968721000000003 0.77545553 0.59756355999999999 0.74618644000000001 0.61048543 0.73326457 0.546875 0.6875 0.546875 0.3125 0.54878174999999996 0.72598039999999997 0.55524271999999997 0.71038228000000003 0.546875 0.42528297999999998 0.546875 0.57471704000000001 0.55524271999999997 0.28961772000000002 0.54878174999999996 0.27401966 0.375 0 0.625 0 0.625 0.25 0.375 0.25 0.375 0 0.625 0 0.625 0 0"
-		+ ".375 0 0.625 0 0.375 0 0.625 0 0.375 0 0.625 0 0.375 0 0.625 0 0.375 0 0.625 0 0.375 0 0.625 0 0.375 0 0.625 0 0.375 0 0.625 0 0.375 0 0.625 0 0.375 0 0.625 0 0.375 0 0.625 0 0.375 0 0.625 0 0.375 0 0.625 0 0.375 0 0.625 0 0.375 0 0.625 0 0.375 0 0.625 0 0.375 0 0.625 0 0.375 0 0.625 0 0.375 0 0.3125 0.375 0.625 0.25 0.625 0.25 0.625 0.25 0.625 0.25 0.625 0.25 0.625 0.25 0.625 0.25 0.625 0.25 0.625 0.25 0.625 0.25 0.625 0.25 0.625 0.25 0.625 0.25 0.625 0.25 0.625 0.25 0.625 0.25 0.625 0.25 0.625 0.25 0.625 0.25 0.375 0.25 0.375 0.25 0.375 0.25 0.375 0.25 0.375 0.25 0.375 0.25 0.375 0.25 0.375 0.25 0.375 0.25 0.375 0.25 0.375 0.25 0.375 0.25 0.375 0.25 0.375 0.25 0.375 0.25 0.375 0.25 0.375 0.25 0.375 0.25 0.375 0.25 0.6875 0.375 0.62879127000000001 0.22254125999999999 0.61048543 0.26673543 0.61048543 0.26673543 0.65625 0.15625 0.63794421999999995 0.20044418 0.65625 0.15625 0 0 1 0 1 1 0 1 0.55524271999999997 0.28961772000000002 0.55524271999999997 0.28961772000000002 0.63336771999999997 0.10100729 0.633367719"
-		+ "99999997 0.10100729 0.609375 0.3125 0.609375 0.6875 0.59375 0.6875 0.59375 0.3125 0.58437501999999997 0.6875 0.58437501999999997 0.3125 0.61776966 0.10746822 0.63336771999999997 0.10100729 0.65625 0.15625 0.63797568999999998 0.15625 0.63336771999999997 0.89899271999999997 0.61776966 0.89253181000000004 0.63797568999999998 0.84375 0.65625 0.84375 0.64252067000000002 0.18939564 0.62585204999999999 0.18551907000000001 0.62585199000000002 0.81448089999999995 0.64252067000000002 0.81060432999999998 0.609375 0.57471704000000001 0.609375 0.42528297999999998 0.59375 0.42528297999999998 0.59375 0.57471704000000001 0.58437501999999997 0.42528301000000002 0.58437501999999997 0.57471704000000001 0.57187498000000003 0.3125 0.57187504 0.6875 0.5625 0.6875 0.5625 0.3125 0.60968721000000003 0.22454450000000001 0.62421483 0.23358979999999999 0.61048543 0.26673543 0.59756355999999999 0.25381355999999999 0.57187504 0.57471704000000001 0.57187498000000003 0.42528301000000002 0.5625 0.42528297999999998 0.5625 0.57471704000000001 "
-		+ "0.62421483 0.76641022999999997 0.60968721000000003 0.77545553 0.59756355999999999 0.74618644000000001 0.61048543 0.73326457 0.546875 0.6875 0.546875 0.3125 0.54878174999999996 0.72598039999999997 0.55524271999999997 0.71038228000000003 0.546875 0.42528297999999998 0.546875 0.57471704000000001 0.55524271999999997 0.28961772000000002 0.54878174999999996 0.27401966 0.375 0 0.625 0 0.625 0.25 0.375 0.25 0.375 0 0.625 0 0.625 0 0.375 0 0.625 0 0.375 0 0.625 0 0.375 0 0.625 0 0.375 0"
-		)
-		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvst[0].uvsp[500:749]" 
-		(" 0.625 0 0.375 0 0.625 0 0.375 0 0.625 0 0.375 0 0.625 0 0.375 0 0.625 0 0.375 0 0.625 0 0.375 0 0.625 0 0.375 0 0.625 0 0.375 0 0.625 0 0.375 0 0.625 0 0.375 0 0.625 0 0.375 0 0.625 0 0.375 0 0.625 0 0.375 0 0.625 0 0.375 0 0.625 0 0.375 0 0.3125 0.375 0.625 0.25 0.625 0.25 0.625 0.25 0.625 0.25 0.625 0.25 0.625 0.25 0.625 0.25 0.625 0.25 0.625 0.25 0.625 0.25 0.625 0.25 0.625 0.25 0.625 0.25 0.625 0.25 0.625 0.25 0.625 0.25 0.625 0.25 0.625 0.25 0.625 0.25 0.375 0.25 0.375 0.25 0.375 0.25 0.375 0.25 0.375 0.25 0.375 0.25 0.375 0.25 0.375 0.25 0.375 0.25 0.375 0.25 0.375 0.25 0.375 0.25 0.375 0.25 0.375 0.25 0.375 0.25 0.375 0.25 0.375 0.25 0.375 0.25 0.375 0.25 0.6875 0.375 0.62879127000000001 0.22254125999999999 0.61048543 0.26673543 0.61048543 0.26673543 0.65625 0.15625 0.63794421999999995 0.20044418 0.65625 0.15625 0 0 1 0 1 1 0 1 0.55524271999999997 0.28961772000000002 0.55524271999999997 0.28961772000000002 0.63336771999999997 0.10100729 0.63336771999999997 0.10100729 0 0 1 0 1 1 0 1 0 0 1 0 1 1 0 1 0 "
-		+ "0 1 0 1 1 0 1 0 0 1 0 1 1 0 1 0 0 1 0 1 1 0 1 0 0 1 0 1 1 0 1 0 0 1 0 1 1 0 1 0 0 1 0 1 1 0 1 0 0 1 0 1 1 0 1 0 0 1 0 1 1 0 1 0 0 1 0 1 1 0 1 0 0 1 0 1 1 0 1 0 0 1 0 1 1 0 1 0 0 1 0 1 1 0 1 0 0 1 0 1 1 0 1 0 0 1 0 1 1 0 1 0 0 1 0 1 1 0 1 0 0 1 0 1 1 0 1 0 0 1 0 1 1 0 1 0 0 1 0 1 1 0 1 0.55524271999999997 0.71038228000000003 0.61048543 0.73326457 0.62879127000000001 0.77745878999999996 0.63794421999999995 0.79955584000000002 0.65625 0.84375 0.55524271999999997 0.71038228000000003 0.61048543 0.73326457 0.62879127000000001 0.77745878999999996 0.63794421999999995 0.79955584000000002 0.65625 0.84375 0.55524271999999997 0.71038228000000003 0.61048543 0.73326457 0.62879127000000001 0.77745878999999996 0.63794421999999995 0.79955584000000002 0.65625 0.84375 0.55524271999999997 0.71038228000000003 0.61048543 0.73326457 0.62879127000000001 0.77745878999999996 0.63794421999999995 0.79955584000000002 0.65625 0.84375 0.55524271999999997 0.71038228000000003 0.65625 0.84375 0.63794421999999995 0.79955584000000002 0.62879127"
-		+ "000000001 0.77745878999999996 0.61048543 0.73326457 0.55524271999999997 0.71038228000000003 0.65625 0.84375 0.63794421999999995 0.79955584000000002 0.62879127000000001 0.77745878999999996 0.61048543 0.73326457 0.55524271999999997 0.71038228000000003 0.65625 0.84375 0.63794421999999995 0.79955584000000002 0.62879127000000001 0.77745878999999996 0.61048543 0.73326457 0.55524271999999997 0.71038228000000003 0.65625 0.84375 0.63794421999999995 0.79955584000000002 0.62879127000000001 0.77745878999999996 0.61048543 0.73326457 0.56170463999999998 0.6875 0.546875 0.6875 0.56329536000000002 0.6875 0.57499999000000002 0.6875 0.57515877000000004 0.6875 0.58109122999999996 0.6875 0.58125000999999998 0.6875 0.59295458000000001 0.68749994000000003 0.65625 0.84375 0.63336771999999997 0.89899271999999997 0.546875 0.6875 0.56170469999999995 0.6875 0.63336771999999997 0.89899271999999997 0.65625 0.84375 0.56170469999999995 0.6875 0.546875 0.6875 0.56329536000000002 0.6875 0.57499999000000002 0.6875 0.57515877000000004 0.6875 0"
-		+ ".58109122999999996 0.6875 0.58125000999999998 0.6875 0.59295458000000001 0.68749994000000003 0.63336771999999997 0.89899271999999997 0.65625 0.84375 0.56170463999999998 0.6875 0.546875 0.6875 0.56329536000000002 0.6875 0.57499999000000002 0.6875 0.57515877000000004 0.6875 0.58109122999999996 0.6875 0.58125000999999998 0.6875 0.59295458000000001 0.68749994000000003 0.63336771999999997 0.89899271999999997 0.65625 0.84375 0.56329536000000002 0.6875 0.57499999000000002 0.6875 0.57515877000000004 0.6875 0.58109122999999996 0.6875 0.58125000999999998 0.6875 0.59295458000000001 0.68749994000000003 0.60189563000000001 0.26752063999999998 0.5625 0.56172955000000002 0.62879127000000001 0.77745878999999996 0.61048543 0.73326457 0.58403587000000001 0.54640328999999999 0.60959708999999995 0.25647207999999999"
-		)
-		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvst[0].uvsp[750:987]" 
-		(" 0.62879127000000001 0.77745878999999996 0.63794421999999995 0.79955584000000002 0.59077352000000005 0.54269129000000005 0.59375 0.3125 0.63794421999999995 0.79955584000000002 0.65625 0.84375005999999997 0.546875 0.56172949000000005 0.546875 0.3125 0.5625 0.3125 0.55524271999999997 0.71038228000000003 0.55524271999999997 0.71038228000000003 0.61048543 0.73326457 0.63336771999999997 0.89899266 0.63336771999999997 0.89899271999999997 0.65625 0.84375 0.609375 0.3125 0.609375 0.56172949000000005 0.59375 0.56172955000000002 0.60189563000000001 0.26752063999999998 0.5625 0.56172955000000002 0.62879127000000001 0.77745878999999996 0.61048543 0.73326457 0.58403587000000001 0.54640328999999999 0.60959708999999995 0.25647207999999999 0.62879127000000001 0.77745878999999996 0.63794421999999995 0.79955584000000002 0.59077352000000005 0.54269129000000005 0.59375 0.3125 0.63794421999999995 0.79955584000000002 0.65625 0.84375005999999997 0.546875 0.56172955000000002 0.546875 0.3125 0.5625 0.3125 0.55524271999999997 0.710382"
-		+ "28000000003 0.55524271999999997 0.71038228000000003 0.61048543 0.73326457 0.63336771999999997 0.89899266 0.63336771999999997 0.89899271999999997 0.65625 0.84375 0.609375 0.3125 0.609375 0.56172949000000005 0.59375 0.56172955000000002 0.60189563000000001 0.26752063999999998 0.5625 0.56172955000000002 0.62879127000000001 0.77745878999999996 0.61048543 0.73326457 0.58403587000000001 0.54640328999999999 0.60959708999999995 0.25647207999999999 0.62879127000000001 0.77745878999999996 0.63794421999999995 0.79955584000000002 0.59077352000000005 0.54269129000000005 0.59375 0.3125 0.63794421999999995 0.79955584000000002 0.65625 0.84375005999999997 0.546875 0.56172949000000005 0.546875 0.3125 0.5625 0.3125 0.55524271999999997 0.71038228000000003 0.55524271999999997 0.71038228000000003 0.61048543 0.73326457 0.63336771999999997 0.89899266 0.63336771999999997 0.89899271999999997 0.65625 0.84375 0.609375 0.3125 0.609375 0.56172949000000005 0.59375 0.56172955000000002 0.60189563000000001 0.26752063999999998 0.5625 0.56172955"
-		+ "000000002 0.62879127000000001 0.77745878999999996 0.61048543 0.73326457 0.58403587000000001 0.54640328999999999 0.60959708999999995 0.25647207999999999 0.62879127000000001 0.77745878999999996 0.63794421999999995 0.79955584000000002 0.59077352000000005 0.54269129000000005 0.59375 0.3125 0.63794421999999995 0.79955584000000002 0.65625 0.84375005999999997 0.546875 0.56172955000000002 0.546875 0.3125 0.5625 0.3125 0.55524271999999997 0.71038228000000003 0.55524271999999997 0.71038228000000003 0.61048543 0.73326457 0.63336771999999997 0.89899266 0.63336771999999997 0.89899271999999997 0.65625 0.84375 0.609375 0.3125 0.609375 0.56172949000000005 0.59375 0.56172955000000002 0.59375 0.63125001999999997 0.609375 0.63125001999999997 0.546875 0.63125001999999997 0.5625 0.63125001999999997 0.25546872999999998 0.65781248000000003 0.625 0.25 0.625 0 0.375 0 0.78359376999999997 0.65781248000000003 0.375 0.25 0.59375 0.63125001999999997 0.609375 0.63125001999999997 0.546875 0.63125001999999997 0.5625 0.63125001999999997 0.25"
-		+ "546872999999998 0.65781248000000003 0.625 0.25 0.625 0 0.375 0 0.78359376999999997 0.65781248000000003 0.375 0.25 0.59375 0.63125001999999997 0.609375 0.63125001999999997 0.546875 0.63125001999999997 0.5625 0.63125001999999997 0.25546872999999998 0.65781248000000003 0.625 0.25 0.625 0 0.375 0 0.78359376999999997 0.65781248000000003 0.375 0.25 0.59375 0.63125001999999997 0.609375 0.63125001999999997 0.546875 0.63125001999999997 0.5625 0.63125001999999997 0.25546872999999998 0.65781248000000003 0.625 0.25 0.625 0 0.375 0 0.78359376999999997 0.65781248000000003 0.375 0.25 0.78046875999999998 0.59218751999999997 0.5625 0.36875001000000002 0.609375 0.36875001000000002 0.546875 0.36875001000000002 0.59375 0.36875001000000002 0.25859374000000002 0.59218751999999997 0.375 0.25 0.375 0 0.625 0 0.78046875999999998 0.59218751999999997 0.625 0.25 0.5625 0.36875001000000002 0.609375 0.36875001000000002 0.546875 0.36875001000000002 0.59375 0.36875001000000002 0.25859374000000002 0.59218751999999997 0.375 0.25 0.375 0 0.625"
-		+ " 0 0.78046875999999998 0.59218751999999997 0.625 0.25 0.5625 0.36875001000000002 0.609375 0.36875001000000002 0.546875 0.36875001000000002 0.59375 0.36875001000000002 0.25859374000000002 0.59218751999999997 0.375 0.25 0.375 0 0.625 0 0.78046875999999998 0.59218751999999997 0.625 0.25 0.5625 0.36875001000000002 0.609375 0.36875001000000002 0.546875 0.36875001000000002 0.59375 0.36875001000000002 0.25859374000000002 0.59218751999999997 0.375 0.25 0.375 0 0.625 0 0.625 0.25 0.57187498000000003 0.55230193999999999 0.5625 0.55230193999999999 0.609375 0.55230193999999999 0.546875 0.55230193999999999 0.59375 0.55230193999999999 0.58437501999999997 0.55230193999999999 0.57187498000000003 0.55230193999999999 0.5625 0.55230193999999999 0.609375 0.55230193999999999 0.546875 0.55230193999999999 0.59375 0.55230193999999999 0.58437501999999997 0.55230193999999999 0.57187498000000003 0.55230193999999999 0.5625 0.55230193999999999 0.609375 0.55230193999999999 0.546875 0.55230193999999999 0.59375 0.55230193999999999 0.5843750"
-		+ "1999999997 0.55230193999999999 0.57187498000000003 0.55230193999999999 0.5625 0.55230193999999999 0.609375 0.55230193999999999 0.546875 0.55230193999999999 0.59375 0.55230193999999999 0.58437501999999997 0.55230193999999999 0.59375 0.44769808999999999 0.609375 0.44769808999999999 0.546875 0.44769808999999999 0.5625 0.44769808999999999 0.57187498000000003 0.44769811999999998 0.58437501999999997 0.44769811999999998 0.59375 0.44769808999999999 0.609375 0.44769808999999999 0.546875 0.44769808999999999 0.5625 0.44769808999999999 0.57187498000000003 0.44769811999999998 0.58437501999999997 0.44769811999999998 0.59375 0.44769808999999999 0.609375 0.44769808999999999 0.546875 0.44769808999999999 0.5625 0.44769808999999999 0.57187498000000003 0.44769811999999998 0.58437501999999997 0.44769811999999998 0.59375 0.44769808999999999 0.609375 0.44769808999999999 0.546875 0.44769808999999999 0.5625 0.44769808999999999 0.57187498000000003 0.44769811999999998 0.58437501999999997 0.44769811999999998 0 1 0 1 0 1 0 1 0 1 0 1 0 1 "
-		+ "0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1");
+		" -s 1214"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[0]" 
+		" -type \"float2\" 0.59375 0.6875"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[1]" 
+		" -type \"float2\" 0.59375 0.3125"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[2]" 
+		" -type \"float2\" 0.5625 0.6875"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[3]" 
+		" -type \"float2\" 0.5625 0.3125"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[4]" 
+		" -type \"float2\" 0.65625 0.15625"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[5]" 
+		" -type \"float2\" 0.63797568999999998 0.15625"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[6]" 
+		" -type \"float2\" 0.63797568999999998 0.84375"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[7]" 
+		" -type \"float2\" 0.65625 0.84375"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[8]" 
+		" -type \"float2\" 0.61048543 0.26673543"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[9]" 
+		" -type \"float2\" 0.59756355999999999 0.25381355999999999"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[10]" 
+		" -type \"float2\" 0.59756355999999999 0.74618644000000001"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[11]" 
+		" -type \"float2\" 0.61048543 0.73326457"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[12]" 
+		" -type \"float2\" 0.59375 0.42528297999999998"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[13]" 
+		" -type \"float2\" 0.59375 0.57471704000000001"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[14]" 
+		" -type \"float2\" 0.5625 0.42528297999999998"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[15]" 
+		" -type \"float2\" 0.5625 0.57471704000000001"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[16]" 
+		" -type \"float2\" 0.57187498000000003 0.3125"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[17]" 
+		" -type \"float2\" 0.62421483 0.23358979999999999"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[18]" 
+		" -type \"float2\" 0.57187504 0.6875"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[19]" 
+		" -type \"float2\" 0.62421483 0.76641022999999997"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[20]" 
+		" -type \"float2\" 0.60968721000000003 0.77545553"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[21]" 
+		" -type \"float2\" 0.57187504 0.57471704000000001"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[22]" 
+		" -type \"float2\" 0.60968721000000003 0.22454450000000001"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[23]" 
+		" -type \"float2\" 0.57187498000000003 0.42528301000000002"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[24]" 
+		" -type \"float2\" 0.58437501999999997 0.6875"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[25]" 
+		" -type \"float2\" 0.64252067000000002 0.81060432999999998"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[26]" 
+		" -type \"float2\" 0.58437501999999997 0.3125"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[27]" 
+		" -type \"float2\" 0.64252067000000002 0.18939564"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[28]" 
+		" -type \"float2\" 0.62585204999999999 0.18551907000000001"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[29]" 
+		" -type \"float2\" 0.58437501999999997 0.42528301000000002"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[30]" 
+		" -type \"float2\" 0.62585199000000002 0.81448089999999995"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[31]" 
+		" -type \"float2\" 0.58437501999999997 0.57471704000000001"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[32]" 
+		" -type \"float2\" 0.546875 0.3125"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[33]" 
+		" -type \"float2\" 0.55524271999999997 0.28961772000000002"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[34]" 
+		" -type \"float2\" 0.546875 0.6875"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[35]" 
+		" -type \"float2\" 0.55524271999999997 0.71038228000000003"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[36]" 
+		" -type \"float2\" 0.54878174999999996 0.72598039999999997"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[37]" 
+		" -type \"float2\" 0.546875 0.57471704000000001"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[38]" 
+		" -type \"float2\" 0.54878174999999996 0.27401966"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[39]" 
+		" -type \"float2\" 0.546875 0.42528297999999998"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[40]" 
+		" -type \"float2\" 0.609375 0.3125"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[41]" 
+		" -type \"float2\" 0.63336771999999997 0.10100729"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[42]" 
+		" -type \"float2\" 0.609375 0.6875"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[43]" 
+		" -type \"float2\" 0.63336771999999997 0.89899271999999997"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[44]" 
+		" -type \"float2\" 0.61776966 0.89253181000000004"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[45]" 
+		" -type \"float2\" 0.609375 0.57471704000000001"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[46]" 
+		" -type \"float2\" 0.61776966 0.10746822"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[47]" 
+		" -type \"float2\" 0.609375 0.42528297999999998"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[48]" 
+		" -type \"float2\" 0.375 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[49]" 
+		" -type \"float2\" 0.625 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[50]" 
+		" -type \"float2\" 0.625 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[51]" 
+		" -type \"float2\" 0.375 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[52]" 
+		" -type \"float2\" 0.375 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[53]" 
+		" -type \"float2\" 0.625 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[54]" 
+		" -type \"float2\" 0.625 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[55]" 
+		" -type \"float2\" 0.375 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[56]" 
+		" -type \"float2\" 0.625 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[57]" 
+		" -type \"float2\" 0.375 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[58]" 
+		" -type \"float2\" 0.625 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[59]" 
+		" -type \"float2\" 0.375 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[60]" 
+		" -type \"float2\" 0.625 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[61]" 
+		" -type \"float2\" 0.375 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[62]" 
+		" -type \"float2\" 0.625 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[63]" 
+		" -type \"float2\" 0.375 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[64]" 
+		" -type \"float2\" 0.625 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[65]" 
+		" -type \"float2\" 0.375 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[66]" 
+		" -type \"float2\" 0.625 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[67]" 
+		" -type \"float2\" 0.375 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[68]" 
+		" -type \"float2\" 0.625 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[69]" 
+		" -type \"float2\" 0.375 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[70]" 
+		" -type \"float2\" 0.625 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[71]" 
+		" -type \"float2\" 0.375 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[72]" 
+		" -type \"float2\" 0.625 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[73]" 
+		" -type \"float2\" 0.375 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[74]" 
+		" -type \"float2\" 0.625 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[75]" 
+		" -type \"float2\" 0.375 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[76]" 
+		" -type \"float2\" 0.625 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[77]" 
+		" -type \"float2\" 0.375 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[78]" 
+		" -type \"float2\" 0.625 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[79]" 
+		" -type \"float2\" 0.375 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[80]" 
+		" -type \"float2\" 0.625 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[81]" 
+		" -type \"float2\" 0.375 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[82]" 
+		" -type \"float2\" 0.625 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[83]" 
+		" -type \"float2\" 0.375 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[84]" 
+		" -type \"float2\" 0.625 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[85]" 
+		" -type \"float2\" 0.375 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[86]" 
+		" -type \"float2\" 0.625 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[87]" 
+		" -type \"float2\" 0.375 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[88]" 
+		" -type \"float2\" 0.625 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[89]" 
+		" -type \"float2\" 0.375 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[90]" 
+		" -type \"float2\" 0.625 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[91]" 
+		" -type \"float2\" 0.375 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[92]" 
+		" -type \"float2\" 0.3125 0.375"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[93]" 
+		" -type \"float2\" 0.625 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[94]" 
+		" -type \"float2\" 0.625 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[95]" 
+		" -type \"float2\" 0.625 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[96]" 
+		" -type \"float2\" 0.625 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[97]" 
+		" -type \"float2\" 0.625 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[98]" 
+		" -type \"float2\" 0.625 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[99]" 
+		" -type \"float2\" 0.625 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[100]" 
+		" -type \"float2\" 0.625 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[101]" 
+		" -type \"float2\" 0.625 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[102]" 
+		" -type \"float2\" 0.625 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[103]" 
+		" -type \"float2\" 0.625 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[104]" 
+		" -type \"float2\" 0.625 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[105]" 
+		" -type \"float2\" 0.625 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[106]" 
+		" -type \"float2\" 0.625 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[107]" 
+		" -type \"float2\" 0.625 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[108]" 
+		" -type \"float2\" 0.625 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[109]" 
+		" -type \"float2\" 0.625 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[110]" 
+		" -type \"float2\" 0.625 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[111]" 
+		" -type \"float2\" 0.625 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[112]" 
+		" -type \"float2\" 0.375 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[113]" 
+		" -type \"float2\" 0.375 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[114]" 
+		" -type \"float2\" 0.375 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[115]" 
+		" -type \"float2\" 0.375 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[116]" 
+		" -type \"float2\" 0.375 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[117]" 
+		" -type \"float2\" 0.375 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[118]" 
+		" -type \"float2\" 0.375 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[119]" 
+		" -type \"float2\" 0.375 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[120]" 
+		" -type \"float2\" 0.375 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[121]" 
+		" -type \"float2\" 0.375 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[122]" 
+		" -type \"float2\" 0.375 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[123]" 
+		" -type \"float2\" 0.375 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[124]" 
+		" -type \"float2\" 0.375 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[125]" 
+		" -type \"float2\" 0.375 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[126]" 
+		" -type \"float2\" 0.375 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[127]" 
+		" -type \"float2\" 0.375 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[128]" 
+		" -type \"float2\" 0.375 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[129]" 
+		" -type \"float2\" 0.375 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[130]" 
+		" -type \"float2\" 0.375 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[131]" 
+		" -type \"float2\" 0.6875 0.375"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[132]" 
+		" -type \"float2\" 0.62879127000000001 0.22254125999999999"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[133]" 
+		" -type \"float2\" 0.61048543 0.26673543"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[134]" 
+		" -type \"float2\" 0.61048543 0.26673543"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[135]" 
+		" -type \"float2\" 0.65625 0.15625"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[136]" 
+		" -type \"float2\" 0.63794421999999995 0.20044418"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[137]" 
+		" -type \"float2\" 0.65625 0.15625"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[138]" 
+		" -type \"float2\" 0 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[139]" 
+		" -type \"float2\" 1 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[140]" 
+		" -type \"float2\" 1 1"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[141]" 
+		" -type \"float2\" 0 1"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[142]" 
+		" -type \"float2\" 0.55524271999999997 0.28961772000000002"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[143]" 
+		" -type \"float2\" 0.55524271999999997 0.28961772000000002"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[144]" 
+		" -type \"float2\" 0.63336771999999997 0.10100729"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[145]" 
+		" -type \"float2\" 0.63336771999999997 0.10100729"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[146]" 
+		" -type \"float2\" 0.609375 0.3125"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[147]" 
+		" -type \"float2\" 0.609375 0.6875"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[148]" 
+		" -type \"float2\" 0.59375 0.6875"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[149]" 
+		" -type \"float2\" 0.59375 0.3125"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[150]" 
+		" -type \"float2\" 0.58437501999999997 0.6875"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[151]" 
+		" -type \"float2\" 0.58437501999999997 0.3125"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[152]" 
+		" -type \"float2\" 0.61776966 0.10746822"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[153]" 
+		" -type \"float2\" 0.63336771999999997 0.10100729"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[154]" 
+		" -type \"float2\" 0.65625 0.15625"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[155]" 
+		" -type \"float2\" 0.63797568999999998 0.15625"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[156]" 
+		" -type \"float2\" 0.63336771999999997 0.89899271999999997"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[157]" 
+		" -type \"float2\" 0.61776966 0.89253181000000004"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[158]" 
+		" -type \"float2\" 0.63797568999999998 0.84375"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[159]" 
+		" -type \"float2\" 0.65625 0.84375"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[160]" 
+		" -type \"float2\" 0.64252067000000002 0.18939564"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[161]" 
+		" -type \"float2\" 0.62585204999999999 0.18551907000000001"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[162]" 
+		" -type \"float2\" 0.62585199000000002 0.81448089999999995"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[163]" 
+		" -type \"float2\" 0.64252067000000002 0.81060432999999998"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[164]" 
+		" -type \"float2\" 0.609375 0.57471704000000001"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[165]" 
+		" -type \"float2\" 0.609375 0.42528297999999998"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[166]" 
+		" -type \"float2\" 0.59375 0.42528297999999998"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[167]" 
+		" -type \"float2\" 0.59375 0.57471704000000001"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[168]" 
+		" -type \"float2\" 0.58437501999999997 0.42528301000000002"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[169]" 
+		" -type \"float2\" 0.58437501999999997 0.57471704000000001"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[170]" 
+		" -type \"float2\" 0.57187498000000003 0.3125"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[171]" 
+		" -type \"float2\" 0.57187504 0.6875"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[172]" 
+		" -type \"float2\" 0.5625 0.6875"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[173]" 
+		" -type \"float2\" 0.5625 0.3125"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[174]" 
+		" -type \"float2\" 0.60968721000000003 0.22454450000000001"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[175]" 
+		" -type \"float2\" 0.62421483 0.23358979999999999"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[176]" 
+		" -type \"float2\" 0.61048543 0.26673543"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[177]" 
+		" -type \"float2\" 0.59756355999999999 0.25381355999999999"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[178]" 
+		" -type \"float2\" 0.57187504 0.57471704000000001"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[179]" 
+		" -type \"float2\" 0.57187498000000003 0.42528301000000002"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[180]" 
+		" -type \"float2\" 0.5625 0.42528297999999998"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[181]" 
+		" -type \"float2\" 0.5625 0.57471704000000001"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[182]" 
+		" -type \"float2\" 0.62421483 0.76641022999999997"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[183]" 
+		" -type \"float2\" 0.60968721000000003 0.77545553"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[184]" 
+		" -type \"float2\" 0.59756355999999999 0.74618644000000001"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[185]" 
+		" -type \"float2\" 0.61048543 0.73326457"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[186]" 
+		" -type \"float2\" 0.546875 0.6875"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[187]" 
+		" -type \"float2\" 0.546875 0.3125"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[188]" 
+		" -type \"float2\" 0.54878174999999996 0.72598039999999997"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[189]" 
+		" -type \"float2\" 0.55524271999999997 0.71038228000000003"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[190]" 
+		" -type \"float2\" 0.546875 0.42528297999999998"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[191]" 
+		" -type \"float2\" 0.546875 0.57471704000000001"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[192]" 
+		" -type \"float2\" 0.55524271999999997 0.28961772000000002"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[193]" 
+		" -type \"float2\" 0.54878174999999996 0.27401966"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[194]" 
+		" -type \"float2\" 0.375 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[195]" 
+		" -type \"float2\" 0.625 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[196]" 
+		" -type \"float2\" 0.625 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[197]" 
+		" -type \"float2\" 0.375 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[198]" 
+		" -type \"float2\" 0.375 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[199]" 
+		" -type \"float2\" 0.625 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[200]" 
+		" -type \"float2\" 0.625 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[201]" 
+		" -type \"float2\" 0.375 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[202]" 
+		" -type \"float2\" 0.625 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[203]" 
+		" -type \"float2\" 0.375 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[204]" 
+		" -type \"float2\" 0.625 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[205]" 
+		" -type \"float2\" 0.375 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[206]" 
+		" -type \"float2\" 0.625 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[207]" 
+		" -type \"float2\" 0.375 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[208]" 
+		" -type \"float2\" 0.625 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[209]" 
+		" -type \"float2\" 0.375 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[210]" 
+		" -type \"float2\" 0.625 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[211]" 
+		" -type \"float2\" 0.375 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[212]" 
+		" -type \"float2\" 0.625 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[213]" 
+		" -type \"float2\" 0.375 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[214]" 
+		" -type \"float2\" 0.625 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[215]" 
+		" -type \"float2\" 0.375 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[216]" 
+		" -type \"float2\" 0.625 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[217]" 
+		" -type \"float2\" 0.375 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[218]" 
+		" -type \"float2\" 0.625 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[219]" 
+		" -type \"float2\" 0.375 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[220]" 
+		" -type \"float2\" 0.625 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[221]" 
+		" -type \"float2\" 0.375 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[222]" 
+		" -type \"float2\" 0.625 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[223]" 
+		" -type \"float2\" 0.375 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[224]" 
+		" -type \"float2\" 0.625 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[225]" 
+		" -type \"float2\" 0.375 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[226]" 
+		" -type \"float2\" 0.625 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[227]" 
+		" -type \"float2\" 0.375 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[228]" 
+		" -type \"float2\" 0.625 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[229]" 
+		" -type \"float2\" 0.375 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[230]" 
+		" -type \"float2\" 0.625 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[231]" 
+		" -type \"float2\" 0.375 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[232]" 
+		" -type \"float2\" 0.625 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[233]" 
+		" -type \"float2\" 0.375 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[234]" 
+		" -type \"float2\" 0.625 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[235]" 
+		" -type \"float2\" 0.375 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[236]" 
+		" -type \"float2\" 0.625 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[237]" 
+		" -type \"float2\" 0.375 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[238]" 
+		" -type \"float2\" 0.3125 0.375"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[239]" 
+		" -type \"float2\" 0.625 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[240]" 
+		" -type \"float2\" 0.625 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[241]" 
+		" -type \"float2\" 0.625 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[242]" 
+		" -type \"float2\" 0.625 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[243]" 
+		" -type \"float2\" 0.625 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[244]" 
+		" -type \"float2\" 0.625 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[245]" 
+		" -type \"float2\" 0.625 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[246]" 
+		" -type \"float2\" 0.625 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[247]" 
+		" -type \"float2\" 0.625 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[248]" 
+		" -type \"float2\" 0.625 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[249]" 
+		" -type \"float2\" 0.625 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[250]" 
+		" -type \"float2\" 0.625 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[251]" 
+		" -type \"float2\" 0.625 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[252]" 
+		" -type \"float2\" 0.625 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[253]" 
+		" -type \"float2\" 0.625 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[254]" 
+		" -type \"float2\" 0.625 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[255]" 
+		" -type \"float2\" 0.625 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[256]" 
+		" -type \"float2\" 0.625 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[257]" 
+		" -type \"float2\" 0.625 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[258]" 
+		" -type \"float2\" 0.375 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[259]" 
+		" -type \"float2\" 0.375 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[260]" 
+		" -type \"float2\" 0.375 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[261]" 
+		" -type \"float2\" 0.375 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[262]" 
+		" -type \"float2\" 0.375 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[263]" 
+		" -type \"float2\" 0.375 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[264]" 
+		" -type \"float2\" 0.375 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[265]" 
+		" -type \"float2\" 0.375 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[266]" 
+		" -type \"float2\" 0.375 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[267]" 
+		" -type \"float2\" 0.375 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[268]" 
+		" -type \"float2\" 0.375 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[269]" 
+		" -type \"float2\" 0.375 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[270]" 
+		" -type \"float2\" 0.375 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[271]" 
+		" -type \"float2\" 0.375 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[272]" 
+		" -type \"float2\" 0.375 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[273]" 
+		" -type \"float2\" 0.375 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[274]" 
+		" -type \"float2\" 0.375 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[275]" 
+		" -type \"float2\" 0.375 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[276]" 
+		" -type \"float2\" 0.375 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[277]" 
+		" -type \"float2\" 0.6875 0.375"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[278]" 
+		" -type \"float2\" 0.62879127000000001 0.22254125999999999"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[279]" 
+		" -type \"float2\" 0.61048543 0.26673543"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[280]" 
+		" -type \"float2\" 0.61048543 0.26673543"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[281]" 
+		" -type \"float2\" 0.65625 0.15625"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[282]" 
+		" -type \"float2\" 0.63794421999999995 0.20044418"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[283]" 
+		" -type \"float2\" 0.65625 0.15625"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[284]" 
+		" -type \"float2\" 0 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[285]" 
+		" -type \"float2\" 1 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[286]" 
+		" -type \"float2\" 1 1"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[287]" 
+		" -type \"float2\" 0 1"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[288]" 
+		" -type \"float2\" 0.55524271999999997 0.28961772000000002"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[289]" 
+		" -type \"float2\" 0.55524271999999997 0.28961772000000002"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[290]" 
+		" -type \"float2\" 0.63336771999999997 0.10100729"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[291]" 
+		" -type \"float2\" 0.63336771999999997 0.10100729"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[292]" 
+		" -type \"float2\" 0.609375 0.3125"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[293]" 
+		" -type \"float2\" 0.609375 0.6875"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[294]" 
+		" -type \"float2\" 0.59375 0.6875"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[295]" 
+		" -type \"float2\" 0.59375 0.3125"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[296]" 
+		" -type \"float2\" 0.58437501999999997 0.6875"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[297]" 
+		" -type \"float2\" 0.58437501999999997 0.3125"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[298]" 
+		" -type \"float2\" 0.61776966 0.10746822"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[299]" 
+		" -type \"float2\" 0.63336771999999997 0.10100729"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[300]" 
+		" -type \"float2\" 0.65625 0.15625"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[301]" 
+		" -type \"float2\" 0.63797568999999998 0.15625"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[302]" 
+		" -type \"float2\" 0.63336771999999997 0.89899271999999997"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[303]" 
+		" -type \"float2\" 0.61776966 0.89253181000000004"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[304]" 
+		" -type \"float2\" 0.63797568999999998 0.84375"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[305]" 
+		" -type \"float2\" 0.65625 0.84375"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[306]" 
+		" -type \"float2\" 0.64252067000000002 0.18939564"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[307]" 
+		" -type \"float2\" 0.62585204999999999 0.18551907000000001"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[308]" 
+		" -type \"float2\" 0.62585199000000002 0.81448089999999995"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[309]" 
+		" -type \"float2\" 0.64252067000000002 0.81060432999999998"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[310]" 
+		" -type \"float2\" 0.609375 0.57471704000000001"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[311]" 
+		" -type \"float2\" 0.609375 0.42528297999999998"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[312]" 
+		" -type \"float2\" 0.59375 0.42528297999999998"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[313]" 
+		" -type \"float2\" 0.59375 0.57471704000000001"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[314]" 
+		" -type \"float2\" 0.58437501999999997 0.42528301000000002"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[315]" 
+		" -type \"float2\" 0.58437501999999997 0.57471704000000001"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[316]" 
+		" -type \"float2\" 0.57187498000000003 0.3125"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[317]" 
+		" -type \"float2\" 0.57187504 0.6875"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[318]" 
+		" -type \"float2\" 0.5625 0.6875"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[319]" 
+		" -type \"float2\" 0.5625 0.3125"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[320]" 
+		" -type \"float2\" 0.60968721000000003 0.22454450000000001"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[321]" 
+		" -type \"float2\" 0.62421483 0.23358979999999999"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[322]" 
+		" -type \"float2\" 0.61048543 0.26673543"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[323]" 
+		" -type \"float2\" 0.59756355999999999 0.25381355999999999"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[324]" 
+		" -type \"float2\" 0.57187504 0.57471704000000001"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[325]" 
+		" -type \"float2\" 0.57187498000000003 0.42528301000000002"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[326]" 
+		" -type \"float2\" 0.5625 0.42528297999999998"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[327]" 
+		" -type \"float2\" 0.5625 0.57471704000000001"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[328]" 
+		" -type \"float2\" 0.62421483 0.76641022999999997"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[329]" 
+		" -type \"float2\" 0.60968721000000003 0.77545553"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[330]" 
+		" -type \"float2\" 0.59756355999999999 0.74618644000000001"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[331]" 
+		" -type \"float2\" 0.61048543 0.73326457"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[332]" 
+		" -type \"float2\" 0.546875 0.6875"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[333]" 
+		" -type \"float2\" 0.546875 0.3125"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[334]" 
+		" -type \"float2\" 0.54878174999999996 0.72598039999999997"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[335]" 
+		" -type \"float2\" 0.55524271999999997 0.71038228000000003"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[336]" 
+		" -type \"float2\" 0.546875 0.42528297999999998"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[337]" 
+		" -type \"float2\" 0.546875 0.57471704000000001"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[338]" 
+		" -type \"float2\" 0.55524271999999997 0.28961772000000002"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[339]" 
+		" -type \"float2\" 0.54878174999999996 0.27401966"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[340]" 
+		" -type \"float2\" 0.375 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[341]" 
+		" -type \"float2\" 0.625 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[342]" 
+		" -type \"float2\" 0.625 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[343]" 
+		" -type \"float2\" 0.375 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[344]" 
+		" -type \"float2\" 0.375 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[345]" 
+		" -type \"float2\" 0.625 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[346]" 
+		" -type \"float2\" 0.625 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[347]" 
+		" -type \"float2\" 0.375 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[348]" 
+		" -type \"float2\" 0.625 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[349]" 
+		" -type \"float2\" 0.375 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[350]" 
+		" -type \"float2\" 0.625 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[351]" 
+		" -type \"float2\" 0.375 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[352]" 
+		" -type \"float2\" 0.625 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[353]" 
+		" -type \"float2\" 0.375 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[354]" 
+		" -type \"float2\" 0.625 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[355]" 
+		" -type \"float2\" 0.375 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[356]" 
+		" -type \"float2\" 0.625 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[357]" 
+		" -type \"float2\" 0.375 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[358]" 
+		" -type \"float2\" 0.625 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[359]" 
+		" -type \"float2\" 0.375 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[360]" 
+		" -type \"float2\" 0.625 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[361]" 
+		" -type \"float2\" 0.375 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[362]" 
+		" -type \"float2\" 0.625 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[363]" 
+		" -type \"float2\" 0.375 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[364]" 
+		" -type \"float2\" 0.625 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[365]" 
+		" -type \"float2\" 0.375 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[366]" 
+		" -type \"float2\" 0.625 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[367]" 
+		" -type \"float2\" 0.375 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[368]" 
+		" -type \"float2\" 0.625 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[369]" 
+		" -type \"float2\" 0.375 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[370]" 
+		" -type \"float2\" 0.625 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[371]" 
+		" -type \"float2\" 0.375 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[372]" 
+		" -type \"float2\" 0.625 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[373]" 
+		" -type \"float2\" 0.375 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[374]" 
+		" -type \"float2\" 0.625 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[375]" 
+		" -type \"float2\" 0.375 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[376]" 
+		" -type \"float2\" 0.625 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[377]" 
+		" -type \"float2\" 0.375 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[378]" 
+		" -type \"float2\" 0.625 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[379]" 
+		" -type \"float2\" 0.375 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[380]" 
+		" -type \"float2\" 0.625 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[381]" 
+		" -type \"float2\" 0.375 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[382]" 
+		" -type \"float2\" 0.625 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[383]" 
+		" -type \"float2\" 0.375 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[384]" 
+		" -type \"float2\" 0.3125 0.375"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[385]" 
+		" -type \"float2\" 0.625 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[386]" 
+		" -type \"float2\" 0.625 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[387]" 
+		" -type \"float2\" 0.625 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[388]" 
+		" -type \"float2\" 0.625 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[389]" 
+		" -type \"float2\" 0.625 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[390]" 
+		" -type \"float2\" 0.625 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[391]" 
+		" -type \"float2\" 0.625 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[392]" 
+		" -type \"float2\" 0.625 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[393]" 
+		" -type \"float2\" 0.625 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[394]" 
+		" -type \"float2\" 0.625 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[395]" 
+		" -type \"float2\" 0.625 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[396]" 
+		" -type \"float2\" 0.625 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[397]" 
+		" -type \"float2\" 0.625 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[398]" 
+		" -type \"float2\" 0.625 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[399]" 
+		" -type \"float2\" 0.625 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[400]" 
+		" -type \"float2\" 0.625 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[401]" 
+		" -type \"float2\" 0.625 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[402]" 
+		" -type \"float2\" 0.625 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[403]" 
+		" -type \"float2\" 0.625 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[404]" 
+		" -type \"float2\" 0.375 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[405]" 
+		" -type \"float2\" 0.375 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[406]" 
+		" -type \"float2\" 0.375 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[407]" 
+		" -type \"float2\" 0.375 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[408]" 
+		" -type \"float2\" 0.375 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[409]" 
+		" -type \"float2\" 0.375 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[410]" 
+		" -type \"float2\" 0.375 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[411]" 
+		" -type \"float2\" 0.375 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[412]" 
+		" -type \"float2\" 0.375 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[413]" 
+		" -type \"float2\" 0.375 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[414]" 
+		" -type \"float2\" 0.375 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[415]" 
+		" -type \"float2\" 0.375 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[416]" 
+		" -type \"float2\" 0.375 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[417]" 
+		" -type \"float2\" 0.375 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[418]" 
+		" -type \"float2\" 0.375 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[419]" 
+		" -type \"float2\" 0.375 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[420]" 
+		" -type \"float2\" 0.375 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[421]" 
+		" -type \"float2\" 0.375 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[422]" 
+		" -type \"float2\" 0.375 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[423]" 
+		" -type \"float2\" 0.6875 0.375"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[424]" 
+		" -type \"float2\" 0.62879127000000001 0.22254125999999999"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[425]" 
+		" -type \"float2\" 0.61048543 0.26673543"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[426]" 
+		" -type \"float2\" 0.61048543 0.26673543"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[427]" 
+		" -type \"float2\" 0.65625 0.15625"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[428]" 
+		" -type \"float2\" 0.63794421999999995 0.20044418"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[429]" 
+		" -type \"float2\" 0.65625 0.15625"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[430]" 
+		" -type \"float2\" 0 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[431]" 
+		" -type \"float2\" 1 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[432]" 
+		" -type \"float2\" 1 1"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[433]" 
+		" -type \"float2\" 0 1"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[434]" 
+		" -type \"float2\" 0.55524271999999997 0.28961772000000002"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[435]" 
+		" -type \"float2\" 0.55524271999999997 0.28961772000000002"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[436]" 
+		" -type \"float2\" 0.63336771999999997 0.10100729"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[437]" 
+		" -type \"float2\" 0.63336771999999997 0.10100729"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[438]" 
+		" -type \"float2\" 0.609375 0.3125"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[439]" 
+		" -type \"float2\" 0.609375 0.6875"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[440]" 
+		" -type \"float2\" 0.59375 0.6875"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[441]" 
+		" -type \"float2\" 0.59375 0.3125"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[442]" 
+		" -type \"float2\" 0.58437501999999997 0.6875"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[443]" 
+		" -type \"float2\" 0.58437501999999997 0.3125"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[444]" 
+		" -type \"float2\" 0.61776966 0.10746822"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[445]" 
+		" -type \"float2\" 0.63336771999999997 0.10100729"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[446]" 
+		" -type \"float2\" 0.65625 0.15625"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[447]" 
+		" -type \"float2\" 0.63797568999999998 0.15625"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[448]" 
+		" -type \"float2\" 0.63336771999999997 0.89899271999999997"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[449]" 
+		" -type \"float2\" 0.61776966 0.89253181000000004"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[450]" 
+		" -type \"float2\" 0.63797568999999998 0.84375"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[451]" 
+		" -type \"float2\" 0.65625 0.84375"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[452]" 
+		" -type \"float2\" 0.64252067000000002 0.18939564"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[453]" 
+		" -type \"float2\" 0.62585204999999999 0.18551907000000001"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[454]" 
+		" -type \"float2\" 0.62585199000000002 0.81448089999999995"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[455]" 
+		" -type \"float2\" 0.64252067000000002 0.81060432999999998"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[456]" 
+		" -type \"float2\" 0.609375 0.57471704000000001"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[457]" 
+		" -type \"float2\" 0.609375 0.42528297999999998"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[458]" 
+		" -type \"float2\" 0.59375 0.42528297999999998"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[459]" 
+		" -type \"float2\" 0.59375 0.57471704000000001"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[460]" 
+		" -type \"float2\" 0.58437501999999997 0.42528301000000002"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[461]" 
+		" -type \"float2\" 0.58437501999999997 0.57471704000000001"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[462]" 
+		" -type \"float2\" 0.57187498000000003 0.3125"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[463]" 
+		" -type \"float2\" 0.57187504 0.6875"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[464]" 
+		" -type \"float2\" 0.5625 0.6875"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[465]" 
+		" -type \"float2\" 0.5625 0.3125"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[466]" 
+		" -type \"float2\" 0.60968721000000003 0.22454450000000001"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[467]" 
+		" -type \"float2\" 0.62421483 0.23358979999999999"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[468]" 
+		" -type \"float2\" 0.61048543 0.26673543"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[469]" 
+		" -type \"float2\" 0.59756355999999999 0.25381355999999999"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[470]" 
+		" -type \"float2\" 0.57187504 0.57471704000000001"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[471]" 
+		" -type \"float2\" 0.57187498000000003 0.42528301000000002"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[472]" 
+		" -type \"float2\" 0.5625 0.42528297999999998"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[473]" 
+		" -type \"float2\" 0.5625 0.57471704000000001"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[474]" 
+		" -type \"float2\" 0.62421483 0.76641022999999997"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[475]" 
+		" -type \"float2\" 0.60968721000000003 0.77545553"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[476]" 
+		" -type \"float2\" 0.59756355999999999 0.74618644000000001"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[477]" 
+		" -type \"float2\" 0.61048543 0.73326457"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[478]" 
+		" -type \"float2\" 0.546875 0.6875"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[479]" 
+		" -type \"float2\" 0.546875 0.3125"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[480]" 
+		" -type \"float2\" 0.54878174999999996 0.72598039999999997"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[481]" 
+		" -type \"float2\" 0.55524271999999997 0.71038228000000003"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[482]" 
+		" -type \"float2\" 0.546875 0.42528297999999998"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[483]" 
+		" -type \"float2\" 0.546875 0.57471704000000001"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[484]" 
+		" -type \"float2\" 0.55524271999999997 0.28961772000000002"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[485]" 
+		" -type \"float2\" 0.54878174999999996 0.27401966"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[486]" 
+		" -type \"float2\" 0.375 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[487]" 
+		" -type \"float2\" 0.625 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[488]" 
+		" -type \"float2\" 0.625 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[489]" 
+		" -type \"float2\" 0.375 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[490]" 
+		" -type \"float2\" 0.375 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[491]" 
+		" -type \"float2\" 0.625 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[492]" 
+		" -type \"float2\" 0.625 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[493]" 
+		" -type \"float2\" 0.375 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[494]" 
+		" -type \"float2\" 0.625 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[495]" 
+		" -type \"float2\" 0.375 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[496]" 
+		" -type \"float2\" 0.625 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[497]" 
+		" -type \"float2\" 0.375 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[498]" 
+		" -type \"float2\" 0.625 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[499]" 
+		" -type \"float2\" 0.375 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[500]" 
+		" -type \"float2\" 0.625 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[501]" 
+		" -type \"float2\" 0.375 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[502]" 
+		" -type \"float2\" 0.625 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[503]" 
+		" -type \"float2\" 0.375 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[504]" 
+		" -type \"float2\" 0.625 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[505]" 
+		" -type \"float2\" 0.375 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[506]" 
+		" -type \"float2\" 0.625 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[507]" 
+		" -type \"float2\" 0.375 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[508]" 
+		" -type \"float2\" 0.625 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[509]" 
+		" -type \"float2\" 0.375 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[510]" 
+		" -type \"float2\" 0.625 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[511]" 
+		" -type \"float2\" 0.375 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[512]" 
+		" -type \"float2\" 0.625 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[513]" 
+		" -type \"float2\" 0.375 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[514]" 
+		" -type \"float2\" 0.625 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[515]" 
+		" -type \"float2\" 0.375 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[516]" 
+		" -type \"float2\" 0.625 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[517]" 
+		" -type \"float2\" 0.375 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[518]" 
+		" -type \"float2\" 0.625 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[519]" 
+		" -type \"float2\" 0.375 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[520]" 
+		" -type \"float2\" 0.625 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[521]" 
+		" -type \"float2\" 0.375 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[522]" 
+		" -type \"float2\" 0.625 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[523]" 
+		" -type \"float2\" 0.375 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[524]" 
+		" -type \"float2\" 0.625 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[525]" 
+		" -type \"float2\" 0.375 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[526]" 
+		" -type \"float2\" 0.625 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[527]" 
+		" -type \"float2\" 0.375 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[528]" 
+		" -type \"float2\" 0.625 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[529]" 
+		" -type \"float2\" 0.375 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[530]" 
+		" -type \"float2\" 0.3125 0.375"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[531]" 
+		" -type \"float2\" 0.625 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[532]" 
+		" -type \"float2\" 0.625 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[533]" 
+		" -type \"float2\" 0.625 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[534]" 
+		" -type \"float2\" 0.625 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[535]" 
+		" -type \"float2\" 0.625 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[536]" 
+		" -type \"float2\" 0.625 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[537]" 
+		" -type \"float2\" 0.625 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[538]" 
+		" -type \"float2\" 0.625 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[539]" 
+		" -type \"float2\" 0.625 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[540]" 
+		" -type \"float2\" 0.625 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[541]" 
+		" -type \"float2\" 0.625 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[542]" 
+		" -type \"float2\" 0.625 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[543]" 
+		" -type \"float2\" 0.625 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[544]" 
+		" -type \"float2\" 0.625 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[545]" 
+		" -type \"float2\" 0.625 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[546]" 
+		" -type \"float2\" 0.625 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[547]" 
+		" -type \"float2\" 0.625 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[548]" 
+		" -type \"float2\" 0.625 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[549]" 
+		" -type \"float2\" 0.625 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[550]" 
+		" -type \"float2\" 0.375 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[551]" 
+		" -type \"float2\" 0.375 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[552]" 
+		" -type \"float2\" 0.375 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[553]" 
+		" -type \"float2\" 0.375 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[554]" 
+		" -type \"float2\" 0.375 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[555]" 
+		" -type \"float2\" 0.375 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[556]" 
+		" -type \"float2\" 0.375 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[557]" 
+		" -type \"float2\" 0.375 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[558]" 
+		" -type \"float2\" 0.375 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[559]" 
+		" -type \"float2\" 0.375 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[560]" 
+		" -type \"float2\" 0.375 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[561]" 
+		" -type \"float2\" 0.375 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[562]" 
+		" -type \"float2\" 0.375 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[563]" 
+		" -type \"float2\" 0.375 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[564]" 
+		" -type \"float2\" 0.375 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[565]" 
+		" -type \"float2\" 0.375 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[566]" 
+		" -type \"float2\" 0.375 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[567]" 
+		" -type \"float2\" 0.375 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[568]" 
+		" -type \"float2\" 0.375 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[569]" 
+		" -type \"float2\" 0.6875 0.375"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[570]" 
+		" -type \"float2\" 0.62879127000000001 0.22254125999999999"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[571]" 
+		" -type \"float2\" 0.61048543 0.26673543"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[572]" 
+		" -type \"float2\" 0.61048543 0.26673543"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[573]" 
+		" -type \"float2\" 0.65625 0.15625"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[574]" 
+		" -type \"float2\" 0.63794421999999995 0.20044418"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[575]" 
+		" -type \"float2\" 0.65625 0.15625"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[576]" 
+		" -type \"float2\" 0 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[577]" 
+		" -type \"float2\" 1 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[578]" 
+		" -type \"float2\" 1 1"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[579]" 
+		" -type \"float2\" 0 1"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[580]" 
+		" -type \"float2\" 0.55524271999999997 0.28961772000000002"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[581]" 
+		" -type \"float2\" 0.55524271999999997 0.28961772000000002"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[582]" 
+		" -type \"float2\" 0.63336771999999997 0.10100729"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[583]" 
+		" -type \"float2\" 0.63336771999999997 0.10100729"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[584]" 
+		" -type \"float2\" 0 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[585]" 
+		" -type \"float2\" 1 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[586]" 
+		" -type \"float2\" 1 1"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[587]" 
+		" -type \"float2\" 0 1"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[588]" 
+		" -type \"float2\" 0 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[589]" 
+		" -type \"float2\" 1 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[590]" 
+		" -type \"float2\" 1 1"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[591]" 
+		" -type \"float2\" 0 1"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[592]" 
+		" -type \"float2\" 0 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[593]" 
+		" -type \"float2\" 1 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[594]" 
+		" -type \"float2\" 1 1"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[595]" 
+		" -type \"float2\" 0 1"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[596]" 
+		" -type \"float2\" 0 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[597]" 
+		" -type \"float2\" 1 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[598]" 
+		" -type \"float2\" 1 1"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[599]" 
+		" -type \"float2\" 0 1"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[600]" 
+		" -type \"float2\" 0 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[601]" 
+		" -type \"float2\" 1 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[602]" 
+		" -type \"float2\" 1 1"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[603]" 
+		" -type \"float2\" 0 1"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[604]" 
+		" -type \"float2\" 0 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[605]" 
+		" -type \"float2\" 1 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[606]" 
+		" -type \"float2\" 1 1"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[607]" 
+		" -type \"float2\" 0 1"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[608]" 
+		" -type \"float2\" 0 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[609]" 
+		" -type \"float2\" 1 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[610]" 
+		" -type \"float2\" 1 1"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[611]" 
+		" -type \"float2\" 0 1"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[612]" 
+		" -type \"float2\" 0 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[613]" 
+		" -type \"float2\" 1 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[614]" 
+		" -type \"float2\" 1 1"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[615]" 
+		" -type \"float2\" 0 1"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[616]" 
+		" -type \"float2\" 0 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[617]" 
+		" -type \"float2\" 1 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[618]" 
+		" -type \"float2\" 1 1"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[619]" 
+		" -type \"float2\" 0 1"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[620]" 
+		" -type \"float2\" 0 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[621]" 
+		" -type \"float2\" 1 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[622]" 
+		" -type \"float2\" 1 1"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[623]" 
+		" -type \"float2\" 0 1"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[624]" 
+		" -type \"float2\" 0 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[625]" 
+		" -type \"float2\" 1 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[626]" 
+		" -type \"float2\" 1 1"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[627]" 
+		" -type \"float2\" 0 1"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[628]" 
+		" -type \"float2\" 0 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[629]" 
+		" -type \"float2\" 1 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[630]" 
+		" -type \"float2\" 1 1"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[631]" 
+		" -type \"float2\" 0 1"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[632]" 
+		" -type \"float2\" 0 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[633]" 
+		" -type \"float2\" 1 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[634]" 
+		" -type \"float2\" 1 1"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[635]" 
+		" -type \"float2\" 0 1"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[636]" 
+		" -type \"float2\" 0 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[637]" 
+		" -type \"float2\" 1 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[638]" 
+		" -type \"float2\" 1 1"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[639]" 
+		" -type \"float2\" 0 1"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[640]" 
+		" -type \"float2\" 0 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[641]" 
+		" -type \"float2\" 1 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[642]" 
+		" -type \"float2\" 1 1"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[643]" 
+		" -type \"float2\" 0 1"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[644]" 
+		" -type \"float2\" 0 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[645]" 
+		" -type \"float2\" 1 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[646]" 
+		" -type \"float2\" 1 1"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[647]" 
+		" -type \"float2\" 0 1"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[648]" 
+		" -type \"float2\" 0 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[649]" 
+		" -type \"float2\" 1 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[650]" 
+		" -type \"float2\" 1 1"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[651]" 
+		" -type \"float2\" 0 1"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[652]" 
+		" -type \"float2\" 0 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[653]" 
+		" -type \"float2\" 1 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[654]" 
+		" -type \"float2\" 1 1"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[655]" 
+		" -type \"float2\" 0 1"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[656]" 
+		" -type \"float2\" 0 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[657]" 
+		" -type \"float2\" 1 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[658]" 
+		" -type \"float2\" 1 1"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[659]" 
+		" -type \"float2\" 0 1"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[660]" 
+		" -type \"float2\" 0 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[661]" 
+		" -type \"float2\" 1 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[662]" 
+		" -type \"float2\" 1 1"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[663]" 
+		" -type \"float2\" 0 1"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[664]" 
+		" -type \"float2\" 0.55524271999999997 0.71038228000000003"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[665]" 
+		" -type \"float2\" 0.61048543 0.73326457"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[666]" 
+		" -type \"float2\" 0.62879127000000001 0.77745878999999996"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[667]" 
+		" -type \"float2\" 0.63794421999999995 0.79955584000000002"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[668]" 
+		" -type \"float2\" 0.65625 0.84375"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[669]" 
+		" -type \"float2\" 0.55524271999999997 0.71038228000000003"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[670]" 
+		" -type \"float2\" 0.61048543 0.73326457"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[671]" 
+		" -type \"float2\" 0.62879127000000001 0.77745878999999996"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[672]" 
+		" -type \"float2\" 0.63794421999999995 0.79955584000000002"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[673]" 
+		" -type \"float2\" 0.65625 0.84375"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[674]" 
+		" -type \"float2\" 0.55524271999999997 0.71038228000000003"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[675]" 
+		" -type \"float2\" 0.61048543 0.73326457"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[676]" 
+		" -type \"float2\" 0.62879127000000001 0.77745878999999996"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[677]" 
+		" -type \"float2\" 0.63794421999999995 0.79955584000000002"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[678]" 
+		" -type \"float2\" 0.65625 0.84375"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[679]" 
+		" -type \"float2\" 0.55524271999999997 0.71038228000000003"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[680]" 
+		" -type \"float2\" 0.61048543 0.73326457"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[681]" 
+		" -type \"float2\" 0.62879127000000001 0.77745878999999996"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[682]" 
+		" -type \"float2\" 0.63794421999999995 0.79955584000000002"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[683]" 
+		" -type \"float2\" 0.65625 0.84375"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[684]" 
+		" -type \"float2\" 0.55524271999999997 0.71038228000000003"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[685]" 
+		" -type \"float2\" 0.65625 0.84375"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[686]" 
+		" -type \"float2\" 0.63794421999999995 0.79955584000000002"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[687]" 
+		" -type \"float2\" 0.62879127000000001 0.77745878999999996"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[688]" 
+		" -type \"float2\" 0.61048543 0.73326457"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[689]" 
+		" -type \"float2\" 0.55524271999999997 0.71038228000000003"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[690]" 
+		" -type \"float2\" 0.65625 0.84375"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[691]" 
+		" -type \"float2\" 0.63794421999999995 0.79955584000000002"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[692]" 
+		" -type \"float2\" 0.62879127000000001 0.77745878999999996"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[693]" 
+		" -type \"float2\" 0.61048543 0.73326457"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[694]" 
+		" -type \"float2\" 0.55524271999999997 0.71038228000000003"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[695]" 
+		" -type \"float2\" 0.65625 0.84375"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[696]" 
+		" -type \"float2\" 0.63794421999999995 0.79955584000000002"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[697]" 
+		" -type \"float2\" 0.62879127000000001 0.77745878999999996"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[698]" 
+		" -type \"float2\" 0.61048543 0.73326457"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[699]" 
+		" -type \"float2\" 0.55524271999999997 0.71038228000000003"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[700]" 
+		" -type \"float2\" 0.65625 0.84375"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[701]" 
+		" -type \"float2\" 0.63794421999999995 0.79955584000000002"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[702]" 
+		" -type \"float2\" 0.62879127000000001 0.77745878999999996"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[703]" 
+		" -type \"float2\" 0.61048543 0.73326457"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[704]" 
+		" -type \"float2\" 0.56170463999999998 0.6875"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[705]" 
+		" -type \"float2\" 0.546875 0.6875"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[706]" 
+		" -type \"float2\" 0.56329536000000002 0.6875"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[707]" 
+		" -type \"float2\" 0.57499999000000002 0.6875"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[708]" 
+		" -type \"float2\" 0.57515877000000004 0.6875"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[709]" 
+		" -type \"float2\" 0.58109122999999996 0.6875"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[710]" 
+		" -type \"float2\" 0.58125000999999998 0.6875"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[711]" 
+		" -type \"float2\" 0.59295458000000001 0.68749994000000003"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[712]" 
+		" -type \"float2\" 0.65625 0.84375"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[713]" 
+		" -type \"float2\" 0.63336771999999997 0.89899271999999997"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[714]" 
+		" -type \"float2\" 0.546875 0.6875"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[715]" 
+		" -type \"float2\" 0.56170469999999995 0.6875"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[716]" 
+		" -type \"float2\" 0.63336771999999997 0.89899271999999997"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[717]" 
+		" -type \"float2\" 0.65625 0.84375"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[718]" 
+		" -type \"float2\" 0.56170469999999995 0.6875"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[719]" 
+		" -type \"float2\" 0.546875 0.6875"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[720]" 
+		" -type \"float2\" 0.56329536000000002 0.6875"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[721]" 
+		" -type \"float2\" 0.57499999000000002 0.6875"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[722]" 
+		" -type \"float2\" 0.57515877000000004 0.6875"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[723]" 
+		" -type \"float2\" 0.58109122999999996 0.6875"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[724]" 
+		" -type \"float2\" 0.58125000999999998 0.6875"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[725]" 
+		" -type \"float2\" 0.59295458000000001 0.68749994000000003"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[726]" 
+		" -type \"float2\" 0.63336771999999997 0.89899271999999997"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[727]" 
+		" -type \"float2\" 0.65625 0.84375"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[728]" 
+		" -type \"float2\" 0.56170463999999998 0.6875"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[729]" 
+		" -type \"float2\" 0.546875 0.6875"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[730]" 
+		" -type \"float2\" 0.56329536000000002 0.6875"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[731]" 
+		" -type \"float2\" 0.57499999000000002 0.6875"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[732]" 
+		" -type \"float2\" 0.57515877000000004 0.6875"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[733]" 
+		" -type \"float2\" 0.58109122999999996 0.6875"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[734]" 
+		" -type \"float2\" 0.58125000999999998 0.6875"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[735]" 
+		" -type \"float2\" 0.59295458000000001 0.68749994000000003"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[736]" 
+		" -type \"float2\" 0.63336771999999997 0.89899271999999997"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[737]" 
+		" -type \"float2\" 0.65625 0.84375"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[738]" 
+		" -type \"float2\" 0.56329536000000002 0.6875"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[739]" 
+		" -type \"float2\" 0.57499999000000002 0.6875"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[740]" 
+		" -type \"float2\" 0.57515877000000004 0.6875"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[741]" 
+		" -type \"float2\" 0.58109122999999996 0.6875"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[742]" 
+		" -type \"float2\" 0.58125000999999998 0.6875"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[743]" 
+		" -type \"float2\" 0.59295458000000001 0.68749994000000003"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[744]" 
+		" -type \"float2\" 0.60189563000000001 0.26752063999999998"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[745]" 
+		" -type \"float2\" 0.5625 0.56172955000000002"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[746]" 
+		" -type \"float2\" 0.62879127000000001 0.77745878999999996"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[747]" 
+		" -type \"float2\" 0.61048543 0.73326457"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[748]" 
+		" -type \"float2\" 0.58403587000000001 0.54640328999999999"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[749]" 
+		" -type \"float2\" 0.60959708999999995 0.25647207999999999"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[750]" 
+		" -type \"float2\" 0.62879127000000001 0.77745878999999996"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[751]" 
+		" -type \"float2\" 0.63794421999999995 0.79955584000000002"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[752]" 
+		" -type \"float2\" 0.59077352000000005 0.54269129000000005"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[753]" 
+		" -type \"float2\" 0.59375 0.3125"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[754]" 
+		" -type \"float2\" 0.63794421999999995 0.79955584000000002"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[755]" 
+		" -type \"float2\" 0.65625 0.84375005999999997"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[756]" 
+		" -type \"float2\" 0.546875 0.56172949000000005"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[757]" 
+		" -type \"float2\" 0.546875 0.3125"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[758]" 
+		" -type \"float2\" 0.5625 0.3125"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[759]" 
+		" -type \"float2\" 0.55524271999999997 0.71038228000000003"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[760]" 
+		" -type \"float2\" 0.55524271999999997 0.71038228000000003"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[761]" 
+		" -type \"float2\" 0.61048543 0.73326457"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[762]" 
+		" -type \"float2\" 0.63336771999999997 0.89899266"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[763]" 
+		" -type \"float2\" 0.63336771999999997 0.89899271999999997"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[764]" 
+		" -type \"float2\" 0.65625 0.84375"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[765]" 
+		" -type \"float2\" 0.609375 0.3125"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[766]" 
+		" -type \"float2\" 0.609375 0.56172949000000005"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[767]" 
+		" -type \"float2\" 0.59375 0.56172955000000002"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[768]" 
+		" -type \"float2\" 0.60189563000000001 0.26752063999999998"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[769]" 
+		" -type \"float2\" 0.5625 0.56172955000000002"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[770]" 
+		" -type \"float2\" 0.62879127000000001 0.77745878999999996"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[771]" 
+		" -type \"float2\" 0.61048543 0.73326457"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[772]" 
+		" -type \"float2\" 0.58403587000000001 0.54640328999999999"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[773]" 
+		" -type \"float2\" 0.60959708999999995 0.25647207999999999"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[774]" 
+		" -type \"float2\" 0.62879127000000001 0.77745878999999996"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[775]" 
+		" -type \"float2\" 0.63794421999999995 0.79955584000000002"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[776]" 
+		" -type \"float2\" 0.59077352000000005 0.54269129000000005"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[777]" 
+		" -type \"float2\" 0.59375 0.3125"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[778]" 
+		" -type \"float2\" 0.63794421999999995 0.79955584000000002"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[779]" 
+		" -type \"float2\" 0.65625 0.84375005999999997"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[780]" 
+		" -type \"float2\" 0.546875 0.56172955000000002"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[781]" 
+		" -type \"float2\" 0.546875 0.3125"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[782]" 
+		" -type \"float2\" 0.5625 0.3125"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[783]" 
+		" -type \"float2\" 0.55524271999999997 0.71038228000000003"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[784]" 
+		" -type \"float2\" 0.55524271999999997 0.71038228000000003"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[785]" 
+		" -type \"float2\" 0.61048543 0.73326457"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[786]" 
+		" -type \"float2\" 0.63336771999999997 0.89899266"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[787]" 
+		" -type \"float2\" 0.63336771999999997 0.89899271999999997"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[788]" 
+		" -type \"float2\" 0.65625 0.84375"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[789]" 
+		" -type \"float2\" 0.609375 0.3125"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[790]" 
+		" -type \"float2\" 0.609375 0.56172949000000005"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[791]" 
+		" -type \"float2\" 0.59375 0.56172955000000002"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[792]" 
+		" -type \"float2\" 0.60189563000000001 0.26752063999999998"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[793]" 
+		" -type \"float2\" 0.5625 0.56172955000000002"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[794]" 
+		" -type \"float2\" 0.62879127000000001 0.77745878999999996"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[795]" 
+		" -type \"float2\" 0.61048543 0.73326457"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[796]" 
+		" -type \"float2\" 0.58403587000000001 0.54640328999999999"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[797]" 
+		" -type \"float2\" 0.60959708999999995 0.25647207999999999"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[798]" 
+		" -type \"float2\" 0.62879127000000001 0.77745878999999996"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[799]" 
+		" -type \"float2\" 0.63794421999999995 0.79955584000000002"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[800]" 
+		" -type \"float2\" 0.59077352000000005 0.54269129000000005"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[801]" 
+		" -type \"float2\" 0.59375 0.3125"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[802]" 
+		" -type \"float2\" 0.63794421999999995 0.79955584000000002"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[803]" 
+		" -type \"float2\" 0.65625 0.84375005999999997"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[804]" 
+		" -type \"float2\" 0.546875 0.56172949000000005"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[805]" 
+		" -type \"float2\" 0.546875 0.3125"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[806]" 
+		" -type \"float2\" 0.5625 0.3125"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[807]" 
+		" -type \"float2\" 0.55524271999999997 0.71038228000000003"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[808]" 
+		" -type \"float2\" 0.55524271999999997 0.71038228000000003"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[809]" 
+		" -type \"float2\" 0.61048543 0.73326457"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[810]" 
+		" -type \"float2\" 0.63336771999999997 0.89899266"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[811]" 
+		" -type \"float2\" 0.63336771999999997 0.89899271999999997"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[812]" 
+		" -type \"float2\" 0.65625 0.84375"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[813]" 
+		" -type \"float2\" 0.609375 0.3125"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[814]" 
+		" -type \"float2\" 0.609375 0.56172949000000005"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[815]" 
+		" -type \"float2\" 0.59375 0.56172955000000002"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[816]" 
+		" -type \"float2\" 0.60189563000000001 0.26752063999999998"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[817]" 
+		" -type \"float2\" 0.5625 0.56172955000000002"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[818]" 
+		" -type \"float2\" 0.62879127000000001 0.77745878999999996"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[819]" 
+		" -type \"float2\" 0.61048543 0.73326457"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[820]" 
+		" -type \"float2\" 0.58403587000000001 0.54640328999999999"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[821]" 
+		" -type \"float2\" 0.60959708999999995 0.25647207999999999"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[822]" 
+		" -type \"float2\" 0.62879127000000001 0.77745878999999996"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[823]" 
+		" -type \"float2\" 0.63794421999999995 0.79955584000000002"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[824]" 
+		" -type \"float2\" 0.59077352000000005 0.54269129000000005"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[825]" 
+		" -type \"float2\" 0.59375 0.3125"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[826]" 
+		" -type \"float2\" 0.63794421999999995 0.79955584000000002"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[827]" 
+		" -type \"float2\" 0.65625 0.84375005999999997"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[828]" 
+		" -type \"float2\" 0.546875 0.56172955000000002"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[829]" 
+		" -type \"float2\" 0.546875 0.3125"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[830]" 
+		" -type \"float2\" 0.5625 0.3125"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[831]" 
+		" -type \"float2\" 0.55524271999999997 0.71038228000000003"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[832]" 
+		" -type \"float2\" 0.55524271999999997 0.71038228000000003"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[833]" 
+		" -type \"float2\" 0.61048543 0.73326457"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[834]" 
+		" -type \"float2\" 0.63336771999999997 0.89899266"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[835]" 
+		" -type \"float2\" 0.63336771999999997 0.89899271999999997"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[836]" 
+		" -type \"float2\" 0.65625 0.84375"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[837]" 
+		" -type \"float2\" 0.609375 0.3125"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[838]" 
+		" -type \"float2\" 0.609375 0.56172949000000005"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[839]" 
+		" -type \"float2\" 0.59375 0.56172955000000002"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[840]" 
+		" -type \"float2\" 0.59375 0.63125001999999997"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[841]" 
+		" -type \"float2\" 0.609375 0.63125001999999997"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[842]" 
+		" -type \"float2\" 0.546875 0.63125001999999997"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[843]" 
+		" -type \"float2\" 0.5625 0.63125001999999997"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[844]" 
+		" -type \"float2\" 0.25546872999999998 0.65781248000000003"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[845]" 
+		" -type \"float2\" 0.625 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[846]" 
+		" -type \"float2\" 0.625 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[847]" 
+		" -type \"float2\" 0.375 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[848]" 
+		" -type \"float2\" 0.78359376999999997 0.65781248000000003"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[849]" 
+		" -type \"float2\" 0.375 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[850]" 
+		" -type \"float2\" 0.59375 0.63125001999999997"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[851]" 
+		" -type \"float2\" 0.609375 0.63125001999999997"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[852]" 
+		" -type \"float2\" 0.546875 0.63125001999999997"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[853]" 
+		" -type \"float2\" 0.5625 0.63125001999999997"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[854]" 
+		" -type \"float2\" 0.25546872999999998 0.65781248000000003"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[855]" 
+		" -type \"float2\" 0.625 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[856]" 
+		" -type \"float2\" 0.625 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[857]" 
+		" -type \"float2\" 0.375 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[858]" 
+		" -type \"float2\" 0.78359376999999997 0.65781248000000003"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[859]" 
+		" -type \"float2\" 0.375 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[860]" 
+		" -type \"float2\" 0.59375 0.63125001999999997"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[861]" 
+		" -type \"float2\" 0.609375 0.63125001999999997"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[862]" 
+		" -type \"float2\" 0.546875 0.63125001999999997"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[863]" 
+		" -type \"float2\" 0.5625 0.63125001999999997"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[864]" 
+		" -type \"float2\" 0.25546872999999998 0.65781248000000003"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[865]" 
+		" -type \"float2\" 0.625 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[866]" 
+		" -type \"float2\" 0.625 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[867]" 
+		" -type \"float2\" 0.375 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[868]" 
+		" -type \"float2\" 0.78359376999999997 0.65781248000000003"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[869]" 
+		" -type \"float2\" 0.375 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[870]" 
+		" -type \"float2\" 0.59375 0.63125001999999997"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[871]" 
+		" -type \"float2\" 0.609375 0.63125001999999997"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[872]" 
+		" -type \"float2\" 0.546875 0.63125001999999997"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[873]" 
+		" -type \"float2\" 0.5625 0.63125001999999997"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[874]" 
+		" -type \"float2\" 0.25546872999999998 0.65781248000000003"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[875]" 
+		" -type \"float2\" 0.625 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[876]" 
+		" -type \"float2\" 0.625 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[877]" 
+		" -type \"float2\" 0.375 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[878]" 
+		" -type \"float2\" 0.78359376999999997 0.65781248000000003"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[879]" 
+		" -type \"float2\" 0.375 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[880]" 
+		" -type \"float2\" 0.78046875999999998 0.59218751999999997"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[881]" 
+		" -type \"float2\" 0.5625 0.36875001000000002"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[882]" 
+		" -type \"float2\" 0.609375 0.36875001000000002"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[883]" 
+		" -type \"float2\" 0.546875 0.36875001000000002"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[884]" 
+		" -type \"float2\" 0.59375 0.36875001000000002"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[885]" 
+		" -type \"float2\" 0.25859374000000002 0.59218751999999997"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[886]" 
+		" -type \"float2\" 0.375 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[887]" 
+		" -type \"float2\" 0.375 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[888]" 
+		" -type \"float2\" 0.625 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[889]" 
+		" -type \"float2\" 0.78046875999999998 0.59218751999999997"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[890]" 
+		" -type \"float2\" 0.625 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[891]" 
+		" -type \"float2\" 0.5625 0.36875001000000002"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[892]" 
+		" -type \"float2\" 0.609375 0.36875001000000002"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[893]" 
+		" -type \"float2\" 0.546875 0.36875001000000002"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[894]" 
+		" -type \"float2\" 0.59375 0.36875001000000002"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[895]" 
+		" -type \"float2\" 0.25859374000000002 0.59218751999999997"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[896]" 
+		" -type \"float2\" 0.375 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[897]" 
+		" -type \"float2\" 0.375 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[898]" 
+		" -type \"float2\" 0.625 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[899]" 
+		" -type \"float2\" 0.78046875999999998 0.59218751999999997"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[900]" 
+		" -type \"float2\" 0.625 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[901]" 
+		" -type \"float2\" 0.5625 0.36875001000000002"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[902]" 
+		" -type \"float2\" 0.609375 0.36875001000000002"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[903]" 
+		" -type \"float2\" 0.546875 0.36875001000000002"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[904]" 
+		" -type \"float2\" 0.59375 0.36875001000000002"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[905]" 
+		" -type \"float2\" 0.25859374000000002 0.59218751999999997"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[906]" 
+		" -type \"float2\" 0.375 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[907]" 
+		" -type \"float2\" 0.375 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[908]" 
+		" -type \"float2\" 0.625 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[909]" 
+		" -type \"float2\" 0.78046875999999998 0.59218751999999997"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[910]" 
+		" -type \"float2\" 0.625 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[911]" 
+		" -type \"float2\" 0.5625 0.36875001000000002"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[912]" 
+		" -type \"float2\" 0.609375 0.36875001000000002"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[913]" 
+		" -type \"float2\" 0.546875 0.36875001000000002"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[914]" 
+		" -type \"float2\" 0.59375 0.36875001000000002"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[915]" 
+		" -type \"float2\" 0.25859374000000002 0.59218751999999997"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[916]" 
+		" -type \"float2\" 0.375 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[917]" 
+		" -type \"float2\" 0.375 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[918]" 
+		" -type \"float2\" 0.625 0"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[919]" 
+		" -type \"float2\" 0.625 0.25"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[920]" 
+		" -type \"float2\" 0.57187498000000003 0.55230193999999999"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[921]" 
+		" -type \"float2\" 0.5625 0.55230193999999999"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[922]" 
+		" -type \"float2\" 0.609375 0.55230193999999999"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[923]" 
+		" -type \"float2\" 0.546875 0.55230193999999999"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[924]" 
+		" -type \"float2\" 0.59375 0.55230193999999999"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[925]" 
+		" -type \"float2\" 0.58437501999999997 0.55230193999999999"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[926]" 
+		" -type \"float2\" 0.57187498000000003 0.55230193999999999"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[927]" 
+		" -type \"float2\" 0.5625 0.55230193999999999"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[928]" 
+		" -type \"float2\" 0.609375 0.55230193999999999"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[929]" 
+		" -type \"float2\" 0.546875 0.55230193999999999"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[930]" 
+		" -type \"float2\" 0.59375 0.55230193999999999"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[931]" 
+		" -type \"float2\" 0.58437501999999997 0.55230193999999999"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[932]" 
+		" -type \"float2\" 0.57187498000000003 0.55230193999999999"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[933]" 
+		" -type \"float2\" 0.5625 0.55230193999999999"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[934]" 
+		" -type \"float2\" 0.609375 0.55230193999999999"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[935]" 
+		" -type \"float2\" 0.546875 0.55230193999999999"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[936]" 
+		" -type \"float2\" 0.59375 0.55230193999999999"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[937]" 
+		" -type \"float2\" 0.58437501999999997 0.55230193999999999"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[938]" 
+		" -type \"float2\" 0.57187498000000003 0.55230193999999999"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[939]" 
+		" -type \"float2\" 0.5625 0.55230193999999999"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[940]" 
+		" -type \"float2\" 0.609375 0.55230193999999999"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[941]" 
+		" -type \"float2\" 0.546875 0.55230193999999999"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[942]" 
+		" -type \"float2\" 0.59375 0.55230193999999999"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[943]" 
+		" -type \"float2\" 0.58437501999999997 0.55230193999999999"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[944]" 
+		" -type \"float2\" 0.59375 0.44769808999999999"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[945]" 
+		" -type \"float2\" 0.609375 0.44769808999999999"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[946]" 
+		" -type \"float2\" 0.546875 0.44769808999999999"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[947]" 
+		" -type \"float2\" 0.5625 0.44769808999999999"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[948]" 
+		" -type \"float2\" 0.57187498000000003 0.44769811999999998"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[949]" 
+		" -type \"float2\" 0.58437501999999997 0.44769811999999998"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[950]" 
+		" -type \"float2\" 0.59375 0.44769808999999999"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[951]" 
+		" -type \"float2\" 0.609375 0.44769808999999999"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[952]" 
+		" -type \"float2\" 0.546875 0.44769808999999999"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[953]" 
+		" -type \"float2\" 0.5625 0.44769808999999999"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[954]" 
+		" -type \"float2\" 0.57187498000000003 0.44769811999999998"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[955]" 
+		" -type \"float2\" 0.58437501999999997 0.44769811999999998"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[956]" 
+		" -type \"float2\" 0.59375 0.44769808999999999"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[957]" 
+		" -type \"float2\" 0.609375 0.44769808999999999"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[958]" 
+		" -type \"float2\" 0.546875 0.44769808999999999"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[959]" 
+		" -type \"float2\" 0.5625 0.44769808999999999"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[960]" 
+		" -type \"float2\" 0.57187498000000003 0.44769811999999998"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[961]" 
+		" -type \"float2\" 0.58437501999999997 0.44769811999999998"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[962]" 
+		" -type \"float2\" 0.59375 0.44769808999999999"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[963]" 
+		" -type \"float2\" 0.609375 0.44769808999999999"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[964]" 
+		" -type \"float2\" 0.546875 0.44769808999999999"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[965]" 
+		" -type \"float2\" 0.5625 0.44769808999999999"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[966]" 
+		" -type \"float2\" 0.57187498000000003 0.44769811999999998"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[967]" 
+		" -type \"float2\" 0.58437501999999997 0.44769811999999998"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[968]" 
+		" -type \"float2\" 0 1"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[969]" 
+		" -type \"float2\" 0 1"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[970]" 
+		" -type \"float2\" 0 1"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[971]" 
+		" -type \"float2\" 0 1"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[972]" 
+		" -type \"float2\" 0 1"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[973]" 
+		" -type \"float2\" 0 1"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[974]" 
+		" -type \"float2\" 0 1"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[975]" 
+		" -type \"float2\" 0 1"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[976]" 
+		" -type \"float2\" 0 1"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[977]" 
+		" -type \"float2\" 0 1"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[978]" 
+		" -type \"float2\" 0 1"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[979]" 
+		" -type \"float2\" 0 1"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[980]" 
+		" -type \"float2\" 0 1"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[981]" 
+		" -type \"float2\" 0 1"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[982]" 
+		" -type \"float2\" 0 1"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[983]" 
+		" -type \"float2\" 0 1"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[984]" 
+		" -type \"float2\" 0 1"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[985]" 
+		" -type \"float2\" 0 1"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[986]" 
+		" -type \"float2\" 0 1"
+		2 "|Unit5_LabScene:polySurface6|Unit5_LabScene:polySurface6Shape" "uvSet[0].uvSetPoints[987]" 
+		" -type \"float2\" 0 1";
 	setAttr ".ptag" -type "string" "";
 lockNode -l 1 ;
 createNode reference -n "sharedReferenceNode";
@@ -2195,8 +3387,42 @@ createNode reference -n "pillowCouchRN";
 	rename -uid "EE9136C7-451B-F9AF-FA2C-94B284A36C58";
 	setAttr ".ed" -type "dataReferenceEdits" 
 		"pillowCouchRN"
-		"pillowCouchRN" 0
-		"pillowCouchRN" 5
+		"pillowCouchRN" 16
+		3 ".instObjGroups.objectGroups[0]" ":initialShadingGroup.dagSetMembers" "-na"
+		
+		3 ":initialShadingGroup.memberWireframeColor" ".instObjGroups.objectGroups[0].objectGrpColor" 
+		""
+		3 ".instObjGroups.objectGroups[0]" ":initialShadingGroup.dagSetMembers" "-na"
+		
+		3 ":initialShadingGroup.memberWireframeColor" ".instObjGroups.objectGroups[0].objectGrpColor" 
+		""
+		3 ".instObjGroups.objectGroups[0]" ":initialShadingGroup.dagSetMembers" "-na"
+		
+		3 ":initialShadingGroup.memberWireframeColor" ".instObjGroups.objectGroups[0].objectGrpColor" 
+		""
+		3 ".instObjGroups.objectGroups[0]" ":initialShadingGroup.dagSetMembers" "-na"
+		
+		3 ":initialShadingGroup.memberWireframeColor" ".instObjGroups.objectGroups[0].objectGrpColor" 
+		""
+		3 ".instObjGroups.objectGroups[0]" ":initialShadingGroup.dagSetMembers" "-na"
+		
+		3 ":initialShadingGroup.memberWireframeColor" ".instObjGroups.objectGroups[0].objectGrpColor" 
+		""
+		3 ".instObjGroups.objectGroups[0]" ":initialShadingGroup.dagSetMembers" "-na"
+		
+		3 ":initialShadingGroup.memberWireframeColor" ".instObjGroups.objectGroups[0].objectGrpColor" 
+		""
+		3 ".instObjGroups.objectGroups[0]" ":initialShadingGroup.dagSetMembers" "-na"
+		
+		3 ":initialShadingGroup.memberWireframeColor" ".instObjGroups.objectGroups[0].objectGrpColor" 
+		""
+		3 ".instObjGroups.objectGroups[0]" ":initialShadingGroup.dagSetMembers" "-na"
+		
+		3 ":initialShadingGroup.memberWireframeColor" ".instObjGroups.objectGroups[0].objectGrpColor" 
+		""
+		"pillowCouchRN" 6
+		0 "|pillowCouch:loftedSurface3|pillowCouch:loftedSurface3Shape" "|loftedSurface1" 
+		"-s -r -add "
 		2 "|pillowCouch:loftedSurface3" "translate" " -type \"double3\" -11.22164582758486162 4.76715704406933938 -4.55494760859635051"
 		
 		2 "|pillowCouch:loftedSurface3" "rotate" " -type \"double3\" 66.58104765173663964 1.81367860776159695 -4.24141772359815405"
@@ -2209,11 +3435,59 @@ createNode reference -n "pillowCouchRN";
 	setAttr ".ptag" -type "string" "";
 lockNode -l 1 ;
 createNode groupId -n "groupId174";
-	rename -uid "9B3F0993-4CE9-E735-E135-94AD431A1C0D";
+	rename -uid "7FFB73FD-47BE-F785-4BD1-6C9EBEA0C6DC";
 	setAttr ".ihi" 0;
 createNode groupId -n "groupId175";
-	rename -uid "04C7E23E-4CB1-3D90-CFB4-DB9175C4D7C2";
+	rename -uid "C44E1449-4210-E974-A4E2-FA9405813566";
 	setAttr ".ihi" 0;
+createNode groupId -n "groupId176";
+	rename -uid "82E3B545-473E-A9BE-5FCC-CB90E20A159D";
+	setAttr ".ihi" 0;
+createNode groupId -n "groupId177";
+	rename -uid "381DD53A-4774-AD5D-3A09-B3BB90875D9E";
+	setAttr ".ihi" 0;
+createNode groupId -n "groupId178";
+	rename -uid "D8DF1455-474A-A410-D009-1BB1661685FA";
+	setAttr ".ihi" 0;
+createNode groupId -n "groupId179";
+	rename -uid "51B4414F-4CA3-9B7A-2E4C-ACA5082A2638";
+	setAttr ".ihi" 0;
+createNode groupId -n "groupId180";
+	rename -uid "0018E1D7-47A8-186C-A4B2-E6942A5F924B";
+	setAttr ".ihi" 0;
+createNode groupId -n "groupId181";
+	rename -uid "E881D3E4-42D5-49DE-3A41-DC83A08AFF76";
+	setAttr ".ihi" 0;
+createNode groupId -n "groupId182";
+	rename -uid "ED250F18-41BE-64CB-1B6E-F59B35ED3005";
+	setAttr ".ihi" 0;
+createNode groupId -n "groupId183";
+	rename -uid "469406B8-4CA3-4D6D-9412-FDBE40BC0AAD";
+	setAttr ".ihi" 0;
+createNode groupId -n "groupId184";
+	rename -uid "4458A49F-4C83-1138-237A-FC9235B8CD02";
+	setAttr ".ihi" 0;
+createNode groupId -n "groupId185";
+	rename -uid "06A2AD74-40FF-4C3E-E011-428ACE5499B3";
+	setAttr ".ihi" 0;
+createNode groupId -n "groupId186";
+	rename -uid "856556A4-4FBF-DD2D-3B94-8BB0F843809A";
+	setAttr ".ihi" 0;
+createNode reference -n "Unit5_LabSceneRN1";
+	rename -uid "70E448B1-460C-66CD-4D86-C9A1C03D76B0";
+	setAttr ".ed" -type "dataReferenceEdits" 
+		"Unit5_LabSceneRN1"
+		"Unit5_LabSceneRN1" 0
+		"Unit5_LabSceneRN1" 4
+		2 "|Unit5_LabScene1:polySurface6" "translate" " -type \"double3\" -12.92949425259456042 0 -9.51220001032837281"
+		
+		2 "|Unit5_LabScene1:polySurface6" "rotate" " -type \"double3\" 0 45.72759757226369715 0"
+		
+		2 "|Unit5_LabScene1:polySurface6" "scale" " -type \"double3\" 1.19438477000189436 1.19438477000189436 1.19438477000189436"
+		
+		2 "|Unit5_LabScene1:polySurface6" "rotatePivotTranslate" " -type \"double3\" 0 0 0";
+	setAttr ".ptag" -type "string" "";
+lockNode -l 1 ;
 select -ne :time1;
 	setAttr ".o" 1;
 	setAttr ".unw" 1;
@@ -2233,21 +3507,23 @@ select -ne :defaultShaderList1;
 select -ne :postProcessList1;
 	setAttr -s 2 ".p";
 select -ne :defaultRenderUtilityList1;
+	setAttr -s 6 ".u";
 select -ne :defaultRenderingList1;
-	setAttr -s 5 ".r";
+	setAttr -s 8 ".r";
 select -ne :defaultTextureList1;
+	setAttr -s 6 ".tx";
 select -ne :standardSurface1;
-	setAttr ".bc" -type "float3" 0.40000001 0.40000001 0.40000001 ;
 	setAttr ".sr" 0.5;
 select -ne :openPBR_shader1;
 	setAttr ".sr" 0.5;
 select -ne :initialShadingGroup;
-	setAttr -s 25 ".dsm";
+	setAttr -s 24 ".dsm";
 	setAttr ".ro" yes;
-	setAttr -s 21 ".gn";
+	setAttr -s 30 ".gn";
 select -ne :initialParticleSE;
 	setAttr ".ro" yes;
 select -ne :initialMaterialInfo;
+	setAttr -s 6 ".t";
 select -ne :defaultRenderGlobals;
 	addAttr -ci true -h true -sn "dss" -ln "defaultSurfaceShader" -dt "string";
 	setAttr ".ren" -type "string" "arnold";
@@ -2266,14 +3542,10 @@ select -ne :defaultColorMgtGlobals;
 select -ne :hardwareRenderGlobals;
 	setAttr ".ctrs" 256;
 	setAttr ".btrs" 512;
-connectAttr "groupId172.id" "wallShape1.iog.og[0].gid";
+connectAttr "groupId183.id" "wallShape1.iog.og[0].gid";
 connectAttr ":initialShadingGroup.mwc" "wallShape1.iog.og[0].gco";
-connectAttr "groupId173.id" "wallShape1.iog.og[1].gid";
+connectAttr "groupId184.id" "wallShape1.iog.og[1].gid";
 connectAttr ":initialShadingGroup.mwc" "wallShape1.iog.og[1].gco";
-connectAttr "polySplit10.out" "wallShape1.i";
-connectAttr "groupId174.id" "loftedSurface3Shape.iog.og[0].gid";
-connectAttr ":initialShadingGroup.mwc" "loftedSurface3Shape.iog.og[0].gco";
-connectAttr "groupId175.id" "loftedSurface3Shape.ciog.cog[1].cgid";
 relationship "link" ":lightLinker1" ":initialShadingGroup.message" ":defaultLightSet.message";
 relationship "link" ":lightLinker1" ":initialParticleSE.message" ":defaultLightSet.message";
 relationship "shadowLink" ":lightLinker1" ":initialShadingGroup.message" ":defaultLightSet.message";
@@ -2287,20 +3559,6 @@ connectAttr ":defaultArnoldDisplayDriver.msg" ":defaultArnoldRenderOptions.drive
 connectAttr ":defaultArnoldFilter.msg" ":defaultArnoldRenderOptions.filt";
 connectAttr ":defaultArnoldDriver.msg" ":defaultArnoldRenderOptions.drvr";
 connectAttr "layerManager.dli[1]" "Floor.id";
-connectAttr "groupParts2.og" "polySplit1.ip";
-connectAttr "polySurfaceShape1.o" "groupParts1.ig";
-connectAttr "groupId172.id" "groupParts1.gi";
-connectAttr "groupParts1.og" "groupParts2.ig";
-connectAttr "groupId173.id" "groupParts2.gi";
-connectAttr "polySplit1.out" "polySplit2.ip";
-connectAttr "polySplit2.out" "polySplit3.ip";
-connectAttr "polySplit3.out" "polySplit4.ip";
-connectAttr "polySplit4.out" "polySplit5.ip";
-connectAttr "polySplit5.out" "polySplit6.ip";
-connectAttr "polySplit6.out" "polySplit7.ip";
-connectAttr "polySplit7.out" "polySplit8.ip";
-connectAttr "polySplit8.out" "polySplit9.ip";
-connectAttr "polySplit9.out" "polySplit10.ip";
 connectAttr "Couch_translateX.o" "couchRN.phl[1]";
 connectAttr "Couch_translateY.o" "couchRN.phl[2]";
 connectAttr "Couch_translateZ.o" "couchRN.phl[3]";
@@ -2312,17 +3570,25 @@ connectAttr "Couch_scaleY.o" "couchRN.phl[8]";
 connectAttr "Couch_scaleZ.o" "couchRN.phl[9]";
 connectAttr "Couch_visibility.o" "couchRN.phl[10]";
 connectAttr "sharedReferenceNode.sr" "couchRN.sr";
+connectAttr "sharedReferenceNode.sr" "Unit5_LabSceneRN.sr";
 connectAttr "defaultRenderLayer.msg" ":defaultRenderingList1.r" -na;
 connectAttr "floorShape0.iog" ":initialShadingGroup.dsm" -na;
 connectAttr "wallShape0.iog" ":initialShadingGroup.dsm" -na;
 connectAttr "wallShape1.iog.og[0]" ":initialShadingGroup.dsm" -na;
 connectAttr "wallShape1.iog.og[1]" ":initialShadingGroup.dsm" -na;
-connectAttr "loftedSurface3Shape.iog.og[0]" ":initialShadingGroup.dsm" -na;
-connectAttr "loftedSurface3Shape.ciog.cog[1]" ":initialShadingGroup.dsm" -na;
 connectAttr "groupId9.msg" ":initialShadingGroup.gn" -na;
 connectAttr "groupId27.msg" ":initialShadingGroup.gn" -na;
-connectAttr "groupId172.msg" ":initialShadingGroup.gn" -na;
-connectAttr "groupId173.msg" ":initialShadingGroup.gn" -na;
 connectAttr "groupId174.msg" ":initialShadingGroup.gn" -na;
 connectAttr "groupId175.msg" ":initialShadingGroup.gn" -na;
+connectAttr "groupId176.msg" ":initialShadingGroup.gn" -na;
+connectAttr "groupId177.msg" ":initialShadingGroup.gn" -na;
+connectAttr "groupId178.msg" ":initialShadingGroup.gn" -na;
+connectAttr "groupId179.msg" ":initialShadingGroup.gn" -na;
+connectAttr "groupId180.msg" ":initialShadingGroup.gn" -na;
+connectAttr "groupId181.msg" ":initialShadingGroup.gn" -na;
+connectAttr "groupId182.msg" ":initialShadingGroup.gn" -na;
+connectAttr "groupId183.msg" ":initialShadingGroup.gn" -na;
+connectAttr "groupId184.msg" ":initialShadingGroup.gn" -na;
+connectAttr "groupId185.msg" ":initialShadingGroup.gn" -na;
+connectAttr "groupId186.msg" ":initialShadingGroup.gn" -na;
 // End of RoomScene.ma
